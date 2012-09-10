@@ -64,12 +64,13 @@ class FileDownloader:
 			if r.status_code == 200:
 				f = open(dataPath, "w")
 				f.write(r.text.encode('utf-8'))
+				f.close()
 				self._data = r.text.encode('utf-8')
 				self._isLoaded = True
 		else:
 			log(dataPath + " exists already. Skipping Download")
 			f = open(dataPath, "r")
-			self._data = f.read().encode('utf-8')
+			self._data = f.read()
 			self._isLoaded = True
 
 	def isLoaded(self):
@@ -100,6 +101,7 @@ class UserFile(FileDownloader):
 	def loadData(self):
 		self.download()
 
+	def loadChangeSetData():
 		if self._isLoaded:
 			self._user = User()
 			self._user.loadChangesetFromString(self._data)
@@ -123,7 +125,8 @@ class UserFile(FileDownloader):
 def main():
 	#test = UserFile("bimal(Adyota)")
 	test = UserFile("prabhasp")
-	test.loadData();
+	test.loadData()
+	test.loadChangeSetData()
 
 if __name__ == '__main__':
 	main()
