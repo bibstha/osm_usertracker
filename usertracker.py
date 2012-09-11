@@ -161,8 +161,8 @@ class UserFile(FileDownloader):
 			self._user = User()
 			self._user.loadChangesetFromString(self._data)
 			self._user.loadValuesFromChangeset()
-			print(self._user._uid)
-			print(self._user._user)
+			print "UserId :", self._user._uid
+			print "UserName :", self._user._user
 			changesetIdList = self._user.getChangesetIdList()
 			for changesetId in changesetIdList:
 				changesetFile = UserChangeFile(changesetId)
