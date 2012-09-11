@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server">
+  <changeset id="13042800" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-09T10:33:10Z" closed_at="2012-09-09T10:33:19Z" open="false" min_lat="27.668431" min_lon="85.3422345" max_lat="27.6790258" max_lon="85.3526289">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Bishwamitra Galli, Garg Galli, corrected position  of other residential roads"/>
+  </changeset>
+  <changeset id="13042555" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-09T10:04:35Z" closed_at="2012-09-09T10:04:50Z" open="false" min_lat="27.6669023" min_lon="85.3384197" max_lat="27.7102348" max_lon="85.4105636">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Names of Sidha Galli, a Bridge,"/>
+  </changeset>
+  <changeset id="13042350" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-09T09:42:04Z" closed_at="2012-09-09T09:42:17Z" open="false" min_lat="27.6683903" min_lon="85.3416391" max_lat="27.6788762" max_lon="85.3538417">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added names of Kot Devi Marga, Nahar Marga, Kalo O.P. marga, Devasthal Margga, Surya Kot Marga, and some minor polygon corrections"/>
+  </changeset>
+  <changeset id="13042105" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-09T09:16:34Z" closed_at="2012-09-09T09:16:40Z" open="false" min_lat="27.6710245" min_lon="85.3418446" max_lat="27.6785903" max_lon="85.3495658">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Manhara Marga and minor road corrections"/>
+  </changeset>
+  <changeset id="13042043" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-09T09:10:19Z" closed_at="2012-09-09T09:10:26Z" open="false" min_lat="27.6759857" min_lon="85.3419349" max_lat="27.6759857" max_lon="85.3419349">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Fulbaari"/>
+  </changeset>
+  <changeset id="13041762" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-09T08:39:00Z" closed_at="2012-09-09T08:39:10Z" open="false" min_lat="27.6748914" min_lon="85.3331338" max_lat="27.6869324" max_lon="85.347148">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added names of Baskuki Marga, Mahadevasthan Heights, Sahayogi Nagar, Seti O.P., Thulodhara, Buddha Galli, Dhunge Dhara Galli, Mukul Marga, Nava Aadarsha Marga, Shree Galli, Samparka Marga, Suganda Marga"/>
+  </changeset>
+  <changeset id="13041333" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-09T07:54:32Z" closed_at="2012-09-09T07:54:37Z" open="false" min_lat="27.6736074" min_lon="85.3368936" max_lat="27.6802071" max_lon="85.3456005">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added names of Manoram Marga, Chetan Galli, Amaravati Marga, Chautarfi Marga, Fulbaari Nagar Marga, SOS Magra, Sangam Bindu Galli, Shankar Marga, Shiva Marga, Shubhakana Marga in Tinkune-Koteshwor area"/>
+  </changeset>
+  <changeset id="13041133" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-09T07:33:58Z" closed_at="2012-09-09T07:34:07Z" open="false" min_lat="27.6743748" min_lon="85.336564" max_lat="27.6837125" max_lon="85.3502417">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added names of Milan Marga, Pushpa Marga, Sahyogi Nagar Marga, Shiddha Marga, Subhida Marga in Tinkune-Koteshwork Marga"/>
+  </changeset>
+  <changeset id="13040763" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-09T06:34:44Z" closed_at="2012-09-09T06:34:47Z" open="false" min_lat="27.6815344" min_lon="85.3430788" max_lat="27.6846533" max_lon="85.3492159">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Pancheshwor and Jagriti Galli"/>
+  </changeset>
+  <changeset id="13040707" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-09T06:22:46Z" closed_at="2012-09-09T06:22:50Z" open="false" min_lat="27.6813457" min_lon="85.3428724" max_lat="27.6864655" max_lon="85.3491287">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Subidhanagar, Kantipur Marga, Mitra Marga, Sukumar Marga."/>
+  </changeset>
+  <changeset id="13040497" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-09T05:36:26Z" closed_at="2012-09-09T05:36:30Z" open="false" min_lat="27.6855569" min_lon="85.3460482" max_lat="27.6911364" max_lon="85.351087">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Aditi, Gauri, Milan Basti, Raja Janak, Sairam and Shakti Binayak Marga around Tinkune"/>
+  </changeset>
+  <changeset id="12984318" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T16:47:23Z" closed_at="2012-09-04T16:47:27Z" open="false" min_lat="27.7144747" min_lon="85.326788" max_lat="27.7191758" max_lon="85.3322232">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Updated Names"/>
+  </changeset>
+  <changeset id="12984251" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T16:41:32Z" closed_at="2012-09-04T16:41:35Z" open="false" min_lat="27.7150059" min_lon="85.3254137" max_lat="27.7157188" max_lon="85.326925">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Corrected Names"/>
+  </changeset>
+  <changeset id="12984167" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T16:33:25Z" closed_at="2012-09-04T16:33:28Z" open="false" min_lat="27.7142562" min_lon="85.3292176" max_lat="27.7162589" max_lon="85.3302536">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Corrected Names"/>
+  </changeset>
+  <changeset id="12983806" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T16:03:33Z" closed_at="2012-09-04T16:03:38Z" open="false" min_lat="27.7211414" min_lon="85.3279783" max_lat="27.7233724" max_lon="85.3313528">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Baidehi Group, Group for Transcultural Relationship, Karuna Interiors, Temple Travels and Tours. Also created a polygon for National College. Plus corrected the location of Biruwa Ventures and Buzz Cafe."/>
+  </changeset>
+  <changeset id="12983738" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T15:57:25Z" closed_at="2012-09-04T15:57:29Z" open="false" min_lat="27.7216547" min_lon="85.3309649" max_lat="27.7221569" max_lon="85.331323">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Nayoz Eatery, Motherland Academy and Shukunda Boutique"/>
+  </changeset>
+  <changeset id="12983693" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T15:53:54Z" closed_at="2012-09-04T15:53:58Z" open="false" min_lat="27.7219653" min_lon="85.3311985" max_lat="27.7225612" max_lon="85.331638">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Step-In Cafe, Pioneer Overseas and National Development Volunteer Service"/>
+  </changeset>
+  <changeset id="12983621" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T15:48:51Z" closed_at="2012-09-04T15:48:54Z" open="false" min_lat="27.722644" min_lon="85.3290036" max_lat="27.7240576" max_lon="85.3313002">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added BioMed Hospital and  Surya Dry Cleaners"/>
+  </changeset>
+  <changeset id="12983597" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T15:46:31Z" closed_at="2012-09-04T15:46:37Z" open="false" min_lat="27.723658" min_lon="85.329037" max_lat="27.7240374" max_lon="85.3311956">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Vinayak Housing and JUMPS Kids Club"/>
+  </changeset>
+  <changeset id="12983561" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T15:43:19Z" closed_at="2012-09-04T15:43:23Z" open="false" min_lat="27.7176899" min_lon="85.3277835" max_lat="27.7247354" max_lon="85.3311852">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added a galli, Shangrila Holidays and Adventures, and, Continential HRD Consultants"/>
+  </changeset>
+  <changeset id="12983493" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T15:37:33Z" closed_at="2012-09-04T15:37:36Z" open="false" min_lat="27.7216788" min_lon="85.3277716" max_lat="27.7216788" max_lon="85.3277716">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Baluwatar Cricket Club"/>
+  </changeset>
+  <changeset id="12983475" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T15:35:48Z" closed_at="2012-09-04T15:35:53Z" open="false" min_lat="27.7212235" min_lon="85.3275804" max_lat="27.7218391" max_lon="85.3283837">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Shree Jaya Goma Ganesh Oil Store, Shree Swait Kaali Mai Mandir, Kawasaki Service Center and Western Union Overseas"/>
+  </changeset>
+  <changeset id="12983349" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T15:26:35Z" closed_at="2012-09-04T15:26:39Z" open="false" min_lat="27.7145626" min_lon="85.3271979" max_lat="27.7176115" max_lon="85.3302888">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Fixed Open node of Police Headquarters"/>
+  </changeset>
+  <changeset id="12983315" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T15:24:17Z" closed_at="2012-09-04T15:24:21Z" open="false" min_lat="27.7227677" min_lon="85.3284609" max_lat="27.723433" max_lon="85.3289798">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Thamserku Trekking and Osho Vatika"/>
+  </changeset>
+  <changeset id="12983260" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T15:19:27Z" closed_at="2012-09-04T15:19:33Z" open="false" min_lat="27.7198199" min_lon="85.3279372" max_lat="27.7229597" max_lon="85.3301585">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Mount Gaurishankar School, Dish Nepal Satellite Station and Alice Restaurant"/>
+  </changeset>
+  <changeset id="12983113" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T15:08:31Z" closed_at="2012-09-04T15:08:35Z" open="false" min_lat="27.7196253" min_lon="85.3276535" max_lat="27.7204929" max_lon="85.3283999">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added SANN International College"/>
+  </changeset>
+  <changeset id="12982905" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T14:52:39Z" closed_at="2012-09-04T14:52:42Z" open="false" min_lat="27.7172819" min_lon="85.3255902" max_lat="27.7200958" max_lon="85.3283589">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Namaste Kitchen and Banquet"/>
+  </changeset>
+  <changeset id="12982879" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T14:50:01Z" closed_at="2012-09-04T14:50:05Z" open="false" min_lat="27.7189373" min_lon="85.3279352" max_lat="27.7195584" max_lon="85.3286408">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Wheels.Com, Bajra Tour Service, Gairidhara Club and Jor Pipal Saving and Cooperative"/>
+  </changeset>
+  <changeset id="12982824" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T14:44:15Z" closed_at="2012-09-04T14:44:17Z" open="false" min_lat="27.7179695" min_lon="85.327922" max_lat="27.7184147" max_lon="85.328088">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Employment Link Nepal"/>
+  </changeset>
+  <changeset id="12982808" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T14:42:54Z" closed_at="2012-09-04T14:42:58Z" open="false" min_lat="27.7180084" min_lon="85.3279369" max_lat="27.7180262" max_lon="85.3279398">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Hotel Assocation Nepal and Surya Life Insurance Company Limited"/>
+  </changeset>
+  <changeset id="12982789" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T14:40:27Z" closed_at="2012-09-04T14:40:32Z" open="false" min_lat="27.717825" min_lon="85.327596" max_lat="27.7182285" max_lon="85.3278742">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Sunrise bank"/>
+  </changeset>
+  <changeset id="12982773" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T14:38:39Z" closed_at="2012-09-04T14:38:41Z" open="false" min_lat="27.7178072" min_lon="85.3278979" max_lat="27.7179026" max_lon="85.3280477">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Eicher Bus and Trucks Showroom"/>
+  </changeset>
+  <changeset id="12982754" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T14:36:23Z" closed_at="2012-09-04T14:36:27Z" open="false" min_lat="27.7145372" min_lon="85.3271694" max_lat="27.7176641" max_lon="85.3303889">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Batas Fiat Showroom"/>
+  </changeset>
+  <changeset id="12982728" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T14:33:41Z" closed_at="2012-09-04T14:33:44Z" open="false" min_lat="27.7145263" min_lon="85.3271944" max_lat="27.717837" max_lon="85.3303326">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Goma Ganesh Temple, NATTA Info and Media Center and Nepal Association of Travel and Tour Agents"/>
+  </changeset>
+  <changeset id="12982588" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T14:20:57Z" closed_at="2012-09-04T14:20:59Z" open="false" min_lat="27.7153126" min_lon="85.3269844" max_lat="27.7154891" max_lon="85.3271794">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Little Kingdom International School"/>
+  </changeset>
+  <changeset id="12982553" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-04T14:17:44Z" closed_at="2012-09-04T14:17:46Z" open="false" min_lat="27.7151048" min_lon="85.3269996" max_lat="27.7151048" max_lon="85.3269996">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added UK Visa Application Center"/>
+  </changeset>
+  <changeset id="12952293" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T11:08:22Z" closed_at="2012-09-02T12:08:23Z" open="false" min_lat="27.6944961" min_lon="85.3228554" max_lat="27.6944961" max_lon="85.3228554">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Babarmahal Revisited"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12952276" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T11:07:01Z" closed_at="2012-09-02T11:07:28Z" open="false" min_lat="27.6940474" min_lon="85.3237378" max_lat="27.6943433" max_lon="85.325556">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Department of Urban Development and Bridge Construction, Ministry of Law"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12952236" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T11:04:05Z" closed_at="2012-09-02T11:04:49Z" open="false" min_lat="27.6939808" min_lon="85.3249824" max_lat="27.6939808" max_lon="85.3249824">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Kathmandu District Court"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+  </changeset>
+  <changeset id="12952201" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T11:00:56Z" closed_at="2012-09-02T11:03:35Z" open="false" min_lat="27.6923495" min_lon="85.3248232" max_lat="27.6940399" max_lon="85.3266051">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added CDO Office, Department of Hydrology and Meteorology, District Administrative Office, and NMB Bank "/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+  </changeset>
+  <changeset id="12952160" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T10:57:44Z" closed_at="2012-09-02T11:00:25Z" open="false" min_lat="27.6934844" min_lon="85.3262055" max_lat="27.693824" max_lon="85.3263825">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added National Investigation Department and Siddhartha Insurance Limited"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+  </changeset>
+  <changeset id="12952113" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T10:53:35Z" closed_at="2012-09-02T11:53:35Z" open="false" min_lat="27.6935485" min_lon="85.3277393" max_lat="27.6935485" max_lon="85.3277393">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Eatempus"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+  </changeset>
+  <changeset id="12952059" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T10:49:54Z" closed_at="2012-09-02T10:50:01Z" open="false" min_lat="27.6935273" min_lon="85.3277205" max_lat="27.6935273" max_lon="85.3277205">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12952029" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T10:47:53Z" closed_at="2012-09-02T10:49:41Z" open="false" min_lat="27.6928029" min_lon="85.3273942" max_lat="27.6938244" max_lon="85.3289785">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Abhiyan Law Firm and Federation of Contractors' Association of Nepal"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12951943" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T10:42:05Z" closed_at="2012-09-02T10:45:07Z" open="false" min_lat="27.6918314" min_lon="85.3286512" max_lat="27.6928979" max_lon="85.3311001">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Kist Bank and Twenty First Communications"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12951913" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T10:40:16Z" closed_at="2012-09-02T10:40:26Z" open="false" min_lat="27.6915987" min_lon="85.3318806" max_lat="27.6915987" max_lon="85.3318806">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Deneb International School"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12951817" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T10:32:36Z" closed_at="2012-09-02T10:33:06Z" open="false" min_lat="27.6912947" min_lon="85.3163842" max_lat="27.691997" max_lon="85.3173988">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Bluebird Department Store"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12951770" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T10:29:17Z" closed_at="2012-09-02T10:32:10Z" open="false" min_lat="27.6886496" min_lon="85.3155448" max_lat="27.6915814" max_lon="85.3218662">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Updated Prashuti Marga  and Newari Kitchen"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12951731" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T10:26:25Z" closed_at="2012-09-02T10:28:22Z" open="false" min_lat="27.6911498" min_lon="85.3178629" max_lat="27.6924516" max_lon="85.3184927">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Kumari Temple, Hyundai Showroom, Macchapuchre Bank"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12951660" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T10:21:06Z" closed_at="2012-09-02T10:24:35Z" open="false" min_lat="27.6930475" min_lon="85.3176256" max_lat="27.6938263" max_lon="85.3222358">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Central Bureau of Statistics and The Kennel Club"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12951602" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T10:16:09Z" closed_at="2012-09-02T10:18:32Z" open="false" min_lat="27.6914503" min_lon="85.3244082" max_lat="27.6924916" max_lon="85.3251669">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Civil Aviation Authority and Forest Department"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12951535" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T10:09:30Z" closed_at="2012-09-02T10:13:01Z" open="false" min_lat="27.6896713" min_lon="85.3232553" max_lat="27.6920142" max_lon="85.3297617">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Department of Drug Administration"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12951497" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T10:06:33Z" closed_at="2012-09-02T10:07:54Z" open="false" min_lat="27.6896811" min_lon="85.3305231" max_lat="27.6899313" max_lon="85.3308333">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Updated NCell office"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12951312" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T09:50:43Z" closed_at="2012-09-02T10:50:43Z" open="false" min_lat="27.7146789" min_lon="85.3272861" max_lat="27.7146789" max_lon="85.3272861">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added City Banquet"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12951114" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T09:35:43Z" closed_at="2012-09-02T10:43:58Z" open="false" min_lat="27.7132194" min_lon="85.3260498" max_lat="27.7150338" max_lon="85.3317881">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Updated Nepal Association of Fine Arts Gallery"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12950990" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T09:26:49Z" closed_at="2012-09-02T09:31:42Z" open="false" min_lat="27.7167236" min_lon="85.3328135" max_lat="27.7173174" max_lon="85.3337688">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12950979" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T09:25:48Z" closed_at="2012-09-02T10:25:49Z" open="false" min_lat="27.7178585" min_lon="85.333185" max_lat="27.7317148" max_lon="85.3408695">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Banshidhar Marga"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12950897" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T09:18:59Z" closed_at="2012-09-02T09:20:22Z" open="false" min_lat="27.7192993" min_lon="85.3350966" max_lat="27.7275403" max_lon="85.3370949">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Tundal Devi Temple and Adobe Treks and Expedition"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12950817" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T09:11:50Z" closed_at="2012-09-02T10:11:51Z" open="false" min_lat="27.722197" min_lon="85.3358052" max_lat="27.7247923" max_lon="85.3375776">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Road Correcton"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12950793" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T09:09:58Z" closed_at="2012-09-02T09:11:09Z" open="false" min_lat="27.7219144" min_lon="85.3354131" max_lat="27.7220965" max_lon="85.3355649">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Finland Embassy"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12950270" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T08:15:57Z" closed_at="2012-09-02T09:35:31Z" open="false" min_lat="27.7220467" min_lon="85.3235172" max_lat="27.7352245" max_lon="85.3430555">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Children's Model high School"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12950198" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T08:06:00Z" closed_at="2012-09-02T08:06:04Z" open="false" min_lat="27.7246487" min_lon="85.3311211" max_lat="27.7255911" max_lon="85.3333905">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Lamatangin Marga (Road) and Prayash Nepal"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+  </changeset>
+  <changeset id="12950129" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T07:57:39Z" closed_at="2012-09-02T07:57:42Z" open="false" min_lat="27.7245995" min_lon="85.3308399" max_lat="27.7265409" max_lon="85.3311162">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Ward No. 4 office and Meridian International School"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12950102" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T07:54:22Z" closed_at="2012-09-02T07:54:26Z" open="false" min_lat="27.7246192" min_lon="85.3223406" max_lat="27.7276104" max_lon="85.331384">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Tapasthali Bridhashram, name of Pandol Marga, and Legal Advice and Research Center"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12949605" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T06:43:50Z" closed_at="2012-09-02T06:44:00Z" open="false" min_lat="27.714047" min_lon="85.3278621" max_lat="27.7357875" max_lon="85.3418817">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Road Corrections"/>
+  </changeset>
+  <changeset id="12949555" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T06:35:39Z" closed_at="2012-09-02T06:35:43Z" open="false" min_lat="27.7182383" min_lon="85.3309775" max_lat="27.7252261" max_lon="85.3376263">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Road Corrections"/>
+  </changeset>
+  <changeset id="12949527" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T06:31:02Z" closed_at="2012-09-02T06:31:03Z" open="false" min_lat="27.7217737" min_lon="85.3312608" max_lat="27.7217737" max_lon="85.3312608">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Chahari Productions"/>
+  </changeset>
+  <changeset id="12949353" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T05:53:55Z" closed_at="2012-09-02T05:53:57Z" open="false" min_lat="27.7189128" min_lon="85.3318617" max_lat="27.7189128" max_lon="85.3318617">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Updated the name  of an ATM near Bhatbhateni"/>
+  </changeset>
+  <changeset id="12949338" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T05:51:06Z" closed_at="2012-09-02T05:51:07Z" open="false" min_lat="27.720112" min_lon="85.3316034" max_lat="27.720112" max_lon="85.3316034">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Roadhouse Cafe in Baluwatar"/>
+  </changeset>
+  <changeset id="12949320" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T05:46:08Z" closed_at="2012-09-02T05:46:09Z" open="false" min_lat="27.7204045" min_lon="85.3316163" max_lat="27.7204045" max_lon="85.3316163">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added The Asia Foundation"/>
+  </changeset>
+  <changeset id="12949315" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-02T05:44:34Z" closed_at="2012-09-02T05:44:35Z" open="false" min_lat="27.7205542" min_lon="85.3316561" max_lat="27.7205542" max_lon="85.3316561">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Laxmi Bank in Baluwatar .:. New week begins"/>
+  </changeset>
+  <changeset id="12938774" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-01T06:05:49Z" closed_at="2012-09-01T06:05:50Z" open="false" min_lat="27.6866824" min_lon="85.3496051" max_lat="27.6866824" max_lon="85.3496051">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Planet Earth Solutions"/>
+  </changeset>
+  <changeset id="12938687" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-01T05:43:51Z" closed_at="2012-09-01T05:43:52Z" open="false" min_lat="27.6908249" min_lon="85.3370297" max_lat="27.6909477" max_lon="85.3372157">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Samaj Dental Care"/>
+  </changeset>
+  <changeset id="12938676" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-01T05:40:49Z" closed_at="2012-09-01T05:40:50Z" open="false" min_lat="27.6877322" min_lon="85.3360811" max_lat="27.6909739" max_lon="85.3390889">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Corrected Road Type"/>
+  </changeset>
+  <changeset id="12938670" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-01T05:39:24Z" closed_at="2012-09-01T05:39:26Z" open="false" min_lat="27.6900324" min_lon="85.3353593" max_lat="27.6910799" max_lon="85.3373249">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Beijing Duck + Corrected a Road"/>
+  </changeset>
+  <changeset id="12938656" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-01T05:34:48Z" closed_at="2012-09-01T05:34:50Z" open="false" min_lat="27.6886473" min_lon="85.3354945" max_lat="27.6887574" max_lon="85.3355218">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Aishwarya Beauty Parlour and Fitwell Tailoring"/>
+  </changeset>
+  <changeset id="12938615" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-01T05:22:16Z" closed_at="2012-09-01T05:22:18Z" open="false" min_lat="27.6886121" min_lon="85.3323815" max_lat="27.6887544" max_lon="85.3326968">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Hot Breads in Baneshwor"/>
+  </changeset>
+  <changeset id="12938609" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-01T05:20:06Z" closed_at="2012-09-01T05:20:08Z" open="false" min_lat="27.6880241" min_lon="85.33491" max_lat="27.688143" max_lon="85.3350344">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Manjushree Finance and Suryadarshan Finance"/>
+  </changeset>
+  <changeset id="12938580" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-09-01T05:11:39Z" closed_at="2012-09-01T05:11:42Z" open="false" min_lat="27.6871472" min_lon="85.332953" max_lat="27.6886757" max_lon="85.3347327">
+    <tag k="comment" v="Added Alina's Cafe and Liverpool International College"/>
+  </changeset>
+  <changeset id="12934541" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-31T18:46:13Z" closed_at="2012-08-31T19:46:14Z" open="false" min_lat="27.7140969" min_lon="85.3260625" max_lat="27.7195966" max_lon="85.331844">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Bakery Cafe + Polygon for Bhatbhateni"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12934497" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-31T18:42:02Z" closed_at="2012-08-31T18:42:05Z" open="false" min_lat="27.7177771" min_lon="85.3278787" max_lat="27.7241086" max_lon="85.3310727">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Named Subarna Shamsher Road"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12891690" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-28T12:08:14Z" closed_at="2012-08-28T13:14:24Z" open="false" min_lat="27.7229799" min_lon="85.3310045" max_lat="27.7249479" max_lon="85.3314246">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Europen Bakery"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12891668" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-28T12:06:31Z" closed_at="2012-08-28T12:08:04Z" open="false" min_lat="27.7247565" min_lon="85.3310397" max_lat="27.7247565" max_lon="85.3310397">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added ShivaPuri Temple"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12891586" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-28T12:01:03Z" closed_at="2012-08-28T12:06:04Z" open="false" min_lat="27.7245145" min_lon="85.3310241" max_lat="27.7284602" max_lon="85.3329983">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Corrected road location"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12891554" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-28T11:58:23Z" closed_at="2012-08-28T11:59:28Z" open="false" min_lat="27.7241543" min_lon="85.3308219" max_lat="27.7246392" max_lon="85.3312186">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added ATM of Machhapuchchhre Bank Limited"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12891500" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-28T11:54:48Z" closed_at="2012-08-28T11:57:40Z" open="false" min_lat="27.7242455" min_lon="85.3306678" max_lat="27.7244774" max_lon="85.3310407">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Baluwatar Tempo Stand "/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12891435" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-28T11:49:34Z" closed_at="2012-08-28T11:54:35Z" open="false" min_lat="27.7171633" min_lon="85.328887" max_lat="27.7337382" max_lon="85.3318422">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Edibles Cafe"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+  </changeset>
+  <changeset id="12891397" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-28T11:47:01Z" closed_at="2012-08-28T11:49:21Z" open="false">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Nepal Rastra Bank"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+  </changeset>
+  <changeset id="12891345" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-28T11:42:38Z" closed_at="2012-08-28T11:46:47Z" open="false" min_lat="27.7240252" min_lon="85.3282831" max_lat="27.7272436" max_lon="85.3312492">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Grihini Departmental Store"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12891209" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-28T11:29:07Z" closed_at="2012-08-28T11:42:15Z" open="false" min_lat="27.7240707" min_lon="85.3312086" max_lat="27.7241786" max_lon="85.3312287">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Machhapuchchhre Bank Limited "/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+  </changeset>
+  <changeset id="12891150" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-28T11:24:17Z" closed_at="2012-08-28T11:28:58Z" open="false" min_lat="27.7189128" min_lon="85.3318617" max_lat="27.7189128" max_lon="85.3318617">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Himalayan Bank near Bhatbhateni Supermarket"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12891090" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-28T11:20:06Z" closed_at="2012-08-28T11:23:28Z" open="false" min_lat="27.7177485" min_lon="85.3307676" max_lat="27.7185763" max_lon="85.3321291">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added the office of Commission for the Investigation of Abuse of Authority (CIAA)"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12879322" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-27T13:28:09Z" closed_at="2012-08-27T14:28:10Z" open="false" min_lat="27.6872332" min_lon="85.3331627" max_lat="27.6887555" max_lon="85.3343901">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added another galli in New  Baneshwor"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12879288" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-27T13:26:25Z" closed_at="2012-08-27T13:26:29Z" open="false" min_lat="27.6871721" min_lon="85.3331439" max_lat="27.6887643" max_lon="85.3344925">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Edited type of  a galli in New Baneshwor"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12879141" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-27T13:16:15Z" closed_at="2012-08-27T13:20:36Z" open="false" min_lat="27.6871142" min_lon="85.3331462" max_lat="27.6886983" max_lon="85.3339396">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added a galli  in New Baneshwor."/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+  </changeset>
+  <changeset id="12878981" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-27T13:03:40Z" closed_at="2012-08-27T13:03:43Z" open="false" min_lat="27.6874829" min_lon="85.335067" max_lat="27.6874829" max_lon="85.335067">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added a pharamcy in New Baneshwor."/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12878860" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-27T12:55:07Z" closed_at="2012-08-27T12:55:40Z" open="false" min_lat="27.6873141" min_lon="85.3351501" max_lat="27.6873141" max_lon="85.3351501">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Janata Bank"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12878785" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-27T12:49:44Z" closed_at="2012-08-27T12:54:37Z" open="false">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12878696" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-27T12:40:27Z" closed_at="2012-08-27T12:40:30Z" open="false" min_lat="27.7229846" min_lon="85.3310517" max_lat="27.7229846" max_lon="85.3310517">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Buzz Restaurant (in the same building as Biruwa Ventures)"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12878676" user="Aashish Tripathee (Adyota)" uid="816793" created_at="2012-08-27T12:38:41Z" closed_at="2012-08-27T12:40:03Z" open="false" min_lat="27.7237303" min_lon="85.3311767" max_lat="27.7241786" max_lon="85.3312287">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added the office of Subisu ISP"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+</osm>

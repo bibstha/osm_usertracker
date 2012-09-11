@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server">
+  <changeset id="13063287" user="saese (adyota)" uid="685891" created_at="2012-09-10T22:20:06Z" closed_at="2012-09-10T23:22:55Z" open="false" min_lat="27.6571917" min_lon="85.3052139" max_lat="27.7107863" max_lon="85.359747">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="koteshwor edits"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="13058738" user="saese (adyota)" uid="685891" created_at="2012-09-10T15:57:11Z" closed_at="2012-09-10T15:57:21Z" open="false" min_lat="27.6815945" min_lon="85.3364167" max_lat="27.7082231" max_lon="85.3468941">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="misc updates, road alignments"/>
+  </changeset>
+  <changeset id="13058630" user="saese (adyota)" uid="685891" created_at="2012-09-10T15:48:28Z" closed_at="2012-09-10T15:48:42Z" open="false" min_lat="27.6538211" min_lon="85.3012581" max_lat="27.7116891" max_lon="85.3567938">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="sinamangal updates"/>
+  </changeset>
+  <changeset id="13058539" user="saese (adyota)" uid="685891" created_at="2012-09-10T15:40:44Z" closed_at="2012-09-10T15:40:46Z" open="false" min_lat="27.6804493" min_lon="85.3316656" max_lat="27.6944801" max_lon="85.3364749">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="baneshwor updates"/>
+  </changeset>
+  <changeset id="13058478" user="saese (adyota)" uid="685891" created_at="2012-09-10T15:36:35Z" closed_at="2012-09-10T15:36:36Z" open="false" min_lat="27.6807005" min_lon="85.328335" max_lat="27.6830398" max_lon="85.3374634">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="bigyan marg updates"/>
+  </changeset>
+  <changeset id="13058426" user="saese (adyota)" uid="685891" created_at="2012-09-10T15:32:54Z" closed_at="2012-09-10T15:33:06Z" open="false" min_lat="27.6666622" min_lon="85.2900568" max_lat="27.6955409" max_lon="85.3428275">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="various minor edits"/>
+  </changeset>
+  <changeset id="13058058" user="saese (adyota)" uid="685891" created_at="2012-09-10T15:00:40Z" closed_at="2012-09-10T16:01:02Z" open="false" min_lat="27.7155999" min_lon="85.3085969" max_lat="27.7156104" max_lon="85.3086417">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="office edited "/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="13056079" user="saese (adyota)" uid="685891" created_at="2012-09-10T11:58:48Z" closed_at="2012-09-10T12:58:48Z" open="false" min_lat="27.7036579" min_lon="85.324776" max_lat="27.7036788" max_lon="85.325023">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="minor edits"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="13046651" user="saese (adyota)" uid="685891" created_at="2012-09-09T16:36:49Z" closed_at="2012-09-09T17:42:17Z" open="false" min_lat="27.6772176" min_lon="85.327455" max_lat="27.6875807" max_lon="85.3417929">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="some alighments"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="13028533" user="saese (adyota)" uid="685891" created_at="2012-09-07T21:54:36Z" closed_at="2012-09-07T22:54:37Z" open="false" min_lat="27.4203238" min_lon="85.0362515" max_lat="27.4203238" max_lon="85.0362515">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="hetauda corrected"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+  </changeset>
+  <changeset id="13027289" user="saese (adyota)" uid="685891" created_at="2012-09-07T19:57:03Z" closed_at="2012-09-07T20:57:04Z" open="false" min_lat="27.6924915" min_lon="83.4679729" max_lat="27.6924915" max_lon="83.4679729">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="hetauda to butwal"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+  </changeset>
+  <changeset id="13027197" user="saese (adyota)" uid="685891" created_at="2012-09-07T19:48:57Z" closed_at="2012-09-07T20:48:57Z" open="false" min_lat="27.4203238" min_lon="85.0362515" max_lat="27.4203238" max_lon="85.0362515">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="butwal marked"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+  </changeset>
+  <changeset id="13024366" user="saese (adyota)" uid="685891" created_at="2012-09-07T15:35:55Z" closed_at="2012-09-07T16:36:05Z" open="false" min_lat="27.6479618" min_lon="85.3102451" max_lat="27.6744171" max_lon="85.3323385">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="few changes, capitalization of first letter of names, road classification etc"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12974208" user="saese (adyota)" uid="685891" created_at="2012-09-03T21:42:46Z" closed_at="2012-09-03T22:44:32Z" open="false" min_lat="27.686821" min_lon="85.3242568" max_lat="27.7364043" max_lon="85.3534362">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="english name added"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12963973" user="saese (adyota)" uid="685891" created_at="2012-09-03T08:05:09Z" closed_at="2012-09-03T09:05:17Z" open="false" min_lat="27.6740957" min_lon="85.2715047" max_lat="27.6927296" max_lon="85.2819849">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="minor updates"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+  </changeset>
+  <changeset id="12960559" user="saese (adyota)" uid="685891" created_at="2012-09-02T21:22:54Z" closed_at="2012-09-02T22:43:29Z" open="false" min_lat="27.6675749" min_lon="85.2928566" max_lat="27.6991642" max_lon="85.3216142">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="road corrections"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+  </changeset>
+  <changeset id="12960303" user="saese (adyota)" uid="685891" created_at="2012-09-02T21:04:18Z" closed_at="2012-09-02T22:18:28Z" open="false" min_lat="27.663683" min_lon="85.2927356" max_lat="27.6918438" max_lon="85.3204685">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="unknown into residential roads"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12960191" user="saese (adyota)" uid="685891" created_at="2012-09-02T20:57:31Z" closed_at="2012-09-02T21:57:31Z" open="false" min_lat="27.6694371" min_lon="85.3126094" max_lat="27.6694371" max_lon="85.3126094">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="added Adyota office"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12960126" user="saese (adyota)" uid="685891" created_at="2012-09-02T20:54:00Z" closed_at="2012-09-02T21:54:02Z" open="false" min_lat="27.6651831" min_lon="85.30689" max_lat="27.6770945" max_lon="85.3139907">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="few road edits"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+  </changeset>
+  <changeset id="12959973" user="saese (adyota)" uid="685891" created_at="2012-09-02T20:45:06Z" closed_at="2012-09-02T21:49:35Z" open="false" min_lat="27.6904429" min_lon="85.3203859" max_lat="27.6952594" max_lon="85.3277346">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="name corrected"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+  </changeset>
+  <changeset id="12955732" user="saese (adyota)" uid="685891" created_at="2012-09-02T15:36:43Z" closed_at="2012-09-02T17:00:12Z" open="false" min_lat="27.6941112" min_lon="85.321192" max_lat="27.7206704" max_lon="85.348943">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="erased a dot with no info"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12939958" user="saese (adyota)" uid="685891" created_at="2012-09-01T09:03:37Z" closed_at="2012-09-01T10:10:31Z" open="false" min_lat="27.6802936" min_lon="85.3271871" max_lat="27.6944684" max_lon="85.3426179">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="new road added; changed living street to residential "/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12901682" user="saese (adyota)" uid="685891" created_at="2012-08-29T07:52:38Z" closed_at="2012-08-29T09:09:50Z" open="false" min_lat="27.6915835" min_lon="85.3218553" max_lat="27.7253693" max_lon="85.340159">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="connected two roads"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12899080" user="saese (adyota)" uid="685891" created_at="2012-08-28T22:37:53Z" closed_at="2012-08-29T00:36:54Z" open="false" min_lat="27.6836765" min_lon="85.3004433" max_lat="27.7495712" max_lon="85.391351">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="residential"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12873118" user="saese (adyota)" uid="685891" created_at="2012-08-26T23:08:40Z" closed_at="2012-08-27T00:32:45Z" open="false" min_lat="27.6969292" min_lon="85.30172" max_lat="27.7414187" max_lon="85.384706">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="marga to marg"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12873016" user="saese (adyota)" uid="685891" created_at="2012-08-26T22:47:41Z" closed_at="2012-08-26T23:47:42Z" open="false" min_lat="27.6631588" min_lon="85.3299405" max_lat="27.6631588" max_lon="85.3299405">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="minor edits"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12869455" user="saese (adyota)" uid="685891" created_at="2012-08-26T17:38:56Z" closed_at="2012-08-26T18:38:57Z" open="false" min_lat="27.6628503" min_lon="85.3297583" max_lat="27.6636818" max_lon="85.330553">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="some minor edits"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12865178" user="saese (adyota)" uid="685891" created_at="2012-08-26T11:36:00Z" closed_at="2012-08-26T12:45:26Z" open="false" min_lat="27.6868287" min_lon="85.3139725" max_lat="27.6995327" max_lon="85.3179971">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="alignment fixed"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12863301" user="saese (adyota)" uid="685891" created_at="2012-08-26T08:30:53Z" closed_at="2012-08-26T09:56:25Z" open="false" min_lat="27.7127732" min_lon="85.3018975" max_lat="27.7288887" max_lon="85.3098433">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="alignment corrected, living street to residential"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12863236" user="saese (adyota)" uid="685891" created_at="2012-08-26T08:22:20Z" closed_at="2012-08-26T09:22:21Z" open="false" min_lat="27.7130109" min_lon="85.3181051" max_lat="27.7130109" max_lon="85.3181051">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="name corrected."/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12860108" user="saese (adyota)" uid="685891" created_at="2012-08-25T20:45:07Z" closed_at="2012-08-25T22:03:47Z" open="false" min_lat="27.6715975" min_lon="85.3136227" max_lat="27.6909739" max_lon="85.348085">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="split street and sankhamul road added"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12859910" user="saese (adyota)" uid="685891" created_at="2012-08-25T20:26:57Z" closed_at="2012-08-25T20:26:58Z" open="false" min_lat="28.2336702" min_lon="83.9743428" max_lat="28.2355535" max_lon="83.9804845">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="just one change test"/>
+  </changeset>
+  <changeset id="12856736" user="saese (adyota)" uid="685891" created_at="2012-08-25T15:34:13Z" closed_at="2012-08-25T16:34:18Z" open="false" min_lat="27.6799576" min_lon="85.3280051" max_lat="27.6925292" max_lon="85.3482244">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12855679" user="saese (adyota)" uid="685891" created_at="2012-08-25T14:00:14Z" closed_at="2012-08-25T15:14:21Z" open="false" min_lat="27.6786178" min_lon="85.3276906" max_lat="27.6916799" max_lon="85.3423115">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="galli added"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12855421" user="saese (adyota)" uid="685891" created_at="2012-08-25T13:31:20Z" closed_at="2012-08-25T14:50:09Z" open="false" min_lat="27.6761485" min_lon="85.3272502" max_lat="27.6963564" max_lon="85.3488691">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="galli added"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+  </changeset>
+  <changeset id="12853379" user="saese (adyota)" uid="685891" created_at="2012-08-25T09:53:44Z" closed_at="2012-08-25T10:53:45Z" open="false" min_lat="28.5961117" min_lon="83.8202768" max_lat="28.5961117" max_lon="83.8202768">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="english added"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+  </changeset>
+  <changeset id="12850803" user="saese (adyota)" uid="685891" created_at="2012-08-25T00:11:40Z" closed_at="2012-08-25T01:11:42Z" open="false" min_lat="27.6836958" min_lon="85.3068364" max_lat="27.6907322" max_lon="85.3132124">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12836954" user="saese (adyota)" uid="685891" created_at="2012-08-23T19:37:49Z" closed_at="2012-08-23T20:46:05Z" open="false" min_lat="27.6780344" min_lon="85.3287989" max_lat="27.6889957" max_lon="85.3357584">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12831196" user="saese (adyota)" uid="685891" created_at="2012-08-23T10:47:44Z" closed_at="2012-08-23T11:48:10Z" open="false" min_lat="27.6711746" min_lon="85.3126502" max_lat="27.6763231" max_lon="85.319084">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="alignment fixed"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12831147" user="saese (adyota)" uid="685891" created_at="2012-08-23T10:42:58Z" closed_at="2012-08-23T11:43:53Z" open="false" min_lat="27.6818193" min_lon="85.3361743" max_lat="27.6830513" max_lon="85.3380586">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="lanes and permissions edited"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12808981" user="saese (adyota)" uid="685891" created_at="2012-08-21T14:03:46Z" closed_at="2012-08-21T15:03:47Z" open="false" min_lat="27.6726833" min_lon="85.3250031" max_lat="27.6739349" max_lon="85.3254084">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="footway to pedestrian"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12801478" user="saese (adyota)" uid="685891" created_at="2012-08-20T21:11:26Z" closed_at="2012-08-20T22:11:30Z" open="false" min_lat="27.7007423" min_lon="85.3399015" max_lat="27.7180593" max_lon="85.3511945">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="road extension"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12800520" user="saese (adyota)" uid="685891" created_at="2012-08-20T19:52:46Z" closed_at="2012-08-20T20:52:59Z" open="false" min_lat="27.6578711" min_lon="85.2962994" max_lat="27.7086163" max_lon="85.357315">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12796453" user="saese (adyota)" uid="685891" created_at="2012-08-20T13:50:37Z" closed_at="2012-08-20T15:29:57Z" open="false" min_lat="27.5720061" min_lon="85.2735581" max_lat="27.6883163" max_lon="85.3440464">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="bridge residential"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12790010" user="saese (adyota)" uid="685891" created_at="2012-08-19T23:08:25Z" closed_at="2012-08-20T00:08:57Z" open="false" min_lat="27.6788394" min_lon="85.3306668" max_lat="27.6825376" max_lon="85.3396218">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12789265" user="saese (adyota)" uid="685891" created_at="2012-08-19T21:22:49Z" closed_at="2012-08-19T22:27:58Z" open="false" min_lat="27.6800649" min_lon="85.3267661" max_lat="27.6876502" max_lon="85.3427066">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="permission updated"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12789173" user="saese (adyota)" uid="685891" created_at="2012-08-19T21:12:31Z" closed_at="2012-08-19T22:12:32Z" open="false" min_lat="27.6826754" min_lon="85.3362658" max_lat="27.6828751" max_lon="85.3366389">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12784355" user="saese (adyota)" uid="685891" created_at="2012-08-19T14:39:10Z" closed_at="2012-08-19T15:39:11Z" open="false" min_lat="27.669742" min_lon="85.3161123" max_lat="27.6705212" max_lon="85.3161338">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="capitalized few names"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12783844" user="saese (adyota)" uid="685891" created_at="2012-08-19T13:54:53Z" closed_at="2012-08-19T14:55:09Z" open="false" min_lat="27.6821816" min_lon="85.3412972" max_lat="27.6955096" max_lon="85.3445887">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="moved intersection"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12783607" user="saese (adyota)" uid="685891" created_at="2012-08-19T13:31:10Z" closed_at="2012-08-19T14:53:13Z" open="false" min_lat="27.6766988" min_lon="85.3316698" max_lat="27.7146213" max_lon="85.3593801">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12781481" user="saese (adyota)" uid="685891" created_at="2012-08-19T09:58:07Z" closed_at="2012-08-19T10:59:14Z" open="false" min_lat="27.68196" min_lon="85.3272319" max_lat="27.6878373" max_lon="85.3437069">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="roads added around home area"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12780990" user="saese (adyota)" uid="685891" created_at="2012-08-19T09:07:22Z" closed_at="2012-08-19T10:10:41Z" open="false" min_lat="27.6817478" min_lon="85.3362084" max_lat="27.6830513" max_lon="85.3380676">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="bigyan marg merged"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12780912" user="saese (adyota)" uid="685891" created_at="2012-08-19T08:57:16Z" closed_at="2012-08-19T10:05:16Z" open="false" min_lat="27.6621312" min_lon="85.2903555" max_lat="27.7102126" max_lon="85.3373946">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="name in english"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12776718" user="saese (adyota)" uid="685891" created_at="2012-08-18T20:00:42Z" closed_at="2012-08-18T21:00:43Z" open="false" min_lat="27.661626" min_lon="85.3150302" max_lat="27.6659961" max_lon="85.3207442">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+  </changeset>
+  <changeset id="12776652" user="saese (adyota)" uid="685891" created_at="2012-08-18T19:54:29Z" closed_at="2012-08-18T20:54:48Z" open="false" min_lat="27.6658384" min_lon="85.297338" max_lat="27.6858045" max_lon="85.3143837">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="few corrections"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12776390" user="saese (adyota)" uid="685891" created_at="2012-08-18T19:25:06Z" closed_at="2012-08-18T20:37:50Z" open="false" min_lat="27.5728935" min_lon="85.3069577" max_lat="27.6693965" max_lon="85.3318738">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="some correction"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12775696" user="saese (adyota)" uid="685891" created_at="2012-08-18T18:09:02Z" closed_at="2012-08-18T19:29:04Z" open="false" min_lat="27.67354" min_lon="85.316737" max_lat="27.6819913" max_lon="85.3271548">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="alt names added"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12775162" user="saese (adyota)" uid="685891" created_at="2012-08-18T17:12:13Z" closed_at="2012-08-18T18:23:55Z" open="false" min_lat="27.6657515" min_lon="85.3042894" max_lat="27.6804668" max_lon="85.3226972">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="alternate names added"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12771000" user="saese (adyota)" uid="685891" created_at="2012-08-18T09:39:09Z" closed_at="2012-08-18T10:39:18Z" open="false" min_lat="27.6572406" min_lon="85.3069351" max_lat="27.6723456" max_lon="85.3232538">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-438-g86fce48"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12496096" user="saese (adyota)" uid="685891" created_at="2012-07-26T08:47:10Z" closed_at="2012-07-26T09:47:11Z" open="false" min_lat="27.681783" min_lon="85.3360146" max_lat="27.6831429" max_lon="85.3380607">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="bigyan marg added"/>
+    <tag k="build" v="2.3-415-g05324af"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12493520" user="saese (adyota)" uid="685891" created_at="2012-07-26T00:03:02Z" closed_at="2012-07-26T01:15:47Z" open="false" min_lat="27.6757095" min_lon="85.3276117" max_lat="27.6894623" max_lon="85.3419942">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="shankhamool to koteshwor"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-415-g05324af"/>
+  </changeset>
+  <changeset id="12493426" user="saese (adyota)" uid="685891" created_at="2012-07-25T23:43:07Z" closed_at="2012-07-26T00:57:46Z" open="false" min_lat="27.6769529" min_lon="85.3275576" max_lat="27.7164224" max_lon="85.3582984">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="shankhamool to minbhawan campus"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-415-g05324af"/>
+  </changeset>
+  <changeset id="12491283" user="saese (adyota)" uid="685891" created_at="2012-07-25T20:00:22Z" closed_at="2012-07-25T21:00:24Z" open="false" min_lat="27.6212974" min_lon="85.5259725" max_lat="27.6294685" max_lon="85.5388714">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="road shift corrected"/>
+    <tag k="build" v="2.3-415-g05324af"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12046142" user="saese (adyota)" uid="685891" created_at="2012-06-28T12:14:58Z" closed_at="2012-06-28T13:14:59Z" open="false" min_lat="27.7111679" min_lon="85.336687" max_lat="27.7191104" max_lon="85.3388689">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="correction"/>
+    <tag k="build" v="2.3-401-g5359f3d"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+</osm>

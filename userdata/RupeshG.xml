@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server">
+  <changeset id="13018197" user="RupeshG" uid="680512" created_at="2012-09-07T03:10:16Z" closed_at="2012-09-07T03:11:14Z" open="false" min_lat="27.6503592" min_lon="85.3511053" max_lat="27.6924992" max_lon="85.4110408">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Roads added near kausaltar/baulkha area"/>
+  </changeset>
+  <changeset id="13003729" user="RupeshG" uid="680512" created_at="2012-09-06T00:01:26Z" closed_at="2012-09-06T00:01:38Z" open="false" min_lat="27.6725402" min_lon="85.3655728" max_lat="27.6920408" max_lon="85.3843299">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Roads added near sano thimi area"/>
+  </changeset>
+  <changeset id="12991096" user="RupeshG" uid="680512" created_at="2012-09-05T06:00:26Z" closed_at="2012-09-05T06:00:44Z" open="false" min_lat="27.6569558" min_lon="85.3049787" max_lat="27.7105136" max_lon="85.3598971">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added more roads near Tinkune/Koteshwor area"/>
+  </changeset>
+  <changeset id="12976191" user="RupeshG" uid="680512" created_at="2012-09-04T03:35:50Z" closed_at="2012-09-04T03:36:09Z" open="false" min_lat="27.675131" min_lon="85.3309718" max_lat="27.7159217" max_lon="85.3619607">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added new roads near Tinkune/Koteshwor area"/>
+  </changeset>
+  <changeset id="12900505" user="RupeshG" uid="680512" created_at="2012-08-29T04:39:00Z" closed_at="2012-08-29T05:39:02Z" open="false" min_lat="27.6785492" min_lon="85.3334149" max_lat="27.7131427" max_lon="85.357382">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="Changed bagmati to riverbank (river larger than 12m)"/>
+  </changeset>
+  <changeset id="12900286" user="RupeshG" uid="680512" created_at="2012-08-29T03:31:56Z" closed_at="2012-08-29T03:32:15Z" open="false" min_lat="27.6738158" min_lon="85.3360476" max_lat="27.7001661" max_lon="85.3531685">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added new roads near Tinkune/Koteshwor area"/>
+  </changeset>
+  <changeset id="12887747" user="RupeshG" uid="680512" created_at="2012-08-28T05:48:23Z" closed_at="2012-08-28T05:48:41Z" open="false" min_lat="27.6829066" min_lon="85.3441233" max_lat="27.6883527" max_lon="85.3511876">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Tinkue area houses"/>
+  </changeset>
+  <changeset id="12850277" user="RupeshG" uid="680512" created_at="2012-08-24T22:17:59Z" closed_at="2012-08-24T23:18:00Z" open="false" min_lat="27.6750787" min_lon="85.3163388" max_lat="27.6750787" max_lon="85.3163388">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12847694" user="RupeshG" uid="680512" created_at="2012-08-24T17:34:15Z" closed_at="2012-08-24T17:34:16Z" open="false" min_lat="27.6750787" min_lon="85.3163388" max_lat="27.6750787" max_lon="85.3163388">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added young innovations"/>
+  </changeset>
+  <changeset id="11582590" user="RupeshG" uid="680512" created_at="2012-05-13T05:33:35Z" closed_at="2012-05-13T06:41:07Z" open="false" min_lat="27.6858813" min_lon="85.3348122" max_lat="27.688653" max_lon="85.344341">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-388-g7902b3f"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="Added Bus station in Baneshwor"/>
+  </changeset>
+  <changeset id="11582428" user="RupeshG" uid="680512" created_at="2012-05-13T04:25:50Z" closed_at="2012-05-13T06:00:25Z" open="false" min_lat="27.6765877" min_lon="85.304941" max_lat="27.7461332" max_lon="85.3582334">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-388-g7902b3f"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="Added EPS school in Baneshwor"/>
+  </changeset>
+  <changeset id="11582374" user="RupeshG" uid="680512" created_at="2012-05-13T04:00:13Z" closed_at="2012-05-13T05:23:17Z" open="false" min_lat="27.6875909" min_lon="85.3127921" max_lat="27.7104549" max_lon="85.3390952">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-388-g7902b3f"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="Changed the build type to school for St. Xavier's College"/>
+  </changeset>
+  <changeset id="11581387" user="RupeshG" uid="680512" created_at="2012-05-12T22:37:20Z" closed_at="2012-05-12T23:37:20Z" open="false" min_lat="27.7022036" min_lon="86.7171918" max_lat="27.7022036" max_lon="86.7171918">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-388-g7902b3f"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="The name is Cheplung. http://blog.travelpod.com/travel-photo/nickiemoore/1/1289769474/56.jpg/tpod.html"/>
+  </changeset>
+</osm>

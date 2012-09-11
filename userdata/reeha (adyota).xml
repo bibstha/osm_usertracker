@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server">
+  <changeset id="13032191" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:36:26Z" closed_at="2012-09-08T10:36:28Z" open="false" min_lat="27.7021413" min_lon="85.3231172" max_lat="27.7060742" max_lon="85.3233641">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="modified :)"/>
+  </changeset>
+  <changeset id="13032123" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:29:29Z" closed_at="2012-09-08T10:29:30Z" open="false" min_lat="27.7036579" min_lon="85.324776" max_lat="27.7036579" max_lon="85.324776">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Trinity college"/>
+  </changeset>
+  <changeset id="13032117" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:28:38Z" closed_at="2012-09-08T10:28:39Z" open="false" min_lat="27.702856" min_lon="85.3237857" max_lat="27.702856" max_lon="85.3237857">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Aashish Apartments"/>
+  </changeset>
+  <changeset id="13032110" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:27:52Z" closed_at="2012-09-08T10:27:55Z" open="false" min_lat="27.702856" min_lon="85.3234204" max_lat="27.7031768" max_lon="85.3237857">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Aashish Apartments"/>
+  </changeset>
+  <changeset id="13032095" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:26:31Z" closed_at="2012-09-08T10:26:32Z" open="false" min_lat="27.7049624" min_lon="85.3250327" max_lat="27.7049624" max_lon="85.3250327">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Universal language and computer institute"/>
+  </changeset>
+  <changeset id="13032086" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:25:36Z" closed_at="2012-09-08T10:25:37Z" open="false" min_lat="27.7057108" min_lon="85.3251957" max_lat="27.7057108" max_lon="85.3251957">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added ganesh temple of dillibazar"/>
+  </changeset>
+  <changeset id="13032075" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:23:42Z" closed_at="2012-09-08T10:23:43Z" open="false" min_lat="27.7057509" min_lon="85.324776" max_lat="27.7057509" max_lon="85.324776">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Goodwill Finance"/>
+  </changeset>
+  <changeset id="13032069" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:23:02Z" closed_at="2012-09-08T10:23:03Z" open="false" min_lat="27.7056867" min_lon="85.3232513" max_lat="27.7056867" max_lon="85.3232513">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Orbit international educhation"/>
+  </changeset>
+  <changeset id="13032059" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:20:58Z" closed_at="2012-09-08T10:20:59Z" open="false" min_lat="27.7050767" min_lon="85.3236943" max_lat="27.7050767" max_lon="85.3236943">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Sheetal garden restaurant and bar"/>
+  </changeset>
+  <changeset id="13032050" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:19:54Z" closed_at="2012-09-08T10:19:55Z" open="false" min_lat="27.7050018" min_lon="85.3232058" max_lat="27.7050018" max_lon="85.3232058">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added another parking!"/>
+  </changeset>
+  <changeset id="13032044" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:19:09Z" closed_at="2012-09-08T10:19:10Z" open="false" min_lat="27.7050434" min_lon="85.323241" max_lat="27.7050434" max_lon="85.323241">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Orbit MBBS preparation"/>
+  </changeset>
+  <changeset id="13032039" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:18:08Z" closed_at="2012-09-08T10:18:09Z" open="false" min_lat="27.7050621" min_lon="85.3226469" max_lat="27.7050621" max_lon="85.3226469">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Tamrakar house"/>
+  </changeset>
+  <changeset id="13032028" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:16:38Z" closed_at="2012-09-08T10:16:39Z" open="false" min_lat="27.7048958" min_lon="85.322661" max_lat="27.7048958" max_lon="85.322661">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Mata Manakamana Arogya clinic"/>
+  </changeset>
+  <changeset id="13032016" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:15:15Z" closed_at="2012-09-08T10:15:16Z" open="false" min_lat="27.7047482" min_lon="85.3226281" max_lat="27.7047876" max_lon="85.3226304">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Trikon saving &amp; credit co-operatives"/>
+  </changeset>
+  <changeset id="13032004" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:14:17Z" closed_at="2012-09-08T10:14:18Z" open="false" min_lat="27.7047482" min_lon="85.3226281" max_lat="27.7047482" max_lon="85.3226281">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Oracle saving &amp; credit co-operatives"/>
+  </changeset>
+  <changeset id="13031997" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:13:17Z" closed_at="2012-09-08T10:13:18Z" open="false" min_lat="27.7044675" min_lon="85.3233373" max_lat="27.7044675" max_lon="85.3233373">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added parking"/>
+  </changeset>
+  <changeset id="13031986" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:12:33Z" closed_at="2012-09-08T10:12:34Z" open="false" min_lat="27.7043011" min_lon="85.322513" max_lat="27.7043011" max_lon="85.322513">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Rural Microfinance development centre ltd"/>
+  </changeset>
+  <changeset id="13031973" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:10:52Z" closed_at="2012-09-08T10:10:53Z" open="false" min_lat="27.7040953" min_lon="85.3227995" max_lat="27.7040953" max_lon="85.3227995">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Radha kuti Arcade"/>
+  </changeset>
+  <changeset id="13031967" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:10:05Z" closed_at="2012-09-08T10:10:06Z" open="false" min_lat="27.7040828" min_lon="85.322769" max_lat="27.7040828" max_lon="85.322769">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Sai baba Pharmacy"/>
+  </changeset>
+  <changeset id="13031957" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:09:21Z" closed_at="2012-09-08T10:09:23Z" open="false" min_lat="27.7039976" min_lon="85.3230485" max_lat="27.7039976" max_lon="85.3230485">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Kantipur City College"/>
+  </changeset>
+  <changeset id="13031951" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:08:21Z" closed_at="2012-09-08T10:08:22Z" open="false" min_lat="27.7039533" min_lon="85.3227474" max_lat="27.7039533" max_lon="85.3227474">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added No Name cafe and restaurant"/>
+  </changeset>
+  <changeset id="13031938" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:07:08Z" closed_at="2012-09-08T10:07:09Z" open="false" min_lat="27.7036887" min_lon="85.3227141" max_lat="27.7038916" max_lon="85.3227341">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Machhapucchre bank's atm"/>
+  </changeset>
+  <changeset id="13031930" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:06:01Z" closed_at="2012-09-08T10:06:02Z" open="false" min_lat="27.7040592" min_lon="85.3224916" max_lat="27.7040592" max_lon="85.3224916">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added NSM merchant banking and investment"/>
+  </changeset>
+  <changeset id="13031925" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:05:12Z" closed_at="2012-09-08T10:05:13Z" open="false" min_lat="27.703921" min_lon="85.3224617" max_lat="27.703921" max_lon="85.3224617">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Nepal Share market and finance"/>
+  </changeset>
+  <changeset id="13031923" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:04:17Z" closed_at="2012-09-08T10:04:18Z" open="false" min_lat="27.7036887" min_lon="85.3227141" max_lat="27.7036887" max_lon="85.3227141">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Machhapuchhre bank"/>
+  </changeset>
+  <changeset id="13031910" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:03:10Z" closed_at="2012-09-08T10:03:11Z" open="false" min_lat="27.7035564" min_lon="85.3224651" max_lat="27.7035564" max_lon="85.3224651">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Utsav books and stationers"/>
+  </changeset>
+  <changeset id="13031899" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:02:10Z" closed_at="2012-09-08T10:02:11Z" open="false" min_lat="27.7033594" min_lon="85.3224252" max_lat="27.7035152" max_lon="85.3224518">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Tirupati savings &amp; credit co-operatives"/>
+  </changeset>
+  <changeset id="13031875" user="reeha (adyota)" uid="831565" created_at="2012-09-08T10:00:15Z" closed_at="2012-09-08T10:00:16Z" open="false" min_lat="27.7033594" min_lon="85.3224252" max_lat="27.7033594" max_lon="85.3224252">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Trinity house"/>
+  </changeset>
+  <changeset id="13031867" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:59:01Z" closed_at="2012-09-08T09:59:02Z" open="false" min_lat="27.7016072" min_lon="85.3224018" max_lat="27.7016072" max_lon="85.3224018">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Hero honda showroom"/>
+  </changeset>
+  <changeset id="13031858" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:57:38Z" closed_at="2012-09-08T09:57:39Z" open="false" min_lat="27.7009367" min_lon="85.3231158" max_lat="27.7015562" max_lon="85.3236517">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added happy girls and boys hostel  and pharmaceuticals"/>
+  </changeset>
+  <changeset id="13031831" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:54:42Z" closed_at="2012-09-08T09:54:43Z" open="false" min_lat="27.7010154" min_lon="85.3236696" max_lat="27.7010154" max_lon="85.3236696">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added CCMA college"/>
+  </changeset>
+  <changeset id="13031827" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:53:47Z" closed_at="2012-09-08T09:53:49Z" open="false" min_lat="27.7008166" min_lon="85.3235574" max_lat="27.7008166" max_lon="85.3235574">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added SRD building"/>
+  </changeset>
+  <changeset id="13031820" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:52:41Z" closed_at="2012-09-08T09:52:43Z" open="false" min_lat="27.7012143" min_lon="85.3238593" max_lat="27.7012143" max_lon="85.3238593">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Vibrant entrance preparation"/>
+  </changeset>
+  <changeset id="13031810" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:51:11Z" closed_at="2012-09-08T09:51:12Z" open="false" min_lat="27.7025284" min_lon="85.3249485" max_lat="27.7025284" max_lon="85.3249485">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Valley boys hostel"/>
+  </changeset>
+  <changeset id="13031787" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:48:46Z" closed_at="2012-09-08T09:48:47Z" open="false" min_lat="27.701875" min_lon="85.3248006" max_lat="27.701875" max_lon="85.3248006">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Subha laxmi hostel pvt ltd"/>
+  </changeset>
+  <changeset id="13031779" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:47:48Z" closed_at="2012-09-08T09:47:49Z" open="false" min_lat="27.702067" min_lon="85.3246668" max_lat="27.702067" max_lon="85.3246668">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added mainali law office"/>
+  </changeset>
+  <changeset id="13031770" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:46:36Z" closed_at="2012-09-08T09:46:37Z" open="false" min_lat="27.7020882" min_lon="85.324495" max_lat="27.7020882" max_lon="85.324495">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added parking area :)"/>
+  </changeset>
+  <changeset id="13031762" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:45:28Z" closed_at="2012-09-08T09:45:29Z" open="false" min_lat="27.7022279" min_lon="85.3240541" max_lat="27.702378" max_lon="85.324371">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Swastika girls hostel"/>
+  </changeset>
+  <changeset id="13031747" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:43:23Z" closed_at="2012-09-08T09:43:24Z" open="false" min_lat="27.702365" min_lon="85.3241259" max_lat="27.702365" max_lon="85.3241259">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added nepal china society"/>
+  </changeset>
+  <changeset id="13031736" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:42:08Z" closed_at="2012-09-08T09:42:09Z" open="false" min_lat="27.7022079" min_lon="85.3244555" max_lat="27.7022079" max_lon="85.3244555">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added CIMA CA classes"/>
+  </changeset>
+  <changeset id="13031711" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:39:18Z" closed_at="2012-09-08T09:39:19Z" open="false" min_lat="27.7023588" min_lon="85.3240541" max_lat="27.7023588" max_lon="85.3240541">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Chandra giri investment company"/>
+  </changeset>
+  <changeset id="13031695" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:37:28Z" closed_at="2012-09-08T09:37:29Z" open="false" min_lat="27.702471" min_lon="85.3238935" max_lat="27.702471" max_lon="85.3238935">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Secured co-operatives"/>
+  </changeset>
+  <changeset id="13031689" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:36:25Z" closed_at="2012-09-08T09:36:26Z" open="false" min_lat="27.7024781" min_lon="85.3231154" max_lat="27.7025621" max_lon="85.32334">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added New Don bosco for kids"/>
+  </changeset>
+  <changeset id="13031672" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:34:55Z" closed_at="2012-09-08T09:34:56Z" open="false" min_lat="27.7025621" min_lon="85.3232414" max_lat="27.7025621" max_lon="85.3232414">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added New Don bosco academy"/>
+  </changeset>
+  <changeset id="13031668" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:34:10Z" closed_at="2012-09-08T09:34:11Z" open="false" min_lat="27.7024835" min_lon="85.3231287" max_lat="27.7024835" max_lon="85.3231287">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Sunrise Boys hostel"/>
+  </changeset>
+  <changeset id="13031653" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:32:46Z" closed_at="2012-09-08T09:32:47Z" open="false" min_lat="27.7026918" min_lon="85.3227724" max_lat="27.7030983" max_lon="85.3230597">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Rising ray bording school"/>
+  </changeset>
+  <changeset id="13031636" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:30:33Z" closed_at="2012-09-08T09:30:34Z" open="false" min_lat="27.7030983" min_lon="85.3227724" max_lat="27.7030983" max_lon="85.3227724">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added New plaza kitchen"/>
+  </changeset>
+  <changeset id="13031619" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:28:51Z" closed_at="2012-09-08T09:28:52Z" open="false" min_lat="27.7031036" min_lon="85.3225954" max_lat="27.7031036" max_lon="85.3225954">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Ram hair cutting"/>
+  </changeset>
+  <changeset id="13031607" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:26:38Z" closed_at="2012-09-08T09:26:39Z" open="false" min_lat="27.7029392" min_lon="85.3226161" max_lat="27.7029392" max_lon="85.3226161">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added five star studio"/>
+  </changeset>
+  <changeset id="13031583" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:23:04Z" closed_at="2012-09-08T09:23:05Z" open="false" min_lat="27.7029612" min_lon="85.3226367" max_lat="27.7029612" max_lon="85.3226367">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added American education foundation"/>
+  </changeset>
+  <changeset id="13031560" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:19:43Z" closed_at="2012-09-08T09:19:44Z" open="false" min_lat="27.702767" min_lon="85.3223166" max_lat="27.7029685" max_lon="85.322713">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added nepalgunj med colg, nise pharma and kumari bank :)"/>
+  </changeset>
+  <changeset id="13031499" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:12:53Z" closed_at="2012-09-08T09:12:54Z" open="false" min_lat="27.7027059" min_lon="85.3225468" max_lat="27.7027059" max_lon="85.3225468">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Pacific building"/>
+  </changeset>
+  <changeset id="13031483" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:10:30Z" closed_at="2012-09-08T09:10:32Z" open="false" min_lat="27.7020964" min_lon="85.3222665" max_lat="27.7025937" max_lon="85.322475">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added jaya bindavasini savings and mahalaxmi finance and world merchant"/>
+  </changeset>
+  <changeset id="13031427" user="reeha (adyota)" uid="831565" created_at="2012-09-08T09:02:21Z" closed_at="2012-09-08T09:02:23Z" open="false" min_lat="27.7018207" min_lon="85.3221779" max_lat="27.7021844" max_lon="85.3226642">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added A-one savings, E-space, ktm valley edu centre, ram nikunja and vishwa auto centre :)"/>
+  </changeset>
+  <changeset id="13031398" user="reeha (adyota)" uid="831565" created_at="2012-09-08T08:56:40Z" closed_at="2012-09-08T08:56:43Z" open="false" min_lat="27.7015998" min_lon="85.322353" max_lat="27.7019982" max_lon="85.3229184">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added vacant land"/>
+  </changeset>
+  <changeset id="13031385" user="reeha (adyota)" uid="831565" created_at="2012-09-08T08:55:12Z" closed_at="2012-09-08T08:55:13Z" open="false" min_lat="27.7015886" min_lon="85.3223961" max_lat="27.7016958" max_lon="85.3224285">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added pairavi book house and rastriya banijya bank"/>
+  </changeset>
+  <changeset id="13031349" user="reeha (adyota)" uid="831565" created_at="2012-09-08T08:51:10Z" closed_at="2012-09-08T08:51:12Z" open="false" min_lat="27.7010474" min_lon="85.3219121" max_lat="27.701176" max_lon="85.322112">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added siddhartha bank"/>
+  </changeset>
+  <changeset id="13031330" user="reeha (adyota)" uid="831565" created_at="2012-09-08T08:48:38Z" closed_at="2012-09-08T08:48:39Z" open="false" min_lat="27.7009825" min_lon="85.3220228" max_lat="27.7009825" max_lon="85.3220228">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added syakar company ltd"/>
+  </changeset>
+  <changeset id="13031298" user="reeha (adyota)" uid="831565" created_at="2012-09-08T08:44:50Z" closed_at="2012-09-08T08:44:51Z" open="false" min_lat="27.7002543" min_lon="85.3218764" max_lat="27.7008865" max_lon="85.3220186">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Avant saving, beginners' home, quality consultancy &amp; westbound colg"/>
+  </changeset>
+  <changeset id="13031252" user="reeha (adyota)" uid="831565" created_at="2012-09-08T08:37:57Z" closed_at="2012-09-08T08:37:58Z" open="false" min_lat="27.7002281" min_lon="85.3218749" max_lat="27.7002281" max_lon="85.3218749">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added NAME"/>
+  </changeset>
+  <changeset id="13031236" user="reeha (adyota)" uid="831565" created_at="2012-09-08T08:35:42Z" closed_at="2012-09-08T08:35:43Z" open="false" min_lat="27.7000991" min_lon="85.3218351" max_lat="27.7000991" max_lon="85.3218351">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added ice cafe"/>
+  </changeset>
+  <changeset id="13031226" user="reeha (adyota)" uid="831565" created_at="2012-09-08T08:34:15Z" closed_at="2012-09-08T08:34:17Z" open="false" min_lat="27.6996704" min_lon="85.3208968" max_lat="27.7000512" max_lon="85.3218869">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added sahakary sanstha, medical hall, dry cleaners, courier service , stock brokers association of nepal :)"/>
+  </changeset>
+  <changeset id="13031099" user="reeha (adyota)" uid="831565" created_at="2012-09-08T08:17:46Z" closed_at="2012-09-08T08:17:48Z" open="false" min_lat="27.6984013" min_lon="85.3214222" max_lat="27.699494" max_lon="85.3219917">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added national trading, supreme cout and traffic maha sakhaa"/>
+  </changeset>
+  <changeset id="13030999" user="reeha (adyota)" uid="831565" created_at="2012-09-08T08:07:47Z" closed_at="2012-09-08T08:07:48Z" open="false" min_lat="27.6984631" min_lon="85.3218424" max_lat="27.6984631" max_lon="85.3218424">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added singha durbar"/>
+  </changeset>
+  <changeset id="13024525" user="reeha (adyota)" uid="831565" created_at="2012-09-07T15:48:07Z" closed_at="2012-09-07T15:52:19Z" open="false" min_lat="27.6700613" min_lon="85.3125328" max_lat="27.691904" max_lon="85.3247976">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added and modified"/>
+  </changeset>
+  <changeset id="13024321" user="reeha (adyota)" uid="831565" created_at="2012-09-07T15:31:44Z" closed_at="2012-09-07T15:31:48Z" open="false" min_lat="27.6740011" min_lon="85.3186305" max_lat="27.6758139" max_lon="85.3216873">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added newa youth and modified others"/>
+  </changeset>
+  <changeset id="13024265" user="reeha (adyota)" uid="831565" created_at="2012-09-07T15:26:54Z" closed_at="2012-09-07T15:26:58Z" open="false" min_lat="27.6740919" min_lon="85.3186812" max_lat="27.6757803" max_lon="85.3210002">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added greet n greet  and temple"/>
+  </changeset>
+  <changeset id="13024132" user="reeha (adyota)" uid="831565" created_at="2012-09-07T15:15:28Z" closed_at="2012-09-07T15:15:31Z" open="false" min_lat="27.6737516" min_lon="85.3241202" max_lat="27.6739358" max_lon="85.3244271">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added sweet shop"/>
+  </changeset>
+  <changeset id="13024087" user="reeha (adyota)" uid="831565" created_at="2012-09-07T15:12:13Z" closed_at="2012-09-07T15:12:16Z" open="false" min_lat="27.6737516" min_lon="85.3244271" max_lat="27.6737516" max_lon="85.3244271">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added saugat jewllery"/>
+  </changeset>
+  <changeset id="13024070" user="reeha (adyota)" uid="831565" created_at="2012-09-07T15:10:50Z" closed_at="2012-09-07T15:10:52Z" open="false" min_lat="27.6736852" min_lon="85.3244252" max_lat="27.6736852" max_lon="85.3244252">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added the side walk cafe"/>
+  </changeset>
+  <changeset id="13024048" user="reeha (adyota)" uid="831565" created_at="2012-09-07T15:08:58Z" closed_at="2012-09-07T15:08:59Z" open="false" min_lat="27.6736652" min_lon="85.3245189" max_lat="27.6737134" max_lon="85.3245264">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added mani Ga bhutu and a temple"/>
+  </changeset>
+  <changeset id="13023972" user="reeha (adyota)" uid="831565" created_at="2012-09-07T15:02:13Z" closed_at="2012-09-07T15:02:14Z" open="false" min_lat="27.6736819" min_lon="85.3245677" max_lat="27.6736885" max_lon="85.3245808">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added utpala beauty parlour"/>
+  </changeset>
+  <changeset id="13023845" user="reeha (adyota)" uid="831565" created_at="2012-09-07T14:50:56Z" closed_at="2012-09-07T14:50:59Z" open="false" min_lat="27.673631" min_lon="85.3245677" max_lat="27.6736819" max_lon="85.3246745">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added taditional tatoo, sweet shop"/>
+  </changeset>
+  <changeset id="13023777" user="reeha (adyota)" uid="831565" created_at="2012-09-07T14:43:00Z" closed_at="2012-09-07T14:43:03Z" open="false" min_lat="27.6735507" min_lon="85.3247289" max_lat="27.6736304" max_lon="85.324742">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added D'square cafe,  the third world cafe"/>
+  </changeset>
+  <changeset id="13023609" user="reeha (adyota)" uid="831565" created_at="2012-09-07T14:27:15Z" closed_at="2012-09-07T14:27:17Z" open="false" min_lat="27.6736747" min_lon="85.324077" max_lat="27.6739922" max_lon="85.3248069">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added honacha, patko lali, water well and a temple"/>
+  </changeset>
+  <changeset id="13023319" user="reeha (adyota)" uid="831565" created_at="2012-09-07T14:01:15Z" closed_at="2012-09-07T14:01:16Z" open="false" min_lat="27.6751322" min_lon="85.324708" max_lat="27.6756759" max_lon="85.3252476">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added ganesh temple, newa wood carving, motorcycle repair shop, money exchage ang khukuriii house"/>
+  </changeset>
+  <changeset id="13023183" user="reeha (adyota)" uid="831565" created_at="2012-09-07T13:44:45Z" closed_at="2012-09-07T13:45:01Z" open="false" min_lat="27.6744633" min_lon="85.3243134" max_lat="27.6750853" max_lon="85.3246829">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added handicraft shop, stationary work, thanka school and kwalkhu cafe"/>
+  </changeset>
+  <changeset id="13023081" user="reeha (adyota)" uid="831565" created_at="2012-09-07T13:33:30Z" closed_at="2012-09-07T13:33:35Z" open="false" min_lat="27.6746092" min_lon="85.324819" max_lat="27.6748863" max_lon="85.3252799">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added thanka stores, gallery and thanka training school"/>
+  </changeset>
+  <changeset id="13022925" user="reeha (adyota)" uid="831565" created_at="2012-09-07T13:18:53Z" closed_at="2012-09-07T13:18:54Z" open="false" min_lat="27.6746591" min_lon="85.3252492" max_lat="27.6746691" max_lon="85.3252745">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added ptn fine arts and traditional art and handi.."/>
+  </changeset>
+  <changeset id="13022621" user="reeha (adyota)" uid="831565" created_at="2012-09-07T12:49:49Z" closed_at="2012-09-07T12:49:50Z" open="false" min_lat="27.6745743" min_lon="85.3254126" max_lat="27.6746367" max_lon="85.3255985">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added sade collection and melting pot :)"/>
+  </changeset>
+  <changeset id="13022579" user="reeha (adyota)" uid="831565" created_at="2012-09-07T12:45:06Z" closed_at="2012-09-07T12:45:07Z" open="false" min_lat="27.6741982" min_lon="85.3252951" max_lat="27.6744121" max_lon="85.3254266">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added arpan gift shop and collection art gallery"/>
+  </changeset>
+  <changeset id="13022460" user="reeha (adyota)" uid="831565" created_at="2012-09-07T12:34:10Z" closed_at="2012-09-07T13:36:24Z" open="false" min_lat="27.6734119" min_lon="85.3252127" max_lat="27.6741666" max_lon="85.3259583">
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="added lalitpur chaber of commerce "/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="13022391" user="reeha (adyota)" uid="831565" created_at="2012-09-07T12:28:24Z" closed_at="2012-09-07T12:28:25Z" open="false" min_lat="27.6741041" min_lon="85.3252927" max_lat="27.6743499" max_lon="85.325413">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added green tara handicraft, newa decor and newa art and craft"/>
+  </changeset>
+  <changeset id="13022302" user="reeha (adyota)" uid="831565" created_at="2012-09-07T12:20:02Z" closed_at="2012-09-07T12:20:03Z" open="false" min_lat="27.6741106" min_lon="85.3252781" max_lat="27.6742135" max_lon="85.3253014">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added andy's art gallery and pure land thanka centre"/>
+  </changeset>
+  <changeset id="13022203" user="reeha (adyota)" uid="831565" created_at="2012-09-07T12:10:45Z" closed_at="2012-09-07T12:10:46Z" open="false" min_lat="27.6739341" min_lon="85.3253332" max_lat="27.674002" max_lon="85.3256899">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added tourist police, cafe du patan , hygenic pani puri and lalitpur chamber of commerce"/>
+  </changeset>
+  <changeset id="13022140" user="reeha (adyota)" uid="831565" created_at="2012-09-07T12:04:30Z" closed_at="2012-09-07T12:04:31Z" open="false" min_lat="27.6738547" min_lon="85.3256368" max_lat="27.6738547" max_lon="85.3256368">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added casa pagoda"/>
+  </changeset>
+  <changeset id="13022129" user="reeha (adyota)" uid="831565" created_at="2012-09-07T12:03:44Z" closed_at="2012-09-07T12:03:45Z" open="false" min_lat="27.6736312" min_lon="85.3256003" max_lat="27.6736988" max_lon="85.3256036">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added adarsha kanya HSS and AKN eco club"/>
+  </changeset>
+  <changeset id="13022090" user="reeha (adyota)" uid="831565" created_at="2012-09-07T12:00:40Z" closed_at="2012-09-07T12:00:42Z" open="false" min_lat="27.6734282" min_lon="85.3249095" max_lat="27.673677" max_lon="85.3254465">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added dhunge dhara , patan musem and krishna mandir"/>
+  </changeset>
+  <changeset id="13022007" user="reeha (adyota)" uid="831565" created_at="2012-09-07T11:53:43Z" closed_at="2012-09-07T11:53:45Z" open="false" min_lat="27.6729459" min_lon="85.3245076" max_lat="27.6729723" max_lon="85.3245873">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Yala layeku and NIB atm parlor"/>
+  </changeset>
+  <changeset id="13021940" user="reeha (adyota)" uid="831565" created_at="2012-09-07T11:47:33Z" closed_at="2012-09-07T11:47:35Z" open="false" min_lat="27.6737635" min_lon="85.3206562" max_lat="27.6743532" max_lon="85.3233851">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added kailash bank and ATM parlor"/>
+  </changeset>
+  <changeset id="13021876" user="reeha (adyota)" uid="831565" created_at="2012-09-07T11:41:30Z" closed_at="2012-09-07T11:41:31Z" open="false" min_lat="27.6740108" min_lon="85.321037" max_lat="27.6743775" max_lon="85.3216747">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added buddha shradha school and leather jacket shop"/>
+  </changeset>
+  <changeset id="13021803" user="reeha (adyota)" uid="831565" created_at="2012-09-07T11:35:13Z" closed_at="2012-09-07T11:35:14Z" open="false" min_lat="27.6740158" min_lon="85.3206586" max_lat="27.6743491" max_lon="85.3216943">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added heritage nepal,merina impex, nepal fashion house and a temple."/>
+  </changeset>
+  <changeset id="13021689" user="reeha (adyota)" uid="831565" created_at="2012-09-07T11:19:53Z" closed_at="2012-09-07T11:19:54Z" open="false" min_lat="27.6758317" min_lon="85.3182293" max_lat="27.6759417" max_lon="85.3186921">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added classic collection and dell shop"/>
+  </changeset>
+  <changeset id="13021639" user="reeha (adyota)" uid="831565" created_at="2012-09-07T11:13:52Z" closed_at="2012-09-07T11:13:54Z" open="false" min_lat="27.6762659" min_lon="85.3131402" max_lat="27.6762659" max_lon="85.3131402">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added F bar"/>
+  </changeset>
+  <changeset id="12952177" user="reeha (adyota)" uid="831565" created_at="2012-09-02T10:59:13Z" closed_at="2012-09-02T10:59:16Z" open="false" min_lat="27.6593785" min_lon="85.317531" max_lat="27.6865253" max_lon="85.3308051">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added ANFA, Batuk bhairav khaja ghar and kids merryland school"/>
+  </changeset>
+  <changeset id="12951668" user="reeha (adyota)" uid="831565" created_at="2012-09-02T10:21:51Z" closed_at="2012-09-02T10:21:52Z" open="false" min_lat="27.6881814" min_lon="85.3345569" max_lat="27.6881814" max_lon="85.3345569">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added Radio audio station"/>
+  </changeset>
+  <changeset id="12951595" user="reeha (adyota)" uid="831565" created_at="2012-09-02T10:15:51Z" closed_at="2012-09-02T10:15:53Z" open="false" min_lat="27.6875776" min_lon="85.3352495" max_lat="27.6911917" max_lon="85.3390592">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added ace college of management and 7th heaven"/>
+  </changeset>
+  <changeset id="12951472" user="reeha (adyota)" uid="831565" created_at="2012-09-02T10:04:36Z" closed_at="2012-09-02T10:04:37Z" open="false" min_lat="27.6805781" min_lon="85.3297463" max_lat="27.6805781" max_lon="85.3297463">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="modified sankhamul ghat ,"/>
+  </changeset>
+  <changeset id="12951443" user="reeha (adyota)" uid="831565" created_at="2012-09-02T10:02:04Z" closed_at="2012-09-02T10:02:06Z" open="false" min_lat="27.6785489" min_lon="85.3297463" max_lat="27.6805781" max_lon="85.3311144">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="modified sankhamul ghat ,"/>
+  </changeset>
+  <changeset id="12951345" user="reeha (adyota)" uid="831565" created_at="2012-09-02T09:53:50Z" closed_at="2012-09-02T09:53:51Z" open="false" min_lat="27.6855761" min_lon="85.3182473" max_lat="27.6855789" max_lon="85.3182597">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added taxi stand"/>
+  </changeset>
+</osm>

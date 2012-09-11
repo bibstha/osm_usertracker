@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server">
+  <changeset id="13042443" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T09:52:46Z" closed_at="2012-09-09T11:37:59Z" open="false">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13042383" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T09:45:05Z" closed_at="2012-09-09T09:45:11Z" open="false" min_lat="27.6890918" min_lon="85.3089184" max_lat="27.7089013" max_lon="85.3206202">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13042220" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T09:28:20Z" closed_at="2012-09-09T09:28:23Z" open="false" min_lat="27.6993832" min_lon="85.307443" max_lat="27.7038123" max_lon="85.3137654">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13042129" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T09:19:27Z" closed_at="2012-09-09T09:19:35Z" open="false" min_lat="27.6936987" min_lon="85.3073469" max_lat="27.7040575" max_lon="85.3140199">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041714" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T08:33:28Z" closed_at="2012-09-09T08:33:32Z" open="false" min_lat="27.7009705" min_lon="85.3055456" max_lat="27.7040694" max_lon="85.3104952">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041600" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T08:21:38Z" closed_at="2012-09-09T08:21:41Z" open="false" min_lat="27.6992418" min_lon="85.3048011" max_lat="27.7023411" max_lon="85.3082237">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041570" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T08:17:52Z" closed_at="2012-09-09T08:17:55Z" open="false" min_lat="27.6972043" min_lon="85.3037378" max_lat="27.7042036" max_lon="85.3079765">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041502" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T08:12:06Z" closed_at="2012-09-09T08:12:20Z" open="false" min_lat="27.6956402" min_lon="85.3040381" max_lat="27.6994016" max_lon="85.3104243">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041473" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T08:08:23Z" closed_at="2012-09-09T08:08:25Z" open="false" min_lat="27.6965914" min_lon="85.3055967" max_lat="27.699399" max_lon="85.3086888">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041443" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T08:04:57Z" closed_at="2012-09-09T08:05:01Z" open="false" min_lat="27.6930327" min_lon="85.3021053" max_lat="27.7074482" max_lon="85.3090684">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041361" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:57:47Z" closed_at="2012-09-09T07:57:49Z" open="false" min_lat="27.7035103" min_lon="85.3021937" max_lat="27.7055457" max_lon="85.3056628">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041338" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:55:31Z" closed_at="2012-09-09T07:55:33Z" open="false" min_lat="27.7021" min_lon="85.3033415" max_lat="27.7040783" max_lon="85.3044952">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041313" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:52:36Z" closed_at="2012-09-09T07:52:38Z" open="false" min_lat="27.7021765" min_lon="85.3022804" max_lat="27.7034449" max_lon="85.3045556">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041305" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:50:57Z" closed_at="2012-09-09T07:51:00Z" open="false" min_lat="27.6971659" min_lon="85.302154" max_lat="27.704064" max_lon="85.3082044">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041268" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:47:36Z" closed_at="2012-09-09T07:47:38Z" open="false" min_lat="27.7013131" min_lon="85.304132" max_lat="27.7020978" max_lon="85.3053373">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041255" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:46:25Z" closed_at="2012-09-09T07:46:27Z" open="false" min_lat="27.6978067" min_lon="85.3021449" max_lat="27.7043158" max_lon="85.3056159">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041204" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:41:33Z" closed_at="2012-09-09T07:41:36Z" open="false" min_lat="27.6977882" min_lon="85.2884001" max_lat="27.7135483" max_lon="85.3055161">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041097" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:28:59Z" closed_at="2012-09-09T07:29:02Z" open="false" min_lat="27.6842817" min_lon="85.2932346" max_lat="27.7021412" max_lon="85.3034125">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041056" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:24:44Z" closed_at="2012-09-09T07:24:48Z" open="false" min_lat="27.6953944" min_lon="85.2992268" max_lat="27.7019706" max_lon="85.3025448">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13041026" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:20:00Z" closed_at="2012-09-09T07:20:02Z" open="false" min_lat="27.697993" min_lon="85.302287" max_lat="27.7038589" max_lon="85.3031292">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040999" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:15:48Z" closed_at="2012-09-09T07:15:50Z" open="false" min_lat="27.6981868" min_lon="85.3030163" max_lat="27.6984355" max_lon="85.3043343">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040985" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:13:53Z" closed_at="2012-09-09T07:13:55Z" open="false" min_lat="27.6930079" min_lon="85.302652" max_lat="27.6981009" max_lon="85.3059953">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040975" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:12:22Z" closed_at="2012-09-09T07:12:25Z" open="false" min_lat="27.6931804" min_lon="85.3041941" max_lat="27.6965168" max_lon="85.3067963">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040952" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:08:45Z" closed_at="2012-09-09T07:08:47Z" open="false" min_lat="27.6931747" min_lon="85.3029642" max_lat="27.6974525" max_lon="85.3050559">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040937" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:07:21Z" closed_at="2012-09-09T07:07:22Z" open="false" min_lat="27.6933291" min_lon="85.3042896" max_lat="27.6972001" max_lon="85.3050559">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040929" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:06:29Z" closed_at="2012-09-09T07:06:31Z" open="false" min_lat="27.6934821" min_lon="85.2999076" max_lat="27.698429" max_lon="85.3039232">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040910" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:03:35Z" closed_at="2012-09-09T07:03:37Z" open="false" min_lat="27.6936039" min_lon="85.2999511" max_lat="27.6981461" max_lon="85.3027448">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040903" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:02:15Z" closed_at="2012-09-09T07:02:16Z" open="false" min_lat="27.6941029" min_lon="85.3017253" max_lat="27.695019" max_lon="85.3025791">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040898" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:01:37Z" closed_at="2012-09-09T07:01:39Z" open="false" min_lat="27.695019" min_lon="85.3023327" max_lat="27.6963908" max_lon="85.3027942">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040895" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T07:00:52Z" closed_at="2012-09-09T07:00:53Z" open="false" min_lat="27.69394" min_lon="85.3034406" max_lat="27.69394" max_lon="85.3034406">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040884" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T06:59:35Z" closed_at="2012-09-09T06:59:37Z" open="false" min_lat="27.6937088" min_lon="85.3001931" max_lat="27.6979978" max_lon="85.3049553">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040859" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T06:54:44Z" closed_at="2012-09-09T06:54:45Z" open="false" min_lat="27.6921009" min_lon="85.3012344" max_lat="27.693383" max_lon="85.305107">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040846" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T06:51:28Z" closed_at="2012-09-09T06:51:31Z" open="false" min_lat="27.6922037" min_lon="85.2998142" max_lat="27.6942743" max_lon="85.3045829">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040794" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T06:42:51Z" closed_at="2012-09-09T06:46:05Z" open="false" min_lat="27.6937602" min_lon="85.3042904" max_lat="27.6962726" max_lon="85.307218">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040789" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T06:42:26Z" closed_at="2012-09-09T06:42:29Z" open="false" min_lat="27.692408" min_lon="85.3025611" max_lat="27.6966535" max_lon="85.311165">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040755" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T06:33:09Z" closed_at="2012-09-09T06:33:12Z" open="false" min_lat="27.6916158" min_lon="85.30524" max_lat="27.6976528" max_lon="85.3156425">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040735" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T06:28:46Z" closed_at="2012-09-09T06:28:52Z" open="false" min_lat="27.6927963" min_lon="85.3075062" max_lat="27.7031105" max_lon="85.3297315">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040709" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T06:23:06Z" closed_at="2012-09-09T06:23:08Z" open="false" min_lat="27.6939559" min_lon="85.3120611" max_lat="27.700634" max_lon="85.3142239">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13040700" user="amritkarma (adyota)" uid="680067" created_at="2012-09-09T06:21:52Z" closed_at="2012-09-09T06:21:53Z" open="false" min_lat="27.6990377" min_lon="85.3122191" max_lat="27.6996118" max_lon="85.3134549">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="digitizing"/>
+  </changeset>
+  <changeset id="13031433" user="amritkarma (adyota)" uid="680067" created_at="2012-09-08T09:03:07Z" closed_at="2012-09-08T09:03:08Z" open="false" min_lat="27.6715427" min_lon="85.428489" max_lat="27.6715466" max_lon="85.4285534">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="position change"/>
+  </changeset>
+  <changeset id="13031428" user="amritkarma (adyota)" uid="680067" created_at="2012-09-08T09:02:47Z" closed_at="2012-09-08T09:02:49Z" open="false" min_lat="27.6715427" min_lon="85.4274873" max_lat="27.6723954" max_lon="85.4292125">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="position change"/>
+  </changeset>
+  <changeset id="13031418" user="amritkarma (adyota)" uid="680067" created_at="2012-09-08T09:00:29Z" closed_at="2012-09-08T09:00:31Z" open="false" min_lat="27.6715427" min_lon="85.4274873" max_lat="27.6724647" max_lon="85.4293429">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="position change"/>
+  </changeset>
+  <changeset id="13031373" user="amritkarma (adyota)" uid="680067" created_at="2012-09-08T08:53:40Z" closed_at="2012-09-08T08:53:42Z" open="false" min_lat="27.6720425" min_lon="85.4287382" max_lat="27.6720759" max_lon="85.4287449">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="position change"/>
+  </changeset>
+  <changeset id="13031361" user="amritkarma (adyota)" uid="680067" created_at="2012-09-08T08:52:36Z" closed_at="2012-09-08T08:52:38Z" open="false" min_lat="27.6724969" min_lon="85.430003" max_lat="27.6724969" max_lon="85.430003">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="jagannath area"/>
+  </changeset>
+  <changeset id="13031354" user="amritkarma (adyota)" uid="680067" created_at="2012-09-08T08:51:33Z" closed_at="2012-09-08T08:51:35Z" open="false" min_lat="27.6723839" min_lon="85.4297823" max_lat="27.6728777" max_lon="85.4304856">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="jagannath area"/>
+  </changeset>
+  <changeset id="13031350" user="amritkarma (adyota)" uid="680067" created_at="2012-09-08T08:51:10Z" closed_at="2012-09-08T08:51:13Z" open="false" min_lat="27.6724014" min_lon="85.4297462" max_lat="27.6728432" max_lon="85.4305086">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="araniko hall"/>
+  </changeset>
+  <changeset id="13031214" user="amritkarma (adyota)" uid="680067" created_at="2012-09-08T08:32:49Z" closed_at="2012-09-08T08:32:52Z" open="false" min_lat="27.7026393" min_lon="85.3293366" max_lat="27.7076172" max_lon="85.3363375">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="data uploading"/>
+  </changeset>
+  <changeset id="13031079" user="amritkarma (adyota)" uid="680067" created_at="2012-09-08T08:16:34Z" closed_at="2012-09-08T08:16:36Z" open="false" min_lat="27.7048566" min_lon="85.3339314" max_lat="27.7059359" max_lon="85.3347656">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="data uploading"/>
+  </changeset>
+  <changeset id="13031044" user="amritkarma (adyota)" uid="680067" created_at="2012-09-08T08:12:58Z" closed_at="2012-09-08T08:13:01Z" open="false" min_lat="27.7039198" min_lon="85.3326109" max_lat="27.708485" max_lon="85.3342249">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="data uploading"/>
+  </changeset>
+  <changeset id="13030983" user="amritkarma (adyota)" uid="680067" created_at="2012-09-08T08:05:13Z" closed_at="2012-09-08T08:05:14Z" open="false" min_lat="27.7055677" min_lon="85.3335071" max_lat="27.7056215" max_lon="85.3337423">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="data uploading"/>
+  </changeset>
+  <changeset id="13030949" user="amritkarma (adyota)" uid="680067" created_at="2012-09-08T07:59:21Z" closed_at="2012-09-08T07:59:31Z" open="false" min_lat="27.7015895" min_lon="85.3318366" max_lat="27.7085749" max_lon="85.3443007">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="data uploading"/>
+  </changeset>
+  <changeset id="12963691" user="amritkarma (adyota)" uid="680067" created_at="2012-09-03T07:35:30Z" closed_at="2012-09-03T08:35:32Z" open="false" min_lat="27.6654974" min_lon="85.4000872" max_lat="27.6740586" max_lon="85.427244">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="changed attributes"/>
+  </changeset>
+  <changeset id="12950524" user="amritkarma (adyota)" uid="680067" created_at="2012-09-02T08:40:27Z" closed_at="2012-09-02T11:45:20Z" open="false" min_lat="27.6539947" min_lon="85.4069228" max_lat="27.7153224" max_lon="85.4489316">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12852306" user="amritkarma (adyota)" uid="680067" created_at="2012-08-25T07:47:45Z" closed_at="2012-08-25T07:47:48Z" open="false" min_lat="27.6727589" min_lon="85.4287918" max_lat="27.6729576" max_lon="85.4288532">
+    <tag k="created_by" v="JOSM/1.5 (5210 en)"/>
+    <tag k="comment" v="gate"/>
+  </changeset>
+  <changeset id="12780012" user="amritkarma (adyota)" uid="680067" created_at="2012-08-19T06:58:02Z" closed_at="2012-08-19T07:58:02Z" open="false">
+    <tag k="created_by" v="JOSM/1.5 (5210 en)"/>
+    <tag k="comment" v="POI"/>
+  </changeset>
+  <changeset id="12146932" user="amritkarma (adyota)" uid="680067" created_at="2012-07-08T08:18:57Z" closed_at="2012-07-08T08:18:59Z" open="false" min_lat="27.6762282" min_lon="85.3113174" max_lat="27.6764109" max_lon="85.3116348">
+    <tag k="created_by" v="JOSM/1.5 (5210 en)"/>
+    <tag k="comment" v="POI"/>
+  </changeset>
+  <changeset id="12146782" user="amritkarma (adyota)" uid="680067" created_at="2012-07-08T08:00:58Z" closed_at="2012-07-08T08:01:02Z" open="false" min_lat="27.6710437" min_lon="85.3047212" max_lat="27.679505" max_lon="85.3131633">
+    <tag k="created_by" v="JOSM/1.5 (5210 en)"/>
+  </changeset>
+  <changeset id="12146612" user="amritkarma (adyota)" uid="680067" created_at="2012-07-08T07:36:18Z" closed_at="2012-07-08T07:36:22Z" open="false" min_lat="27.6694277" min_lon="85.2952192" max_lat="27.6806182" max_lon="85.4428439">
+    <tag k="created_by" v="JOSM/1.5 (5210 en)"/>
+  </changeset>
+  <changeset id="12146476" user="amritkarma (adyota)" uid="680067" created_at="2012-07-08T07:14:18Z" closed_at="2012-07-08T07:14:19Z" open="false" min_lat="27.6718535" min_lon="85.4291044" max_lat="27.6726544" max_lon="85.4301311">
+    <tag k="created_by" v="JOSM/1.5 (5210 en)"/>
+  </changeset>
+  <changeset id="12136829" user="amritkarma (adyota)" uid="680067" created_at="2012-07-07T05:22:09Z" closed_at="2012-07-07T05:22:13Z" open="false" min_lat="27.67696" min_lon="85.3175171" max_lat="27.6771886" max_lon="85.3177811">
+    <tag k="created_by" v="JOSM/1.5 (5210 en)"/>
+  </changeset>
+  <changeset id="11597071" user="amritkarma (adyota)" uid="680067" created_at="2012-05-14T15:56:10Z" closed_at="2012-05-14T17:51:13Z" open="false" min_lat="27.5895238" min_lon="85.5043801" max_lat="27.6379885" max_lon="85.5825665">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-390-g71b0be0"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="11596928" user="amritkarma (adyota)" uid="680067" created_at="2012-05-14T15:41:20Z" closed_at="2012-05-14T16:41:24Z" open="false" min_lat="27.6248528" min_lon="85.5093684" max_lat="27.6398606" max_lon="85.5317712">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-390-g71b0be0"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="11579164" user="amritkarma (adyota)" uid="680067" created_at="2012-05-12T18:02:19Z" closed_at="2012-05-12T19:31:08Z" open="false" min_lat="27.6672762" min_lon="85.4087032" max_lat="27.6774694" max_lon="85.4390473">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-388-g7902b3f"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="11574522" user="amritkarma (adyota)" uid="680067" created_at="2012-05-12T09:00:07Z" closed_at="2012-05-12T10:08:01Z" open="false" min_lat="27.6428793" min_lon="85.3939384" max_lat="27.6769996" max_lon="85.4684738">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-388-g7902b3f"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="11574464" user="amritkarma (adyota)" uid="680067" created_at="2012-05-12T08:50:46Z" closed_at="2012-05-12T09:57:57Z" open="false" min_lat="27.670718" min_lon="85.4272037" max_lat="27.6748033" max_lon="85.4296086">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-388-g7902b3f"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="11574439" user="amritkarma (adyota)" uid="680067" created_at="2012-05-12T08:47:38Z" closed_at="2012-05-12T08:50:31Z" open="false" min_lat="27.6726109" min_lon="85.4286019" max_lat="27.6727124" max_lon="85.4287371">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-388-g7902b3f"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="changed the name and landuse ( it is actually a small pond)"/>
+  </changeset>
+</osm>

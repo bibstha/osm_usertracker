@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server">
+  <changeset id="13052359" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-10T05:33:54Z" closed_at="2012-09-10T05:33:57Z" open="false" min_lat="27.7239994" min_lon="85.3307887" max_lat="27.7252674" max_lon="85.3332188">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added european bakery, grihini departmental store, mothercare preschool, nawajyoti center, white horse coffee and wine bar, wonder years school"/>
+  </changeset>
+  <changeset id="13052306" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-10T05:21:41Z" closed_at="2012-09-10T05:21:44Z" open="false" min_lat="27.7253699" min_lon="85.3339793" max_lat="27.7272877" max_lon="85.3365628">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added newton school, blue sapphire travels and tours, mount legend, tundal mandir, community police service, shiradi sai academy and guard securities"/>
+  </changeset>
+  <changeset id="13052270" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-10T05:08:08Z" closed_at="2012-09-10T05:08:10Z" open="false" min_lat="27.7248615" min_lon="85.3371801" max_lat="27.7248615" max_lon="85.3371801">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added easy cuts"/>
+  </changeset>
+  <changeset id="13052263" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-10T05:05:30Z" closed_at="2012-09-10T05:05:33Z" open="false" min_lat="27.7248007" min_lon="85.3368717" max_lat="27.7249497" max_lon="85.3373252">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added dibya shopping center, friends cafe and sekuwa and merundanda saving and credits co operative"/>
+  </changeset>
+  <changeset id="13052237" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-10T04:56:20Z" closed_at="2012-09-10T04:56:23Z" open="false" min_lat="27.7221736" min_lon="85.3361037" max_lat="27.7239866" max_lon="85.3374257">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added  central park premium apartments"/>
+  </changeset>
+  <changeset id="13052220" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-10T04:51:43Z" closed_at="2012-09-10T04:51:46Z" open="false" min_lat="27.7216657" min_lon="85.3350626" max_lat="27.7223729" max_lon="85.3356963">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added ganesh mandir, smarapan saving and credits cooperative and embassay of finland"/>
+  </changeset>
+  <changeset id="13052194" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-10T04:44:41Z" closed_at="2012-09-10T04:44:43Z" open="false" min_lat="27.7185537" min_lon="85.3334229" max_lat="27.721652" max_lon="85.3353694">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added sky institute and a dental clinic"/>
+  </changeset>
+  <changeset id="13005340" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-06T05:39:28Z" closed_at="2012-09-06T05:39:30Z" open="false" min_lat="27.7211678" min_lon="85.3302842" max_lat="27.7213612" max_lon="85.3305688">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added kites tuition center"/>
+  </changeset>
+  <changeset id="13005305" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-06T05:33:25Z" closed_at="2012-09-06T05:42:48Z" open="false" min_lat="27.6848783" min_lon="85.2430952" max_lat="27.7058739" max_lon="85.3192075">
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added everest bank"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="13005296" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-06T05:32:21Z" closed_at="2012-09-06T05:32:24Z" open="false" min_lat="27.7032405" min_lon="85.3186709" max_lat="27.7038244" max_lon="85.3192519">
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Saheed Sukra Sec. School"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="13005244" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-06T05:23:51Z" closed_at="2012-09-06T05:23:52Z" open="false" min_lat="27.7056983" min_lon="85.3223547" max_lat="27.7056983" max_lon="85.3223547">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added bank of Asia"/>
+  </changeset>
+  <changeset id="13005210" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-06T05:18:58Z" closed_at="2012-09-06T06:25:31Z" open="false" min_lat="27.7033127" min_lon="85.3181237" max_lat="27.7059005" max_lon="85.3192046">
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added ENT hospital"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12990123" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-05T03:09:12Z" closed_at="2012-09-05T04:09:12Z" open="false" min_lat="27.7198281" min_lon="85.3314706" max_lat="27.7210969" max_lon="85.3316036">
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="added sahayogi baikalpik vidyalaya"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12984475" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-04T17:00:52Z" closed_at="2012-09-04T17:01:24Z" open="false" min_lat="27.7173858" min_lon="85.3305043" max_lat="27.7214749" max_lon="85.3315143">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added abiral pharmacy, anmol sweets, baker's den, capital grill, fabindia, gadgets and jizmos traders, malpi schoo, oriental restaurant, roadhouse cafe, sidhibinayak pharmacy, spencer clothes, the fresh house international"/>
+  </changeset>
+  <changeset id="12984181" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-04T16:35:05Z" closed_at="2012-09-04T16:35:18Z" open="false" min_lat="27.7164142" min_lon="85.3302971" max_lat="27.7177784" max_lon="85.3306458">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added aarogya aashram, adit pharmacy, east travels, gharbaar restaurant, star khaja ghar, tangal bakery cafe, tangal ganeshsthan, bus stop, euro kids"/>
+  </changeset>
+  <changeset id="12984009" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-04T16:20:20Z" closed_at="2012-09-04T16:20:27Z" open="false" min_lat="27.7151445" min_lon="85.3297818" max_lat="27.7162376" max_lon="85.3302104">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added braodway travels, kathmandu automobiles center and deposit and saving guarantee cooperation"/>
+  </changeset>
+  <changeset id="12983860" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-04T16:07:44Z" closed_at="2012-09-04T16:07:46Z" open="false" min_lat="27.7143197" min_lon="85.3268005" max_lat="27.7150663" max_lon="85.3294746">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added sharp world, sigma interior, atm and an office"/>
+  </changeset>
+  <changeset id="12983707" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-04T15:55:07Z" closed_at="2012-09-04T15:55:31Z" open="false" min_lat="27.7147666" min_lon="85.3279618" max_lat="27.7147666" max_lon="85.3279618">
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="added kumari bank atm"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12983639" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-04T15:50:08Z" closed_at="2012-09-04T15:50:13Z" open="false" min_lat="27.7150395" min_lon="85.3269238" max_lat="27.7150395" max_lon="85.3269238">
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="added motorcycle showroom (mahindra 2 wheelers)"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12983596" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-04T15:46:31Z" closed_at="2012-09-04T15:46:33Z" open="false" min_lat="27.7147187" min_lon="85.3265014" max_lat="27.7150782" max_lon="85.3271809">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added amigo fresh mexican grill, espression the cafe and bhim plaza"/>
+  </changeset>
+  <changeset id="12983310" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-04T15:23:22Z" closed_at="2012-09-04T15:23:27Z" open="false" min_lat="27.7154674" min_lon="85.3252555" max_lat="27.7157188" max_lon="85.3254137">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added ace development bank, amaravati international and situ plaza"/>
+  </changeset>
+  <changeset id="12983107" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-04T15:08:09Z" closed_at="2012-09-04T15:08:14Z" open="false" min_lat="27.7142647" min_lon="85.3249102" max_lat="27.7148463" max_lon="85.324997">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added machhapuchre bank, social development bank and ktm espresso restaurant"/>
+  </changeset>
+  <changeset id="12982925" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-04T14:53:55Z" closed_at="2012-09-04T14:53:57Z" open="false" min_lat="27.7135997" min_lon="85.3247091" max_lat="27.7142421" max_lon="85.3249137">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added cafe, money tansfer, and airlines"/>
+  </changeset>
+  <changeset id="12982288" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-04T13:54:25Z" closed_at="2012-09-04T13:54:29Z" open="false" min_lat="27.7136546" min_lon="85.3247118" max_lat="27.7137633" max_lon="85.3248338">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="added cloth shop and building"/>
+  </changeset>
+  <changeset id="12942805" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-01T13:56:39Z" closed_at="2012-09-01T13:56:47Z" open="false" min_lat="27.6699033" min_lon="85.2324632" max_lat="27.6930183" max_lon="85.3228027">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added banks, atm, fuel station, schools, hospital, shop and plcae of worship"/>
+  </changeset>
+  <changeset id="12939156" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-01T07:24:16Z" closed_at="2012-09-01T07:24:18Z" open="false" min_lat="27.6976941" min_lon="85.2991788" max_lat="27.7033454" max_lon="85.3192223">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Fuelstations, book shop and Sachdeva institute"/>
+  </changeset>
+  <changeset id="12938696" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-01T05:45:37Z" closed_at="2012-09-01T05:45:38Z" open="false" min_lat="27.7269035" min_lon="85.3231978" max_lat="27.727232" max_lon="85.3235223">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Showroom of Volkswagan"/>
+  </changeset>
+  <changeset id="12938653" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-01T05:34:11Z" closed_at="2012-09-01T05:34:15Z" open="false" min_lat="27.716842" min_lon="85.3263565" max_lat="27.7221127" max_lon="85.3316225">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Malpi Institute"/>
+  </changeset>
+  <changeset id="12938604" user="2121vijay(Adyota)" uid="831625" created_at="2012-09-01T05:16:49Z" closed_at="2012-09-01T05:16:55Z" open="false" min_lat="27.6784097" min_lon="85.2614126" max_lat="27.6935305" max_lon="85.3013366">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="A secondary road and Rastriya Banijya Bank"/>
+  </changeset>
+  <changeset id="12931211" user="2121vijay(Adyota)" uid="831625" created_at="2012-08-31T13:44:37Z" closed_at="2012-08-31T13:44:41Z" open="false" min_lat="27.6886322" min_lon="85.2259952" max_lat="27.6891787" max_lon="85.2266084">
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Prabhat School"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12931155" user="2121vijay(Adyota)" uid="831625" created_at="2012-08-31T13:40:51Z" closed_at="2012-08-31T13:40:55Z" open="false" min_lat="27.688772" min_lon="85.2191662" max_lat="27.6918617" max_lon="85.2229336">
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Tribhuwan Park"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12931062" user="2121vijay(Adyota)" uid="831625" created_at="2012-08-31T13:31:48Z" closed_at="2012-08-31T13:31:52Z" open="false" min_lat="27.6876992" min_lon="85.2352392" max_lat="27.688348" max_lon="85.2361659">
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added Sagarmatha School"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12931030" user="2121vijay(Adyota)" uid="831625" created_at="2012-08-31T13:29:30Z" closed_at="2012-08-31T13:29:39Z" open="false" min_lat="27.6879564" min_lon="85.2372094" max_lat="27.6898192" max_lon="85.2399985">
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added nepal telecom (balambu) the sagarmatha satellite earth station"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12930862" user="2121vijay(Adyota)" uid="831625" created_at="2012-08-31T13:13:17Z" closed_at="2012-08-31T13:14:08Z" open="false" min_lat="27.689145" min_lon="85.2381676" max_lat="27.6900096" max_lon="85.2398406">
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added RIBS School"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12930781" user="2121vijay(Adyota)" uid="831625" created_at="2012-08-31T13:05:09Z" closed_at="2012-08-31T13:05:15Z" open="false" min_lat="27.6796494" min_lon="85.231325" max_lat="27.6859896" max_lon="85.2385689">
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added janakalyan school and matatirtha playground"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12913222" user="2121vijay(Adyota)" uid="831625" created_at="2012-08-30T05:01:33Z" closed_at="2012-08-30T06:02:23Z" open="false" min_lat="27.6165573" min_lon="85.1993894" max_lat="27.6885746" max_lon="85.2436819">
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added matatritha (religious place), a pathway thorugh Kispidi, a public school."/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12852331" user="2121vijay(Adyota)" uid="831625" created_at="2012-08-25T07:49:59Z" closed_at="2012-08-25T08:50:00Z" open="false" min_lat="27.6902837" min_lon="85.31823" max_lat="27.6902837" max_lon="85.31823">
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="added ekta publication"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12852217" user="2121vijay(Adyota)" uid="831625" created_at="2012-08-25T07:31:18Z" closed_at="2012-08-25T08:31:18Z" open="false" min_lat="27.7069517" min_lon="85.317697" max_lat="27.7069517" max_lon="85.317697">
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added ratna pustak bhandar "/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12852074" user="2121vijay(Adyota)" uid="831625" created_at="2012-08-25T07:05:46Z" closed_at="2012-08-25T08:05:46Z" open="false" min_lat="27.7187213" min_lon="85.3311624" max_lat="27.7187213" max_lon="85.3311624">
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="added bhatbhateni supermarket( bhatbhateni)"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+</osm>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server">
+  <changeset id="13050972" user="bibstha" uid="680866" created_at="2012-09-09T22:41:33Z" closed_at="2012-09-09T22:41:35Z" open="false" min_lat="27.6664767" min_lon="85.3209051" max_lat="27.6743469" max_lon="85.3326482">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="Mangalbazaar Road as secondary"/>
+  </changeset>
+  <changeset id="13050908" user="bibstha" uid="680866" created_at="2012-09-09T22:30:16Z" closed_at="2012-09-09T22:30:17Z" open="false" min_lat="27.7034655" min_lon="85.3247173" max_lat="27.7056835" max_lon="85.325208">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="Minor Adjustment"/>
+  </changeset>
+  <changeset id="13050894" user="bibstha" uid="680866" created_at="2012-09-09T22:28:25Z" closed_at="2012-09-09T22:28:27Z" open="false" min_lat="27.7026487" min_lon="85.3226198" max_lat="27.7041012" max_lon="85.3239642">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="Fixed duplicate road"/>
+  </changeset>
+  <changeset id="13036505" user="bibstha" uid="680866" created_at="2012-09-08T18:23:38Z" closed_at="2012-09-08T18:23:40Z" open="false" min_lat="27.6671594" min_lon="85.3265249" max_lat="27.6732383" max_lon="85.3302547">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="More fixes Patan Area"/>
+  </changeset>
+  <changeset id="13036432" user="bibstha" uid="680866" created_at="2012-09-08T18:16:19Z" closed_at="2012-09-08T18:16:20Z" open="false" min_lat="27.6731042" min_lon="85.325071" max_lat="27.6733232" max_lon="85.3254445">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="Fixed Taleju"/>
+  </changeset>
+  <changeset id="13036429" user="bibstha" uid="680866" created_at="2012-09-08T18:16:01Z" closed_at="2012-09-08T18:16:02Z" open="false" min_lat="27.6728024" min_lon="85.3244138" max_lat="27.6740172" max_lon="85.3252664">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="Patan Durbar Square"/>
+  </changeset>
+  <changeset id="13036401" user="bibstha" uid="680866" created_at="2012-09-08T18:14:37Z" closed_at="2012-09-08T18:14:38Z" open="false" min_lat="27.6735222" min_lon="85.3252035" max_lat="27.6739373" max_lon="85.3257651">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="Mangalbazaar Chowk"/>
+  </changeset>
+  <changeset id="13036367" user="bibstha" uid="680866" created_at="2012-09-08T18:11:47Z" closed_at="2012-09-08T18:11:48Z" open="false" min_lat="27.6746329" min_lon="85.3253478" max_lat="27.6749808" max_lon="85.3257047">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="More chowks around Swotha"/>
+  </changeset>
+  <changeset id="13036348" user="bibstha" uid="680866" created_at="2012-09-08T18:09:26Z" closed_at="2012-09-08T18:09:29Z" open="false" min_lat="27.6745684" min_lon="85.3245602" max_lat="27.6765276" max_lon="85.3264917">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="More chowks around Swotha"/>
+  </changeset>
+  <changeset id="13036269" user="bibstha" uid="680866" created_at="2012-09-08T18:03:44Z" closed_at="2012-09-08T18:03:51Z" open="false" min_lat="27.6703185" min_lon="85.323479" max_lat="27.6790083" max_lon="85.3291209">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="Around Swotha Area"/>
+  </changeset>
+  <changeset id="13036002" user="bibstha" uid="680866" created_at="2012-09-08T17:35:26Z" closed_at="2012-09-08T17:35:36Z" open="false" min_lat="27.6677591" min_lon="85.2957163" max_lat="27.6849707" max_lon="85.3284402">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="Fixed offsets in Mangalbazaar Area"/>
+  </changeset>
+  <changeset id="12977401" user="bibstha" uid="680866" created_at="2012-09-04T06:52:50Z" closed_at="2012-09-04T06:52:50Z" open="false" min_lat="27.6771386" min_lon="85.3092799" max_lat="27.6773518" max_lon="85.3094781">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="Cinnamon Fixed"/>
+  </changeset>
+  <changeset id="12975333" user="bibstha" uid="680866" created_at="2012-09-04T00:12:26Z" closed_at="2012-09-04T00:12:27Z" open="false" min_lat="27.6771177" min_lon="85.3092594" max_lat="27.6773522" max_lon="85.3094854">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="Cinnamon Fixed"/>
+  </changeset>
+  <changeset id="12975322" user="bibstha" uid="680866" created_at="2012-09-04T00:09:50Z" closed_at="2012-09-04T00:09:51Z" open="false" min_lat="27.6776794" min_lon="85.3095403" max_lat="27.6778312" max_lon="85.3097053">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="More houses in Manakamana Tole"/>
+  </changeset>
+  <changeset id="12975306" user="bibstha" uid="680866" created_at="2012-09-04T00:07:15Z" closed_at="2012-09-04T00:07:20Z" open="false" min_lat="27.6757526" min_lon="85.3028166" max_lat="27.6782692" max_lon="85.3078107">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="More houses in Manakamana Tole"/>
+  </changeset>
+  <changeset id="12975263" user="bibstha" uid="680866" created_at="2012-09-03T23:58:08Z" closed_at="2012-09-03T23:58:13Z" open="false" min_lat="27.6769016" min_lon="85.3049066" max_lat="27.6780868" max_lon="85.3058716">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="More houses in Manakamana Tole"/>
+  </changeset>
+  <changeset id="12975193" user="bibstha" uid="680866" created_at="2012-09-03T23:42:31Z" closed_at="2012-09-03T23:42:32Z" open="false" min_lat="27.7099754" min_lon="85.318244" max_lat="27.7123337" max_lon="85.3189299">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="More Fixes"/>
+  </changeset>
+  <changeset id="12975177" user="bibstha" uid="680866" created_at="2012-09-03T23:39:47Z" closed_at="2012-09-03T23:39:49Z" open="false" min_lat="27.7098221" min_lon="85.3172488" max_lat="27.7135087" max_lon="85.3179287">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="Split Durbarmarg into two ways"/>
+  </changeset>
+  <changeset id="12975152" user="bibstha" uid="680866" created_at="2012-09-03T23:34:22Z" closed_at="2012-09-03T23:34:23Z" open="false" min_lat="27.7120766" min_lon="85.3172869" max_lat="27.7138666" max_lon="85.3246176">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="Mercentile Building Service Road, Hattisar Road to secondary Road"/>
+  </changeset>
+  <changeset id="12975135" user="bibstha" uid="680866" created_at="2012-09-03T23:31:21Z" closed_at="2012-09-03T23:31:21Z" open="false" min_lat="27.7125074" min_lon="85.3191264" max_lat="27.7130212" max_lon="85.3196233">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="Mercentile Building"/>
+  </changeset>
+  <changeset id="12975054" user="bibstha" uid="680866" created_at="2012-09-03T23:16:03Z" closed_at="2012-09-03T23:16:05Z" open="false" min_lat="27.7120111" min_lon="85.3178195" max_lat="27.7127546" max_lon="85.3180809">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="Removed building=yes from edge nodes"/>
+  </changeset>
+  <changeset id="12856366" user="bibstha" uid="680866" created_at="2012-08-25T15:00:29Z" closed_at="2012-08-25T15:00:34Z" open="false" min_lat="27.7114742" min_lon="85.3171938" max_lat="27.7131727" max_lon="85.3181217">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Traced houses in around DurbarMarg"/>
+  </changeset>
+  <changeset id="12848744" user="bibstha" uid="680866" created_at="2012-08-24T19:28:13Z" closed_at="2012-08-24T19:28:14Z" open="false" min_lat="27.6778426" min_lon="85.3052595" max_lat="27.6780723" max_lon="85.3055088">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Removed * from houses"/>
+  </changeset>
+  <changeset id="12848734" user="bibstha" uid="680866" created_at="2012-08-24T19:27:36Z" closed_at="2012-08-24T19:27:37Z" open="false" min_lat="27.6771364" min_lon="85.306278" max_lat="27.6776661" max_lon="85.3070954">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Removed * from houses"/>
+  </changeset>
+  <changeset id="12848706" user="bibstha" uid="680866" created_at="2012-08-24T19:24:45Z" closed_at="2012-08-24T19:24:53Z" open="false" min_lat="27.6764753" min_lon="85.3039932" max_lat="27.6785419" max_lon="85.3078658">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Marked houses around Manakamana Tole"/>
+  </changeset>
+  <changeset id="12838940" user="bibstha" uid="680866" created_at="2012-08-23T22:18:18Z" closed_at="2012-08-23T22:18:26Z" open="false" min_lat="27.6727863" min_lon="85.3139131" max_lat="27.6835875" max_lon="85.3188838">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="More tagging in around Pulchowk Area"/>
+  </changeset>
+  <changeset id="12838640" user="bibstha" uid="680866" created_at="2012-08-23T21:47:15Z" closed_at="2012-08-23T21:47:17Z" open="false" min_lat="27.6757662" min_lon="85.3160767" max_lat="27.6781197" max_lon="85.3194671">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="More tagging in around Pulchowk Area"/>
+  </changeset>
+  <changeset id="12838594" user="bibstha" uid="680866" created_at="2012-08-23T21:43:42Z" closed_at="2012-08-23T21:43:45Z" open="false" min_lat="27.6725326" min_lon="85.3050795" max_lat="27.6837497" max_lon="85.31903">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="More tagging in around Pulchowk Area"/>
+  </changeset>
+  <changeset id="12838521" user="bibstha" uid="680866" created_at="2012-08-23T21:36:13Z" closed_at="2012-08-23T21:36:24Z" open="false" min_lat="27.6729973" min_lon="85.3017927" max_lat="27.6779169" max_lon="85.3194256">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="More tagging in around Pulchowk Area"/>
+  </changeset>
+  <changeset id="12838011" user="bibstha" uid="680866" created_at="2012-08-23T20:53:05Z" closed_at="2012-08-23T20:53:06Z" open="false" min_lat="27.6756349" min_lon="85.3150504" max_lat="27.6774339" max_lon="85.3162172">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Fixed alignments of the roads"/>
+  </changeset>
+  <changeset id="12837960" user="bibstha" uid="680866" created_at="2012-08-23T20:49:31Z" closed_at="2012-08-23T20:49:39Z" open="false" min_lat="27.6733227" min_lon="85.3047175" max_lat="27.6809764" max_lon="85.3221622">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Direction near around Pulchowk Area"/>
+  </changeset>
+  <changeset id="12837800" user="bibstha" uid="680866" created_at="2012-08-23T20:38:04Z" closed_at="2012-08-23T20:38:06Z" open="false" min_lat="27.6773378" min_lon="85.3049132" max_lat="27.6778658" max_lon="85.3053554">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Marked more houses"/>
+  </changeset>
+  <changeset id="12837751" user="bibstha" uid="680866" created_at="2012-08-23T20:35:04Z" closed_at="2012-08-23T20:35:07Z" open="false" min_lat="27.6772958" min_lon="85.3042917" max_lat="27.6782485" max_lon="85.3052026">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Marked some houses"/>
+  </changeset>
+  <changeset id="12837562" user="bibstha" uid="680866" created_at="2012-08-23T20:20:48Z" closed_at="2012-08-23T20:20:54Z" open="false" min_lat="27.6721884" min_lon="85.3018541" max_lat="27.683308" max_lon="85.3151975">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="More detail entry of roads"/>
+  </changeset>
+  <changeset id="12837359" user="bibstha" uid="680866" created_at="2012-08-23T20:05:24Z" closed_at="2012-08-23T20:05:27Z" open="false" min_lat="27.677267" min_lon="85.3018214" max_lat="27.6828973" max_lon="85.3169922">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Changed roads from residential to secondary"/>
+  </changeset>
+  <changeset id="12837279" user="bibstha" uid="680866" created_at="2012-08-23T20:00:13Z" closed_at="2012-08-23T20:00:15Z" open="false" min_lat="27.6762073" min_lon="85.302047" max_lat="27.6796161" max_lon="85.3095475">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Footways entered"/>
+  </changeset>
+  <changeset id="12837065" user="bibstha" uid="680866" created_at="2012-08-23T19:45:16Z" closed_at="2012-08-23T19:45:18Z" open="false" min_lat="27.6707355" min_lon="85.3055703" max_lat="27.6882201" max_lon="85.3183689">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Major streets used that connect to primary streets are secondary streets"/>
+  </changeset>
+  <changeset id="12837016" user="bibstha" uid="680866" created_at="2012-08-23T19:41:42Z" closed_at="2012-08-23T19:41:44Z" open="false" min_lat="27.673893" min_lon="85.3092117" max_lat="27.6771696" max_lon="85.3189375">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Major streets used that connect to primary streets are secondary streets"/>
+  </changeset>
+  <changeset id="12836724" user="bibstha" uid="680866" created_at="2012-08-23T19:22:56Z" closed_at="2012-08-23T19:22:58Z" open="false" min_lat="27.6708585" min_lon="85.3063816" max_lat="27.6879465" max_lon="85.3174318">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Marked the road as paved"/>
+  </changeset>
+  <changeset id="12836646" user="bibstha" uid="680866" created_at="2012-08-23T19:17:04Z" closed_at="2012-08-23T19:17:06Z" open="false" min_lat="27.6765504" min_lon="85.3057388" max_lat="27.6779863" max_lon="85.3068786">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Marked the road as paved"/>
+  </changeset>
+  <changeset id="12836593" user="bibstha" uid="680866" created_at="2012-08-23T19:13:18Z" closed_at="2012-08-23T19:13:18Z" open="false" min_lat="27.676321" min_lon="85.3020647" max_lat="27.6779835" max_lon="85.3051294">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Marked the road as paved"/>
+  </changeset>
+  <changeset id="12836576" user="bibstha" uid="680866" created_at="2012-08-23T19:12:14Z" closed_at="2012-08-23T19:12:15Z" open="false" min_lat="27.6774666" min_lon="85.3048281" max_lat="27.6779063" max_lon="85.3050025">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="offset corrected"/>
+  </changeset>
+  <changeset id="12836477" user="bibstha" uid="680866" created_at="2012-08-23T19:04:22Z" closed_at="2012-08-23T19:04:24Z" open="false" min_lat="27.6756837" min_lon="85.3020029" max_lat="27.6785901" max_lon="85.3077861">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Changed the roadtype to secondary"/>
+  </changeset>
+  <changeset id="12836358" user="bibstha" uid="680866" created_at="2012-08-23T18:54:34Z" closed_at="2012-08-23T18:54:35Z" open="false" min_lat="27.6771572" min_lon="85.3019594" max_lat="27.678792" max_lon="85.3095956">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Changed the roadtype to secondary"/>
+  </changeset>
+  <changeset id="12836315" user="bibstha" uid="680866" created_at="2012-08-23T18:50:56Z" closed_at="2012-08-23T18:50:57Z" open="false" min_lat="27.6776768" min_lon="85.3081138" max_lat="27.6779752" max_lon="85.3081598">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Minor correction of tracks"/>
+  </changeset>
+  <changeset id="12836311" user="bibstha" uid="680866" created_at="2012-08-23T18:50:31Z" closed_at="2012-08-23T18:50:34Z" open="false" min_lat="27.6773923" min_lon="85.3072332" max_lat="27.6797441" max_lon="85.3096167">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Minor correction of tracks"/>
+  </changeset>
+  <changeset id="12836174" user="bibstha" uid="680866" created_at="2012-08-23T18:37:31Z" closed_at="2012-08-23T19:37:34Z" open="false" min_lat="27.6758753" min_lon="85.3086496" max_lat="27.6808292" max_lon="85.317467">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="Chaned roads to service where appropriate"/>
+  </changeset>
+  <changeset id="12835961" user="bibstha" uid="680866" created_at="2012-08-23T18:18:39Z" closed_at="2012-08-23T19:18:40Z" open="false" min_lat="27.6750698" min_lon="85.3019503" max_lat="27.6783619" max_lon="85.3076496">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="Connect the roads"/>
+  </changeset>
+  <changeset id="12485174" user="bibstha" uid="680866" created_at="2012-07-25T10:53:28Z" closed_at="2012-07-25T11:53:31Z" open="false" min_lat="27.6774658" min_lon="85.3162847" max_lat="27.6840127" max_lon="85.3190106">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-415-g05324af"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="Minor fix, removed unnecessary nodes."/>
+  </changeset>
+  <changeset id="12475203" user="bibstha" uid="680866" created_at="2012-07-24T19:57:58Z" closed_at="2012-07-24T20:57:59Z" open="false" min_lat="27.6132868" min_lon="85.5352712" max_lat="27.6212535" max_lon="85.5421619">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-415-g05324af"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="Merged two overlapping regions"/>
+  </changeset>
+  <changeset id="11999844" user="bibstha" uid="680866" created_at="2012-06-24T12:59:52Z" closed_at="2012-06-24T14:32:02Z" open="false" min_lat="27.6455766" min_lon="84.9944122" max_lat="27.7986499" max_lon="85.3897076">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-401-g5359f3d"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="Primary Highways are marked as TRUNK"/>
+  </changeset>
+  <changeset id="11715795" user="bibstha" uid="680866" created_at="2012-05-27T13:37:41Z" closed_at="2012-05-27T13:37:42Z" open="false" min_lat="27.6728585" min_lon="85.3249062" max_lat="27.6735617" max_lon="85.3251287">
+    <tag k="created_by" v="JOSM/1.5 (5210 en)"/>
+    <tag k="comment" v="Fixed offsets for durbar square map."/>
+  </changeset>
+  <changeset id="11715779" user="bibstha" uid="680866" created_at="2012-05-27T13:35:24Z" closed_at="2012-05-27T13:35:27Z" open="false" min_lat="27.6707975" min_lon="85.3239101" max_lat="27.6752717" max_lon="85.3276951">
+    <tag k="created_by" v="JOSM/1.5 (5210 en)"/>
+    <tag k="comment" v="Fixed offsets for durbar square map."/>
+  </changeset>
+  <changeset id="11715686" user="bibstha" uid="680866" created_at="2012-05-27T13:24:40Z" closed_at="2012-05-27T13:24:44Z" open="false" min_lat="27.6666485" min_lon="85.3160309" max_lat="27.6777549" max_lon="85.3334436">
+    <tag k="created_by" v="JOSM/1.5 (5210 en)"/>
+    <tag k="comment" v="Fixed offsets for durbar square map."/>
+  </changeset>
+  <changeset id="11651093" user="bibstha" uid="680866" created_at="2012-05-20T12:44:08Z" closed_at="2012-05-20T13:52:24Z" open="false" min_lat="27.6689046" min_lon="85.3218443" max_lat="27.6794596" max_lon="85.3269229">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-390-g71b0be0"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="Minor road offsets corrected"/>
+  </changeset>
+  <changeset id="11650682" user="bibstha" uid="680866" created_at="2012-05-20T11:55:38Z" closed_at="2012-05-20T13:39:26Z" open="false" min_lat="27.6715679" min_lon="85.3139042" max_lat="27.6885248" max_lon="85.3275292">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-390-g71b0be0"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="Improving the coordinates"/>
+  </changeset>
+  <changeset id="11609534" user="bibstha" uid="680866" created_at="2012-05-15T21:55:25Z" closed_at="2012-05-15T22:55:28Z" open="false" min_lat="27.6527084" min_lon="85.2982098" max_lat="27.7233376" max_lon="85.3518183">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-390-g71b0be0"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="Fixed offsets in some roads"/>
+  </changeset>
+  <changeset id="11602366" user="bibstha" uid="680866" created_at="2012-05-15T07:36:19Z" closed_at="2012-05-15T09:26:00Z" open="false" min_lat="27.6649061" min_lon="85.3066457" max_lat="27.6887016" max_lon="85.3338163">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-390-g71b0be0"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="Fixed the roads offsets"/>
+  </changeset>
+  <changeset id="11600244" user="bibstha" uid="680866" created_at="2012-05-14T21:22:41Z" closed_at="2012-05-14T22:41:53Z" open="false" min_lat="27.6696446" min_lon="85.3018983" max_lat="27.687423" max_lon="85.3176088">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-390-g71b0be0"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="Fixed alignments of streets"/>
+  </changeset>
+  <changeset id="11585890" user="bibstha" uid="680866" created_at="2012-05-13T13:36:59Z" closed_at="2012-05-13T15:08:50Z" open="false" min_lat="27.65745" min_lon="85.2929384" max_lat="27.6953759" max_lon="85.3511082">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-388-g7902b3f"/>
+    <tag k="version" v="2.3"/>
+    <tag k="comment" v="saleways building marked"/>
+  </changeset>
+</osm>

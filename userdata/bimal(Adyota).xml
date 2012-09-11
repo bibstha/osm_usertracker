@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server">
+  <changeset id="13041731" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T08:35:37Z" closed_at="2012-09-09T08:35:38Z" open="false" min_lat="27.7002239" min_lon="85.3205204" max_lat="27.7012357" max_lon="85.32217">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="galli near singh darbar"/>
+  </changeset>
+  <changeset id="13041716" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T08:33:43Z" closed_at="2012-09-09T08:33:47Z" open="false" min_lat="27.7014896" min_lon="85.3163391" max_lat="27.7058965" max_lon="85.3231259">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="galli near baghbazaar"/>
+  </changeset>
+  <changeset id="13041611" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T08:22:31Z" closed_at="2012-09-09T08:22:36Z" open="false" min_lat="27.7030733" min_lon="85.3200505" max_lat="27.7058898" max_lon="85.3219956">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="galli near baghbazaar"/>
+  </changeset>
+  <changeset id="13041442" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T08:04:54Z" closed_at="2012-09-09T08:04:59Z" open="false" min_lat="27.7029608" min_lon="85.3160198" max_lat="27.7065531" max_lon="85.3231155">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="galli near baghbazaar"/>
+  </changeset>
+  <changeset id="13041237" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T07:45:25Z" closed_at="2012-09-09T07:45:29Z" open="false" min_lat="27.7032454" min_lon="85.3160797" max_lat="27.7065664" max_lon="85.3231695">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="galli near baghbazaar"/>
+  </changeset>
+  <changeset id="13041126" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T07:33:38Z" closed_at="2012-09-09T07:33:40Z" open="false" min_lat="27.7055881" min_lon="85.3162835" max_lat="27.7064551" max_lon="85.3234183">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="galli near ghanta ghar"/>
+  </changeset>
+  <changeset id="13041090" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T07:28:34Z" closed_at="2012-09-09T07:28:36Z" open="false" min_lat="27.7055664" min_lon="85.3162841" max_lat="27.7072986" max_lon="85.3231016">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="galli near ghanta ghar"/>
+  </changeset>
+  <changeset id="13041054" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T07:24:28Z" closed_at="2012-09-09T07:24:31Z" open="false" min_lat="27.6913125" min_lon="85.3134883" max_lat="27.7063946" max_lon="85.321995">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="there is no bagmati river in kamaladi area"/>
+  </changeset>
+  <changeset id="13041027" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T07:20:10Z" closed_at="2012-09-09T07:20:13Z" open="false" min_lat="27.7055195" min_lon="85.3216748" max_lat="27.708248" max_lon="85.3229168">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="ghanta ghar area gallis"/>
+  </changeset>
+  <changeset id="13040946" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T07:07:56Z" closed_at="2012-09-09T07:07:59Z" open="false" min_lat="27.7065093" min_lon="85.3166931" max_lat="27.7100757" max_lon="85.3221006">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="ghanta ghar area gallis"/>
+  </changeset>
+  <changeset id="13040761" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T06:34:31Z" closed_at="2012-09-09T07:00:51Z" open="false" min_lat="27.6924471" min_lon="85.3111416" max_lat="27.71478" max_lon="85.3225188">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="corrected nagasthan marga"/>
+  </changeset>
+  <changeset id="13040718" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T06:24:55Z" closed_at="2012-09-09T06:24:59Z" open="false" min_lat="27.708616" min_lon="85.3143556" max_lat="27.7101805" max_lon="85.3174326">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="added streets in jamal area"/>
+  </changeset>
+  <changeset id="13040630" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T06:08:36Z" closed_at="2012-09-09T06:08:41Z" open="false" min_lat="27.694022" min_lon="85.3133827" max_lat="27.7188562" max_lon="85.3163126">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="added kanthi path"/>
+  </changeset>
+  <changeset id="13040609" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T06:02:46Z" closed_at="2012-09-09T06:02:48Z" open="false" min_lat="27.6975038" min_lon="85.3091572" max_lat="27.6987258" max_lon="85.3104841">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="galli near dhara hara"/>
+  </changeset>
+  <changeset id="13040605" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T06:01:55Z" closed_at="2012-09-09T06:01:59Z" open="false" min_lat="27.693771" min_lon="85.3091572" max_lat="27.700711" max_lon="85.3146124">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="galli near dhara hara"/>
+  </changeset>
+  <changeset id="13040532" user="bimal(Adyota)" uid="682234" created_at="2012-09-09T05:44:17Z" closed_at="2012-09-09T05:51:20Z" open="false" min_lat="27.6981803" min_lon="85.3088757" max_lat="27.7045557" max_lon="85.3239813">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="galli near dhara hara"/>
+  </changeset>
+  <changeset id="13031429" user="bimal(Adyota)" uid="682234" created_at="2012-09-08T09:02:48Z" closed_at="2012-09-08T09:02:53Z" open="false" min_lat="27.7016427" min_lon="85.3222183" max_lat="27.7059072" max_lon="85.3239969">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="gallis near putalisadak"/>
+  </changeset>
+  <changeset id="13031404" user="bimal(Adyota)" uid="682234" created_at="2012-09-08T08:57:33Z" closed_at="2012-09-08T08:57:38Z" open="false" min_lat="27.7026285" min_lon="85.3226256" max_lat="27.7039284" max_lon="85.3249425">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="gallis near putalisadak"/>
+  </changeset>
+  <changeset id="13031352" user="bimal(Adyota)" uid="682234" created_at="2012-09-08T08:51:19Z" closed_at="2012-09-08T08:51:23Z" open="false" min_lat="27.7007289" min_lon="85.3221878" max_lat="27.7024817" max_lon="85.324383">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="unknown road"/>
+  </changeset>
+  <changeset id="13031257" user="bimal(Adyota)" uid="682234" created_at="2012-09-08T08:38:14Z" closed_at="2012-09-08T08:38:18Z" open="false" min_lat="27.7002084" min_lon="85.3225588" max_lat="27.7057824" max_lon="85.3278567">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="added new plaza marga and gallis"/>
+  </changeset>
+  <changeset id="13031103" user="bimal(Adyota)" uid="682234" created_at="2012-09-08T08:18:07Z" closed_at="2012-09-08T08:18:08Z" open="false" min_lat="27.7024304" min_lon="85.3225096" max_lat="27.7038484" max_lon="85.3238831">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="added gallis"/>
+  </changeset>
+  <changeset id="13030975" user="bimal(Adyota)" uid="682234" created_at="2012-09-08T08:04:12Z" closed_at="2012-09-08T08:04:18Z" open="false" min_lat="27.6931369" min_lon="85.3209309" max_lat="27.7013965" max_lon="85.3290214">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="added a lane"/>
+  </changeset>
+  <changeset id="13030894" user="bimal(Adyota)" uid="682234" created_at="2012-09-08T07:51:38Z" closed_at="2012-09-08T07:51:41Z" open="false" min_lat="27.6980666" min_lon="85.3200564" max_lat="27.7013899" max_lon="85.3223592">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="statue of prithvi narayan shah"/>
+  </changeset>
+  <changeset id="13030838" user="bimal(Adyota)" uid="682234" created_at="2012-09-08T07:42:54Z" closed_at="2012-09-08T07:43:10Z" open="false" min_lat="27.6712984" min_lon="85.3266128" max_lat="27.6743843" max_lon="85.3415018">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="areas around balkumari"/>
+  </changeset>
+  <changeset id="12952137" user="bimal(Adyota)" uid="682234" created_at="2012-09-02T10:55:48Z" closed_at="2012-09-02T10:55:50Z" open="false" min_lat="27.6719225" min_lon="85.3377999" max_lat="27.6726644" max_lon="85.3380731">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="mandala party palace"/>
+  </changeset>
+  <changeset id="12952115" user="bimal(Adyota)" uid="682234" created_at="2012-09-02T10:53:43Z" closed_at="2012-09-02T10:53:45Z" open="false" min_lat="27.6700803" min_lon="85.3324423" max_lat="27.6706748" max_lon="85.3376168">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="mandala party palace"/>
+  </changeset>
+  <changeset id="12951957" user="bimal(Adyota)" uid="682234" created_at="2012-09-02T10:43:14Z" closed_at="2012-09-02T10:43:16Z" open="false" min_lat="27.6694541" min_lon="85.3314349" max_lat="27.6732766" max_lon="85.3328036">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="guitole around"/>
+  </changeset>
+  <changeset id="12951914" user="bimal(Adyota)" uid="682234" created_at="2012-09-02T10:40:16Z" closed_at="2012-09-02T10:40:18Z" open="false" min_lat="27.6735827" min_lon="85.3240563" max_lat="27.6739215" max_lon="85.3247839">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="added galli"/>
+  </changeset>
+  <changeset id="12951800" user="bimal(Adyota)" uid="682234" created_at="2012-09-02T10:31:10Z" closed_at="2012-09-02T10:31:13Z" open="false" min_lat="27.6711556" min_lon="85.3338959" max_lat="27.6730965" max_lon="85.3400861">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="parking space"/>
+  </changeset>
+  <changeset id="12951728" user="bimal(Adyota)" uid="682234" created_at="2012-09-02T10:26:19Z" closed_at="2012-09-02T10:26:21Z" open="false" min_lat="27.6722415" min_lon="85.3280081" max_lat="27.6756312" max_lon="85.3387758">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="added schools"/>
+  </changeset>
+  <changeset id="12951514" user="bimal(Adyota)" uid="682234" created_at="2012-09-02T10:08:12Z" closed_at="2012-09-02T10:08:13Z" open="false" min_lat="27.6751912" min_lon="85.3381065" max_lat="27.6759016" max_lon="85.3386277">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="suspension bridge added"/>
+  </changeset>
+  <changeset id="12951330" user="bimal(Adyota)" uid="682234" created_at="2012-09-02T09:52:24Z" closed_at="2012-09-02T09:52:26Z" open="false" min_lat="27.6727738" min_lon="85.3264087" max_lat="27.6794971" max_lon="85.3312314">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="added dhunge dhara around chyasal"/>
+  </changeset>
+  <changeset id="12949322" user="bimal(Adyota)" uid="682234" created_at="2012-09-02T05:46:49Z" closed_at="2012-09-02T05:46:58Z" open="false" min_lat="27.6695214" min_lon="85.3250488" max_lat="27.6798578" max_lon="85.3409186">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="added dhunge dhara around chyasal"/>
+  </changeset>
+  <changeset id="12939371" user="bimal(Adyota)" uid="682234" created_at="2012-09-01T07:51:08Z" closed_at="2012-09-01T07:51:10Z" open="false" min_lat="27.6729137" min_lon="85.3360405" max_lat="27.6757299" max_lon="85.3387771">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="added balkumari dhal plan"/>
+  </changeset>
+  <changeset id="12939346" user="bimal(Adyota)" uid="682234" created_at="2012-09-01T07:48:23Z" closed_at="2012-09-01T07:48:26Z" open="false" min_lat="27.6703044" min_lon="85.3281094" max_lat="27.6829196" max_lon="85.3381309">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="added saraswati temple, chyasal football ground"/>
+  </changeset>
+  <changeset id="12939278" user="bimal(Adyota)" uid="682234" created_at="2012-09-01T07:41:16Z" closed_at="2012-09-01T07:41:18Z" open="false" min_lat="27.6706718" min_lon="85.327593" max_lat="27.6732856" max_lon="85.3414759">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="added saraswati temple"/>
+  </changeset>
+  <changeset id="12939190" user="bimal(Adyota)" uid="682234" created_at="2012-09-01T07:30:00Z" closed_at="2012-09-01T07:30:02Z" open="false" min_lat="27.6691999" min_lon="85.3098162" max_lat="27.6717326" max_lon="85.337169">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="added bimal's house"/>
+  </changeset>
+  <changeset id="12938791" user="bimal(Adyota)" uid="682234" created_at="2012-09-01T06:08:30Z" closed_at="2012-09-01T07:08:31Z" open="false" min_lat="27.671958" min_lon="85.3130597" max_lat="27.6726659" max_lon="85.3137885">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12938780" user="bimal(Adyota)" uid="682234" created_at="2012-09-01T06:06:38Z" closed_at="2012-09-01T07:06:39Z" open="false" min_lat="27.6719492" min_lon="85.3130227" max_lat="27.6727209" max_lon="85.3138393">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="nepal telecom added"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12851632" user="bimal(Adyota)" uid="682234" created_at="2012-08-25T05:09:47Z" closed_at="2012-08-25T06:32:06Z" open="false" min_lat="27.6691088" min_lon="85.3123217" max_lat="27.6704923" max_lon="85.3129373">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="added young innovations office building."/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12486567" user="bimal(Adyota)" uid="682234" created_at="2012-07-25T12:48:02Z" closed_at="2012-07-25T13:50:40Z" open="false" min_lat="27.7093792" min_lon="85.3249101" max_lat="27.7114425" max_lon="85.3259396">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="added russian center"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-415-g05324af"/>
+  </changeset>
+  <changeset id="12473078" user="bimal(Adyota)" uid="682234" created_at="2012-07-24T18:21:56Z" closed_at="2012-07-24T19:43:02Z" open="false" min_lat="27.6631665" min_lon="85.318601" max_lat="27.6999064" max_lon="85.3421581">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="added balkumari police station"/>
+    <tag k="build" v="2.3-415-g05324af"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+  <changeset id="12138612" user="bimal(Adyota)" uid="682234" created_at="2012-07-07T10:22:31Z" closed_at="2012-07-07T10:22:32Z" open="false" min_lat="27.673387" min_lon="85.3125479" max_lat="27.673387" max_lon="85.3125479">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Zoo in an hour"/>
+  </changeset>
+  <changeset id="12136666" user="bimal(Adyota)" uid="682234" created_at="2012-07-07T04:30:02Z" closed_at="2012-07-07T05:30:02Z" open="false">
+    <tag k="created_by" v="Potlatch 1.4 (live en)"/>
+  </changeset>
+  <changeset id="11846374" user="bimal(Adyota)" uid="682234" created_at="2012-06-09T15:57:11Z" closed_at="2012-06-09T17:04:37Z" open="false" min_lat="27.6727705" min_lon="85.3245745" max_lat="27.6734959" max_lon="85.3249731">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="this is the restaurant in mangal bazaar. opposite to the fountain."/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-396-g24ec597"/>
+  </changeset>
+</osm>

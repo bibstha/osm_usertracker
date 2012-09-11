@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server">
+  <changeset id="13004278" user="prabhasp" uid="350005" created_at="2012-09-06T02:08:17Z" closed_at="2012-09-06T02:08:18Z" open="false" min_lat="27.6765504" min_lon="85.3112703" max_lat="27.6768285" max_lon="85.311593">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="tamarind -&gt; Tamarind"/>
+  </changeset>
+  <changeset id="13004272" user="prabhasp" uid="350005" created_at="2012-09-06T02:06:30Z" closed_at="2012-09-06T02:06:39Z" open="false" min_lat="27.6765239" min_lon="85.3112577" max_lat="27.6768545" max_lon="85.3116089">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Adding in Tamarind Restaurant with compound + 2 buildings."/>
+  </changeset>
+  <changeset id="12490483" user="prabhasp" uid="350005" created_at="2012-07-25T18:56:21Z" closed_at="2012-07-25T18:57:06Z" open="false" min_lat="27.6882932" min_lon="85.3355438" max_lat="27.6883042" max_lon="85.3355438">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Naya Baneshwor is a stop."/>
+  </changeset>
+  <changeset id="12490360" user="prabhasp" uid="350005" created_at="2012-07-25T18:46:00Z" closed_at="2012-07-25T19:53:10Z" open="false" min_lat="27.6496503" min_lon="85.2942862" max_lat="27.7406753" max_lon="85.34907">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Fixing Naya Baneshowr route; plus other public transport updates."/>
+  </changeset>
+  <changeset id="12490204" user="prabhasp" uid="350005" created_at="2012-07-25T18:30:35Z" closed_at="2012-07-25T18:30:44Z" open="false" min_lat="27.677501" min_lon="85.3086483" max_lat="27.7931058" max_lon="85.3823402">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="More starts and ends for routes."/>
+  </changeset>
+  <changeset id="12490052" user="prabhasp" uid="350005" created_at="2012-07-25T18:15:59Z" closed_at="2012-07-25T18:20:08Z" open="false" min_lat="27.6526678" min_lon="85.308355" max_lat="27.722951" max_lon="85.3516332">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="More starts and ends for routes."/>
+  </changeset>
+  <changeset id="12489989" user="prabhasp" uid="350005" created_at="2012-07-25T18:09:54Z" closed_at="2012-07-25T18:10:02Z" open="false" min_lat="27.7030747" min_lon="85.3137297" max_lat="27.7196263" max_lon="85.3173938">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="More starts and ends for routes."/>
+  </changeset>
+  <changeset id="12489887" user="prabhasp" uid="350005" created_at="2012-07-25T18:01:20Z" closed_at="2012-07-25T18:01:39Z" open="false" min_lat="27.6722215" min_lon="85.313007" max_lat="27.7105373" max_lon="85.3469917">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="More starts and ends for routes."/>
+  </changeset>
+  <changeset id="12489847" user="prabhasp" uid="350005" created_at="2012-07-25T17:55:41Z" closed_at="2012-07-25T17:56:21Z" open="false" min_lat="27.6628153" min_lon="85.3133882" max_lat="27.7152871" max_lon="85.3750747">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Route starts and ends, mostly."/>
+  </changeset>
+  <changeset id="12435992" user="prabhasp" uid="350005" created_at="2012-07-22T16:50:53Z" closed_at="2012-07-22T16:53:31Z" open="false" min_lat="27.6515632" min_lon="85.2771773" max_lat="27.7511666" max_lon="85.3631139">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Many more stops and ends for routes."/>
+  </changeset>
+  <changeset id="12434931" user="prabhasp" uid="350005" created_at="2012-07-22T15:45:41Z" closed_at="2012-07-22T15:45:46Z" open="false" min_lat="27.677501" min_lon="85.3163021" max_lat="27.6835166" max_lon="85.318821">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Completing route."/>
+  </changeset>
+  <changeset id="12434850" user="prabhasp" uid="350005" created_at="2012-07-22T15:40:19Z" closed_at="2012-07-22T15:40:25Z" open="false" min_lat="27.6737665" min_lon="85.3132908" max_lat="27.7813153" max_lon="85.3622232">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Starts and ends."/>
+  </changeset>
+  <changeset id="12429482" user="prabhasp" uid="350005" created_at="2012-07-22T10:05:07Z" closed_at="2012-07-22T10:05:10Z" open="false" min_lat="27.6883042" min_lon="85.3327348" max_lat="27.7400946" max_lon="85.3483338">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Start and End for teaching-&gt;new baneshwor route."/>
+  </changeset>
+  <changeset id="12429386" user="prabhasp" uid="350005" created_at="2012-07-22T09:59:37Z" closed_at="2012-07-22T09:59:43Z" open="false" min_lat="27.6883993" min_lon="85.3173036" max_lat="27.6927394" max_lon="85.3223147">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Couple of streets."/>
+  </changeset>
+  <changeset id="12426016" user="prabhasp" uid="350005" created_at="2012-07-22T05:47:38Z" closed_at="2012-07-22T05:47:43Z" open="false" min_lat="27.6747078" min_lon="85.309118" max_lat="27.6975505" max_lon="85.364221">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Added momo pasal, farmland, plus a couple of fixes."/>
+  </changeset>
+  <changeset id="12404714" user="prabhasp" uid="350005" created_at="2012-07-21T09:27:31Z" closed_at="2012-07-21T09:27:35Z" open="false" min_lat="27.6624138" min_lon="85.3139586" max_lat="27.6790988" max_lon="85.3239461">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="More route updates."/>
+  </changeset>
+  <changeset id="12404621" user="prabhasp" uid="350005" created_at="2012-07-21T09:23:07Z" closed_at="2012-07-21T09:23:09Z" open="false" min_lat="27.6624138" min_lon="85.3239461" max_lat="27.6624138" max_lon="85.3239461">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Lagankhel."/>
+  </changeset>
+  <changeset id="12404598" user="prabhasp" uid="350005" created_at="2012-07-21T09:22:02Z" closed_at="2012-07-21T09:22:05Z" open="false" min_lat="27.6933724" min_lon="85.322279" max_lat="27.7012048" max_lon="85.3294718">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Quick corrections on public transport data."/>
+  </changeset>
+  <changeset id="12404572" user="prabhasp" uid="350005" created_at="2012-07-21T09:20:27Z" closed_at="2012-07-21T09:20:30Z" open="false" min_lat="27.6637593" min_lon="85.3135464" max_lat="27.7072542" max_lon="85.3256892">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Quick corrections on public transport data."/>
+  </changeset>
+  <changeset id="12370459" user="prabhasp" uid="350005" created_at="2012-07-20T09:57:52Z" closed_at="2012-07-20T09:57:55Z" open="false" min_lat="27.693261" min_lon="85.3084446" max_lat="27.755727" max_lon="85.3559473">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Slum Communities around Kathmandu"/>
+  </changeset>
+  <changeset id="12290601" user="prabhasp" uid="350005" created_at="2012-07-18T17:29:45Z" closed_at="2012-07-18T17:29:56Z" open="false" min_lat="27.6538098" min_lon="85.2826289" max_lat="27.7634495" max_lon="85.4301631">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Terminus points on public transit routes."/>
+  </changeset>
+  <changeset id="12289312" user="prabhasp" uid="350005" created_at="2012-07-18T16:43:16Z" closed_at="2012-07-18T16:43:33Z" open="false" min_lat="27.6647315" min_lon="85.2683647" max_lat="27.7483503" max_lon="85.3594223">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Error corrections all around Kathmandu."/>
+  </changeset>
+  <changeset id="12242424" user="prabhasp" uid="350005" created_at="2012-07-16T10:17:13Z" closed_at="2012-07-16T10:17:18Z" open="false" min_lat="27.6822082" min_lon="85.3026172" max_lat="27.756151" max_lon="85.3706199">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Slum Communities around Kathmandu, done by @Jhuselikira"/>
+  </changeset>
+  <changeset id="12202896" user="prabhasp" uid="350005" created_at="2012-07-13T05:46:16Z" closed_at="2012-07-13T05:46:21Z" open="false" min_lat="27.6720003" min_lon="85.3094539" max_lat="27.6746827" max_lon="85.3124852">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Pedestrian -&gt; Footway."/>
+  </changeset>
+  <changeset id="12202891" user="prabhasp" uid="350005" created_at="2012-07-13T05:44:43Z" closed_at="2012-07-13T05:45:04Z" open="false" min_lat="27.6737397" min_lon="85.3098107" max_lat="27.6797574" max_lon="85.3167402">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Minor fixes."/>
+  </changeset>
+  <changeset id="12202833" user="prabhasp" uid="350005" created_at="2012-07-13T05:29:07Z" closed_at="2012-07-13T05:29:11Z" open="false" min_lat="27.6788789" min_lon="85.3396246" max_lat="27.7032355" max_lon="85.3551833">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Perfecting a couple of public transport routes."/>
+  </changeset>
+  <changeset id="12202788" user="prabhasp" uid="350005" created_at="2012-07-13T05:16:44Z" closed_at="2012-07-13T05:16:54Z" open="false" min_lat="27.658264" min_lon="85.324663" max_lat="27.7069719" max_lon="85.3577636">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Adding orienting_way to one Koteshwor-Ratnapark route."/>
+  </changeset>
+  <changeset id="12196044" user="prabhasp" uid="350005" created_at="2012-07-12T13:42:29Z" closed_at="2012-07-12T13:42:31Z" open="false" min_lat="27.7036617" min_lon="85.2748733" max_lat="27.7332333" max_lon="85.297367">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Fixing stray node."/>
+  </changeset>
+  <changeset id="12195978" user="prabhasp" uid="350005" created_at="2012-07-12T13:37:32Z" closed_at="2012-07-12T13:37:34Z" open="false" min_lat="27.6708869" min_lon="85.3221433" max_lat="27.6775411" max_lon="85.3254668">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Fixing stray node."/>
+  </changeset>
+  <changeset id="12195971" user="prabhasp" uid="350005" created_at="2012-07-12T13:36:24Z" closed_at="2012-07-12T13:36:29Z" open="false" min_lat="27.6649881" min_lon="85.321548" max_lat="27.670343" max_lon="85.327004">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Added Hariyo Chowk."/>
+  </changeset>
+  <changeset id="12193571" user="prabhasp" uid="350005" created_at="2012-07-12T08:55:50Z" closed_at="2012-07-12T08:55:53Z" open="false" min_lat="27.6740748" min_lon="85.3265856" max_lat="27.6740748" max_lon="85.3265856">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Deleting the route for testing; we now have real ones."/>
+  </changeset>
+  <changeset id="12193319" user="prabhasp" uid="350005" created_at="2012-07-12T08:22:09Z" closed_at="2012-07-12T08:22:12Z" open="false" min_lat="27.6587231" min_lon="85.3141222" max_lat="27.7092561" max_lon="85.3463015">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Orientation for 14A, 14B; Some minor fixes."/>
+  </changeset>
+  <changeset id="12183592" user="prabhasp" uid="350005" created_at="2012-07-11T09:28:00Z" closed_at="2012-07-11T09:28:03Z" open="false" min_lat="27.6726602" min_lon="85.3134301" max_lat="27.6731855" max_lon="85.3140102">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Fixing the loop for the 14A tempo route."/>
+  </changeset>
+  <changeset id="12158088" user="prabhasp" uid="350005" created_at="2012-07-09T06:25:02Z" closed_at="2012-07-09T06:25:06Z" open="false" min_lat="27.6731669" min_lon="85.3136149" max_lat="27.6949687" max_lon="85.3233862">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Fixing a couple of issues with public transport; much left."/>
+  </changeset>
+  <changeset id="12153036" user="prabhasp" uid="350005" created_at="2012-07-08T17:49:06Z" closed_at="2012-07-08T17:49:15Z" open="false" min_lat="27.6714509" min_lon="85.309544" max_lat="27.6745942" max_lon="85.3129285">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Fixed DAV School, Adding Zoo Ticketing."/>
+  </changeset>
+  <changeset id="12146635" user="prabhasp" uid="350005" created_at="2012-07-08T07:40:19Z" closed_at="2012-07-08T08:15:34Z" open="false" min_lat="27.6730131" min_lon="85.3065799" max_lat="27.6753935" max_lon="85.3123697">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Fixed DAV School, Adding Zoo Ticketing."/>
+  </changeset>
+  <changeset id="12146447" user="prabhasp" uid="350005" created_at="2012-07-08T07:08:48Z" closed_at="2012-07-08T07:08:49Z" open="false" min_lat="27.6747302" min_lon="85.3102183" max_lat="27.6747302" max_lon="85.3102183">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Added Sattya."/>
+  </changeset>
+  <changeset id="12146294" user="prabhasp" uid="350005" created_at="2012-07-08T06:24:42Z" closed_at="2012-07-08T06:24:45Z" open="false" min_lat="27.6731669" min_lon="85.3136149" max_lat="27.6783247" max_lon="85.3166643">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Adding the Lagankhel tempo route relation."/>
+  </changeset>
+  <changeset id="12146232" user="prabhasp" uid="350005" created_at="2012-07-08T06:07:09Z" closed_at="2012-07-08T06:07:12Z" open="false" min_lat="27.6587733" min_lon="85.312502" max_lat="27.6979794" max_lon="85.353254">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Adding the Lagankhel tempo route relation."/>
+  </changeset>
+  <changeset id="12145751" user="prabhasp" uid="350005" created_at="2012-07-08T03:11:43Z" closed_at="2012-07-08T03:20:49Z" open="false" min_lat="27.6571081" min_lon="85.2784848" max_lat="27.7503203" max_lon="85.3565406">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Prep work to add the Lagankhel tempo route relation."/>
+  </changeset>
+  <changeset id="12138900" user="prabhasp" uid="350005" created_at="2012-07-07T11:01:43Z" closed_at="2012-07-07T12:02:06Z" open="false">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Adding a tempo route."/>
+  </changeset>
+  <changeset id="12137981" user="prabhasp" uid="350005" created_at="2012-07-07T08:55:46Z" closed_at="2012-07-07T08:55:48Z" open="false" min_lat="27.674746" min_lon="85.3044736" max_lat="27.6798037" max_lon="85.3102938">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Uploading from a GPX track around Jhamsikhel."/>
+  </changeset>
+  <changeset id="12136780" user="prabhasp" uid="350005" created_at="2012-07-07T05:07:29Z" closed_at="2012-07-07T05:07:33Z" open="false" min_lat="27.6645048" min_lon="85.3115312" max_lat="27.6724247" max_lon="85.3146393">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Adding LDTA."/>
+  </changeset>
+  <changeset id="12132530" user="prabhasp" uid="350005" created_at="2012-07-06T17:00:32Z" closed_at="2012-07-06T17:00:34Z" open="false" min_lat="27.7014533" min_lon="85.3356797" max_lat="27.7082364" max_lon="85.3434737">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Additional bus route for testing."/>
+  </changeset>
+  <changeset id="12130486" user="prabhasp" uid="350005" created_at="2012-07-06T13:27:44Z" closed_at="2012-07-06T13:27:57Z" open="false" min_lat="27.6579203" min_lon="85.2814832" max_lat="27.7421753" max_lon="85.355357">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="Making English names into default; adding the ring road circuit public transport route."/>
+  </changeset>
+  <changeset id="12122525" user="prabhasp" uid="350005" created_at="2012-07-05T17:13:42Z" closed_at="2012-07-05T17:13:48Z" open="false" min_lat="27.6666542" min_lon="85.3075448" max_lat="27.6771242" max_lon="85.3147646">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="primary_link is the wrong tag here."/>
+  </changeset>
+  <changeset id="12121436" user="prabhasp" uid="350005" created_at="2012-07-05T15:14:16Z" closed_at="2012-07-05T15:15:16Z" open="false" min_lat="27.6579203" min_lon="85.2814832" max_lat="27.7464295" max_lon="85.3626063">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="A couple of public transportation points."/>
+  </changeset>
+  <changeset id="12101576" user="prabhasp" uid="350005" created_at="2012-07-03T15:58:42Z" closed_at="2012-07-03T15:58:53Z" open="false" min_lat="27.7024506" min_lon="85.3218864" max_lat="27.7192814" max_lon="85.3409924">
+    <tag k="created_by" v="JOSM/1.5 (5315 en)"/>
+    <tag k="comment" v="kalopul + dillibazar area."/>
+  </changeset>
+  <changeset id="12097454" user="prabhasp" uid="350005" created_at="2012-07-03T08:12:55Z" closed_at="2012-07-03T09:12:57Z" open="false" min_lat="27.6747409" min_lon="85.3231322" max_lat="27.6750782" max_lon="85.3235815">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="sasto bazaar is a big building"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-407-g55bf495"/>
+  </changeset>
+  <changeset id="12088416" user="prabhasp" uid="350005" created_at="2012-07-02T15:08:47Z" closed_at="2012-07-02T15:08:57Z" open="false" min_lat="27.6621769" min_lon="85.3077616" max_lat="27.7164023" max_lon="85.3339415">
+    <tag k="created_by" v="JOSM/1.5 (5267 en)"/>
+    <tag k="comment" v="Thamel to Patan."/>
+  </changeset>
+  <changeset id="12077771" user="prabhasp" uid="350005" created_at="2012-07-01T15:51:55Z" closed_at="2012-07-01T15:51:58Z" open="false" min_lat="27.7199095" min_lon="85.327983" max_lat="27.722823" max_lon="85.3340033">
+    <tag k="created_by" v="JOSM/1.5 (5267 en)"/>
+    <tag k="comment" v="More bhatbhateni."/>
+  </changeset>
+  <changeset id="12077405" user="prabhasp" uid="350005" created_at="2012-07-01T15:22:16Z" closed_at="2012-07-01T15:22:21Z" open="false" min_lat="27.7184012" min_lon="85.3308895" max_lat="27.7237443" max_lon="85.3339546">
+    <tag k="created_by" v="JOSM/1.5 (5267 en)"/>
+    <tag k="comment" v="Biruwa and Bhatbhateni area updates."/>
+  </changeset>
+  <changeset id="12071511" user="prabhasp" uid="350005" created_at="2012-07-01T01:47:19Z" closed_at="2012-07-01T01:47:21Z" open="false" min_lat="27.7033315" min_lon="85.3449741" max_lat="27.7057609" max_lon="85.3474834">
+    <tag k="created_by" v="JOSM/1.5 (5267 en)"/>
+    <tag k="comment" v="A reclassification attempt..."/>
+  </changeset>
+  <changeset id="12065804" user="prabhasp" uid="350005" created_at="2012-06-30T13:24:55Z" closed_at="2012-06-30T13:25:04Z" open="false" min_lat="27.6876539" min_lon="85.3329619" max_lat="27.7084546" max_lon="85.3640383">
+    <tag k="created_by" v="JOSM/1.5 (5267 en)"/>
+    <tag k="comment" v="Names and reclassification in the purano baneshwor area."/>
+  </changeset>
+  <changeset id="12065533" user="prabhasp" uid="350005" created_at="2012-06-30T12:53:26Z" closed_at="2012-06-30T12:53:35Z" open="false" min_lat="27.6890949" min_lon="85.3602937" max_lat="27.7049466" max_lon="85.3905244">
+    <tag k="created_by" v="JOSM/1.5 (5267 en)"/>
+    <tag k="comment" v="More pepsi / planning."/>
+  </changeset>
+  <changeset id="12065439" user="prabhasp" uid="350005" created_at="2012-06-30T12:41:16Z" closed_at="2012-06-30T12:41:53Z" open="false" min_lat="27.6766112" min_lon="85.3589186" max_lat="27.7059742" max_lon="85.4097567">
+    <tag k="created_by" v="JOSM/1.5 (5267 en)"/>
+    <tag k="comment" v="I guess this is what &quot;planning&quot; looks like."/>
+  </changeset>
+  <changeset id="12064058" user="prabhasp" uid="350005" created_at="2012-06-30T09:47:17Z" closed_at="2012-06-30T09:47:25Z" open="false" min_lat="27.6738709" min_lon="85.3261238" max_lat="27.7147793" max_lon="85.3934753">
+    <tag k="created_by" v="JOSM/1.5 (5267 en)"/>
+    <tag k="comment" v="Beginning work on Pepsi / Planning area."/>
+  </changeset>
+  <changeset id="11718354" user="prabhasp" uid="350005" created_at="2012-05-27T18:07:41Z" closed_at="2012-05-27T19:07:44Z" open="false" min_lat="27.6965939" min_lon="85.3086398" max_lat="27.714781" max_lon="85.3275113">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Updating road types around Kathmandu o make them more reasonable. Source: local knowledge by riding scooters in all the streets."/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-396-g24ec597"/>
+  </changeset>
+  <changeset id="11667670" user="prabhasp" uid="350005" created_at="2012-05-22T01:37:29Z" closed_at="2012-05-22T01:37:31Z" open="false" min_lat="27.694351" min_lon="85.31885" max_lat="27.705655" max_lon="85.332659">
+    <tag k="created_by" v="JOSM/1.5 (5210 en)"/>
+    <tag k="comment" v="Updating some road categories. (Ramshahpath has POTHOLES, definitely not trunk.)"/>
+  </changeset>
+  <changeset id="10496507" user="prabhasp" uid="350005" created_at="2012-01-25T19:01:02Z" closed_at="2012-01-25T20:01:05Z" open="false" min_lat="27.6474121" min_lon="85.2802375" max_lat="27.6497404" max_lon="85.2834105">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="the footpath around taudaha is nice and long, and a beautiful stroll :)"/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-129-g04001aa"/>
+  </changeset>
+  <changeset id="10495824" user="prabhasp" uid="350005" created_at="2012-01-25T17:42:43Z" closed_at="2012-01-25T18:42:46Z" open="false" min_lat="12.9287125" min_lon="77.6288812" max_lat="12.9364023" max_lon="77.6316381">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="A few Bangalore businesses added."/>
+    <tag k="version" v="2.3"/>
+    <tag k="build" v="2.3-129-g04001aa"/>
+  </changeset>
+  <changeset id="10297572" user="prabhasp" uid="350005" created_at="2012-01-05T04:58:27Z" closed_at="2012-01-05T04:58:32Z" open="false" min_lat="27.6839598" min_lon="85.348836" max_lat="27.7073627" max_lon="85.3556788">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Fixed the ring road.... need to figure out what happened here..."/>
+  </changeset>
+  <changeset id="9371671" user="prabhasp" uid="350005" created_at="2011-09-22T19:29:19Z" closed_at="2011-09-22T19:29:22Z" open="false" min_lat="27.6863496" min_lon="85.3284275" max_lat="27.6948254" max_lon="85.3437782">
+    <tag k="created_by" v="JOSM/1.5 (4399 en)"/>
+    <tag k="comment" v="Added a road in New Baneshwor."/>
+  </changeset>
+  <changeset id="9371607" user="prabhasp" uid="350005" created_at="2011-09-22T19:23:14Z" closed_at="2011-09-22T20:23:15Z" open="false" min_lat="27.7046726" min_lon="85.3123699" max_lat="27.7046726" max_lon="85.3123699">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="There are three BIR hospitals, and this one is the least correct."/>
+    <tag k="version" v="2.2"/>
+    <tag k="build" v="2.2-41-gec89ae9"/>
+  </changeset>
+  <changeset id="9371580" user="prabhasp" uid="350005" created_at="2011-09-22T19:20:14Z" closed_at="2011-09-22T20:20:15Z" open="false" min_lat="27.703157" min_lon="85.312763" max_lat="27.703157" max_lon="85.312763">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Added the New Road Gudpak Store"/>
+    <tag k="version" v="2.2"/>
+    <tag k="build" v="2.2-41-gec89ae9"/>
+  </changeset>
+  <changeset id="9303287" user="prabhasp" uid="350005" created_at="2011-09-14T20:40:24Z" closed_at="2011-09-14T21:40:25Z" open="false" min_lat="27.6902829" min_lon="85.3429552" max_lat="27.6902829" max_lon="85.3429552">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="This tree is an important landmark in the area.... and the junction=mini_roundabout is tagging for the renderer (to mark the landmarkness of the tree). If you can suggest an alternative, go for it..."/>
+    <tag k="version" v="2.2"/>
+    <tag k="build" v="2.2-41-gec89ae9"/>
+  </changeset>
+  <changeset id="9053363" user="prabhasp" uid="350005" created_at="2011-08-18T03:02:39Z" closed_at="2011-08-18T03:02:44Z" open="false" min_lat="27.6748103" min_lon="85.3169146" max_lat="27.6806813" max_lon="85.3246005">
+    <tag k="created_by" v="Vespucci 0.7.0"/>
+    <tag k="comment" v="patan side roads."/>
+  </changeset>
+  <changeset id="9029430" user="prabhasp" uid="350005" created_at="2011-08-15T17:39:05Z" closed_at="2011-08-15T17:40:23Z" open="false" min_lat="27.6921976" min_lon="85.3196605" max_lat="27.7242251" max_lon="85.33631">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Roads in the Anamnagar area."/>
+  </changeset>
+  <changeset id="9023793" user="prabhasp" uid="350005" created_at="2011-08-15T07:00:37Z" closed_at="2011-08-15T07:00:56Z" open="false" min_lat="27.6975432" min_lon="85.3131699" max_lat="27.7243613" max_lon="85.3269203">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Heart of town--some names and traces."/>
+  </changeset>
+  <changeset id="9023398" user="prabhasp" uid="350005" created_at="2011-08-15T05:26:25Z" closed_at="2011-08-15T05:26:52Z" open="false" min_lat="27.7149877" min_lon="85.3145275" max_lat="27.7402068" max_lon="85.3378551">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Lazimpat road tracing."/>
+  </changeset>
+  <changeset id="9023296" user="prabhasp" uid="350005" created_at="2011-08-15T04:52:52Z" closed_at="2011-08-15T04:52:57Z" open="false" min_lat="27.5942649" min_lon="85.3514068" max_lat="27.6129766" max_lon="85.3759328">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Godavari."/>
+  </changeset>
+  <changeset id="9023249" user="prabhasp" uid="350005" created_at="2011-08-15T04:41:29Z" closed_at="2011-08-15T04:42:58Z" open="false" min_lat="27.5683692" min_lon="85.3078649" max_lat="27.68194" max_lon="85.351938">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Khumaltar and beyond.. roads and rivers."/>
+  </changeset>
+  <changeset id="9023092" user="prabhasp" uid="350005" created_at="2011-08-15T03:49:25Z" closed_at="2011-08-15T03:49:52Z" open="false" min_lat="27.5845812" min_lon="85.3200112" max_lat="27.7292345" max_lon="85.4297905">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="GPS-based updates, all over the valley."/>
+  </changeset>
+  <changeset id="8986440" user="prabhasp" uid="350005" created_at="2011-08-11T15:11:22Z" closed_at="2011-08-11T15:11:43Z" open="false" min_lat="27.698485" min_lon="85.3461693" max_lat="27.7063044" max_lon="85.3501514">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Pingalsthan Area--some more inside roads."/>
+  </changeset>
+  <changeset id="8986145" user="prabhasp" uid="350005" created_at="2011-08-11T14:31:20Z" closed_at="2011-08-11T15:04:19Z" open="false" min_lat="27.6884658" min_lon="85.3061823" max_lat="27.7445864" max_lon="85.3565528">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Pingalsthan Area--roads, areas, what not."/>
+  </changeset>
+  <changeset id="8982966" user="prabhasp" uid="350005" created_at="2011-08-11T07:39:33Z" closed_at="2011-08-11T07:39:36Z" open="false" min_lat="27.6990334" min_lon="85.3401645" max_lat="27.702297" max_lon="85.3469636">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Two roads in Old Baneshwor."/>
+  </changeset>
+  <changeset id="8973925" user="prabhasp" uid="350005" created_at="2011-08-10T08:04:31Z" closed_at="2011-08-10T08:04:41Z" open="false" min_lat="27.6549971" min_lon="85.3198203" max_lat="27.7179787" max_lon="85.3539982">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Some mini-roundabouts, some other things."/>
+  </changeset>
+  <changeset id="8973033" user="prabhasp" uid="350005" created_at="2011-08-10T04:56:09Z" closed_at="2011-08-10T06:13:44Z" open="false">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Some mini-roundabouts, some other things."/>
+  </changeset>
+  <changeset id="8963061" user="prabhasp" uid="350005" created_at="2011-08-09T01:50:37Z" closed_at="2011-08-09T01:50:38Z" open="false" min_lat="27.6877665" min_lon="85.335766" max_lat="27.6879521" max_lon="85.335919">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Standardizing Bank name."/>
+  </changeset>
+  <changeset id="8955415" user="prabhasp" uid="350005" created_at="2011-08-08T09:58:12Z" closed_at="2011-08-08T10:58:14Z" open="false" min_lat="27.6854225" min_lon="85.3387174" max_lat="27.6870151" max_lon="85.3416292">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Survey Department --&gt; tagging the area not just a node."/>
+    <tag k="version" v="2.2"/>
+    <tag k="build" v="2.2-41-gec89ae9"/>
+  </changeset>
+  <changeset id="8955381" user="prabhasp" uid="350005" created_at="2011-08-08T09:54:45Z" closed_at="2011-08-08T10:54:46Z" open="false" min_lat="27.6898262" min_lon="85.3188054" max_lat="27.6903494" max_lon="85.3194152">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Deleted the hospital node as the hospital area is already there."/>
+    <tag k="version" v="2.2"/>
+    <tag k="build" v="2.2-41-gec89ae9"/>
+  </changeset>
+  <changeset id="8955340" user="prabhasp" uid="350005" created_at="2011-08-08T09:50:00Z" closed_at="2011-08-08T10:50:01Z" open="false" min_lat="27.6853887" min_lon="85.3381768" max_lat="27.6874463" max_lon="85.3418616">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Tagged Civil Servant Hospital to the area rather than a particular node."/>
+    <tag k="version" v="2.2"/>
+    <tag k="build" v="2.2-41-gec89ae9"/>
+  </changeset>
+  <changeset id="8902886" user="prabhasp" uid="350005" created_at="2011-08-02T17:02:17Z" closed_at="2011-08-02T17:17:05Z" open="false" min_lat="27.6221574" min_lon="85.2990291" max_lat="27.7517321" max_lon="85.3539982">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Naming places around Kathmandu"/>
+  </changeset>
+  <changeset id="8899932" user="prabhasp" uid="350005" created_at="2011-08-02T11:36:36Z" closed_at="2011-08-02T11:38:27Z" open="false" min_lat="27.6558694" min_lon="85.3019816" max_lat="27.7476506" max_lon="85.3679954">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Tracing roads all over Kathmandu."/>
+  </changeset>
+  <changeset id="8898752" user="prabhasp" uid="350005" created_at="2011-08-02T09:11:27Z" closed_at="2011-08-02T09:11:53Z" open="false" min_lat="27.6549891" min_lon="85.3107353" max_lat="27.7030888" max_lon="85.345583">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Traced some roads in Kathmandu; corrected Patan classifications (need help there)."/>
+  </changeset>
+  <changeset id="8879271" user="prabhasp" uid="350005" created_at="2011-07-31T09:57:35Z" closed_at="2011-07-31T09:57:38Z" open="false" min_lat="27.6905452" min_lon="85.3132889" max_lat="27.7085337" max_lon="85.3229742">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Added ADB"/>
+  </changeset>
+  <changeset id="8727932" user="prabhasp" uid="350005" created_at="2011-07-15T05:19:09Z" closed_at="2011-07-15T05:19:12Z" open="false" min_lat="27.7074411" min_lon="85.3398915" max_lat="27.7114085" max_lon="85.3458276">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Gaushala area."/>
+  </changeset>
+  <changeset id="8727896" user="prabhasp" uid="350005" created_at="2011-07-15T05:10:13Z" closed_at="2011-07-15T05:10:18Z" open="false" min_lat="27.7003505" min_lon="85.3218399" max_lat="27.7141753" max_lon="85.3452973">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="More restrictions."/>
+  </changeset>
+  <changeset id="8727877" user="prabhasp" uid="350005" created_at="2011-07-15T05:04:04Z" closed_at="2011-07-15T05:04:07Z" open="false" min_lat="27.6902099" min_lon="85.3355758" max_lat="27.7028257" max_lon="85.3407381">
+    <tag k="created_by" v="JOSM/1.5 (4223 en)"/>
+    <tag k="comment" v="Turn restrictions at Battisputali."/>
+  </changeset>
+  <changeset id="8712298" user="prabhasp" uid="350005" created_at="2011-07-13T12:42:15Z" closed_at="2011-07-13T12:42:19Z" open="false" min_lat="26.5600833" min_lon="88.0479135" max_lat="26.7212067" max_lon="88.0779584">
+    <tag k="created_by" v="JOSM/1.5 (4064 en)"/>
+    <tag k="comment" v="Jhapa edits."/>
+  </changeset>
+  <changeset id="8710128" user="prabhasp" uid="350005" created_at="2011-07-13T08:25:47Z" closed_at="2011-07-13T08:25:51Z" open="false" min_lat="27.6981758" min_lon="85.3198729" max_lat="27.7107981" max_lon="85.3524493">
+    <tag k="created_by" v="JOSM/1.5 (4064 en)"/>
+    <tag k="comment" v="Chandragadhi to Charali Area."/>
+  </changeset>
+  <changeset id="8709983" user="prabhasp" uid="350005" created_at="2011-07-13T08:09:20Z" closed_at="2011-07-13T08:09:32Z" open="false" min_lat="26.34644" min_lon="87.9273681" max_lat="26.8321467" max_lon="88.1785342">
+    <tag k="created_by" v="JOSM/1.5 (4064 en)"/>
+    <tag k="comment" v="BICC etc.: Is landuse:commercial appropriate for government-access only land?"/>
+  </changeset>
+  <changeset id="8644895" user="prabhasp" uid="350005" created_at="2011-07-06T04:37:50Z" closed_at="2011-07-06T04:37:53Z" open="false" min_lat="27.6784669" min_lon="85.3191428" max_lat="27.7026032" max_lon="85.3495223">
+    <tag k="created_by" v="JOSM/1.5 (4064 en)"/>
+    <tag k="comment" v="BICC etc.: Is landuse:commercial appropriate for government-access only land?"/>
+  </changeset>
+  <changeset id="8641009" user="prabhasp" uid="350005" created_at="2011-07-05T17:22:40Z" closed_at="2011-07-05T17:23:02Z" open="false" min_lat="27.6664096" min_lon="85.3122081" max_lat="27.7101611" max_lon="85.3453888">
+    <tag k="created_by" v="JOSM/1.5 (4064 en)"/>
+    <tag k="comment" v="Patan Durbar Square, and some ATMs."/>
+  </changeset>
+  <changeset id="8640211" user="prabhasp" uid="350005" created_at="2011-07-05T15:36:57Z" closed_at="2011-07-05T15:37:00Z" open="false" min_lat="27.6705084" min_lon="85.2743435" max_lat="27.7330012" max_lon="85.3668503">
+    <tag k="created_by" v="JOSM/1.5 (4064 en)"/>
+    <tag k="comment" v="Small roads in Kathmandu."/>
+  </changeset>
+  <changeset id="8640150" user="prabhasp" uid="350005" created_at="2011-07-05T15:30:31Z" closed_at="2011-07-05T15:31:04Z" open="false" min_lat="27.6853621" min_lon="85.327162" max_lat="27.709948" max_lon="85.3525778">
+    <tag k="created_by" v="JOSM/1.5 (4064 en)"/>
+    <tag k="comment" v="Singha Durbar"/>
+  </changeset>
+  <changeset id="8639912" user="prabhasp" uid="350005" created_at="2011-07-05T15:02:47Z" closed_at="2011-07-05T15:03:04Z" open="false" min_lat="27.6896694" min_lon="85.3189663" max_lat="27.7017124" max_lon="85.3295472">
+    <tag k="created_by" v="JOSM/1.5 (4064 en)"/>
+    <tag k="comment" v="Singha Durbar"/>
+  </changeset>
+  <changeset id="8639542" user="prabhasp" uid="350005" created_at="2011-07-05T14:20:12Z" closed_at="2011-07-05T15:27:47Z" open="false" min_lat="27.7028257" min_lon="85.3214905" max_lat="27.7103824" max_lon="85.3377642">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="That bridge is two-way!"/>
+    <tag k="version" v="2.2"/>
+    <tag k="build" v="2.2-11-g8f86250"/>
+  </changeset>
+  <changeset id="8625950" user="prabhasp" uid="350005" created_at="2011-07-04T05:59:14Z" closed_at="2011-07-04T06:17:35Z" open="false" min_lat="27.6941133" min_lon="85.311674" max_lat="27.7069907" max_lon="85.3516799">
+    <tag k="created_by" v="JOSM/1.5 (4064 en)"/>
+    <tag k="comment" v="Hanumanthan and Bhadrakali Area."/>
+  </changeset>
+  <changeset id="8625835" user="prabhasp" uid="350005" created_at="2011-07-04T05:33:51Z" closed_at="2011-07-04T05:33:54Z" open="false" min_lat="27.6827918" min_lon="85.3493984" max_lat="27.7062766" max_lon="85.3552537">
+    <tag k="created_by" v="JOSM/1.5 (4064 en)"/>
+    <tag k="comment" v="err. Fixing mistake in Chakrapath Motorway fixing...."/>
+  </changeset>
+</osm>

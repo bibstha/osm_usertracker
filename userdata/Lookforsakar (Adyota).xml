@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server">
+  <changeset id="13030973" user="Lookforsakar (Adyota)" uid="831564" created_at="2012-09-08T08:04:07Z" closed_at="2012-09-08T08:04:10Z" open="false" min_lat="27.7035706" min_lon="85.3224032" max_lat="27.7060676" max_lon="85.3337972">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Amenities Arround Dillibazaar area"/>
+  </changeset>
+  <changeset id="13030813" user="Lookforsakar (Adyota)" uid="831564" created_at="2012-09-08T07:39:53Z" closed_at="2012-09-08T07:39:55Z" open="false" min_lat="27.7036368" min_lon="85.3335497" max_lat="27.7036368" max_lon="85.3335497">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Banijya Bank"/>
+  </changeset>
+  <changeset id="13030805" user="Lookforsakar (Adyota)" uid="831564" created_at="2012-09-08T07:38:27Z" closed_at="2012-09-08T07:38:28Z" open="false" min_lat="27.7035319" min_lon="85.3339667" max_lat="27.7035319" max_lon="85.3339667">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Nabil Bank"/>
+  </changeset>
+  <changeset id="13030788" user="Lookforsakar (Adyota)" uid="831564" created_at="2012-09-08T07:36:54Z" closed_at="2012-09-08T07:36:56Z" open="false" min_lat="27.7038973" min_lon="85.3322874" max_lat="27.7039552" max_lon="85.3322982">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added some amenities"/>
+  </changeset>
+  <changeset id="13011676" user="Lookforsakar (Adyota)" uid="831564" created_at="2012-09-06T15:53:10Z" closed_at="2012-09-06T15:53:15Z" open="false" min_lat="27.6826919" min_lon="85.372401" max_lat="27.683449" max_lon="85.373463">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added SLC Parikshya Niyantran Karyalaya"/>
+  </changeset>
+  <changeset id="13011640" user="Lookforsakar (Adyota)" uid="831564" created_at="2012-09-06T15:50:42Z" closed_at="2012-09-06T15:50:47Z" open="false" min_lat="27.6622139" min_lon="85.363277" max_lat="27.6643056" max_lon="85.3683531">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Added Balkumari Balkot Road"/>
+  </changeset>
+  <changeset id="13011626" user="Lookforsakar (Adyota)" uid="831564" created_at="2012-09-06T15:49:17Z" closed_at="2012-09-06T15:49:21Z" open="false" min_lat="27.6661042" min_lon="85.4251552" max_lat="27.6661042" max_lon="85.4251552">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Newari Khaja Ghar"/>
+  </changeset>
+  <changeset id="12951340" user="Lookforsakar (Adyota)" uid="831564" created_at="2012-09-02T09:53:08Z" closed_at="2012-09-02T09:53:10Z" open="false" min_lat="27.6810507" min_lon="85.3664257" max_lat="27.6814898" max_lon="85.3670665">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added a School"/>
+  </changeset>
+  <changeset id="12951251" user="Lookforsakar (Adyota)" uid="831564" created_at="2012-09-02T09:45:13Z" closed_at="2012-09-02T09:45:14Z" open="false" min_lat="27.675257" min_lon="85.3566546" max_lat="27.675257" max_lon="85.3566546">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Fuel Station"/>
+  </changeset>
+  <changeset id="12951216" user="Lookforsakar (Adyota)" uid="831564" created_at="2012-09-02T09:42:24Z" closed_at="2012-09-02T09:42:29Z" open="false" min_lat="27.6739984" min_lon="85.3495319" max_lat="27.6908316" max_lon="85.3656395">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Bike Service Centres and Dealers arround Gyaneshwar"/>
+  </changeset>
+  <changeset id="12950406" user="Lookforsakar (Adyota)" uid="831564" created_at="2012-09-02T08:28:36Z" closed_at="2012-09-02T08:28:39Z" open="false" min_lat="27.7083174" min_lon="85.3335848" max_lat="27.7084247" max_lon="85.3337548">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Bike Service Centres and Dealers arround Gyaneshwar"/>
+  </changeset>
+  <changeset id="12950387" user="Lookforsakar (Adyota)" uid="831564" created_at="2012-09-02T08:27:19Z" closed_at="2012-09-02T08:27:22Z" open="false" min_lat="27.707898" min_lon="85.3325476" max_lat="27.7084488" max_lon="85.3331854">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Bike Service Centres and Dealers arround Gyaneshwar"/>
+  </changeset>
+  <changeset id="12939003" user="Lookforsakar (Adyota)" uid="831564" created_at="2012-09-01T06:56:09Z" closed_at="2012-09-01T06:56:13Z" open="false" min_lat="27.668248" min_lon="85.3565348" max_lat="27.6684012" max_lon="85.3568016">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+    <tag k="comment" v="Added Floating Resort"/>
+  </changeset>
+  <changeset id="12938788" user="Lookforsakar (Adyota)" uid="831564" created_at="2012-09-01T06:07:55Z" closed_at="2012-09-01T06:08:20Z" open="false" min_lat="27.6632243" min_lon="85.3262823" max_lat="27.7117104" max_lon="85.4096998">
+    <tag k="created_by" v="JOSM/1.5 (5356 en)"/>
+  </changeset>
+  <changeset id="12851699" user="Lookforsakar (Adyota)" uid="831564" created_at="2012-08-25T05:28:33Z" closed_at="2012-08-25T06:28:34Z" open="false" min_lat="27.672592" min_lon="85.3580939" max_lat="27.6726909" max_lon="85.3582121">
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-443-g151b833"/>
+    <tag k="version" v="2.3"/>
+  </changeset>
+</osm>
