@@ -1,23 +1,110 @@
 #! /usr/bin/env python
 # requres libraries requests lxml
 
-import requests, os, time, sys
+import requests, os, time, argparse, json
 from lxml import etree
-
-class Config:
-	ROOTPATH = "."
-	DEBUG = True
 
 def log(logString, debug=False):
 	if (not debug) or Config.DEBUG:
 		print(logString)
-	
+
+def parseArgs():
+	parser = argparse.ArgumentParser(description='Tool to download and parse OSM user statistics')
+	parser.add_argument('username', help='the username as in http://www.openstreetmap.org/user/xxxxx. Pass the xxxxx here.')
+	parser.add_argument('--update', action='store_true', help='Fetches updates for the user if previously cached.')
+
+	return parser.parse_args()
+
+
+class Config:
+	ROOTPATH = "."
+	DEBUG = False
+
+class FileDownloader:
+	_isLoaded = False
+	_dataFolder = "userdata"
+	_fileName = None
+	_url = None
+	_data = None
+
+	def __init__(self, fileName, url, dataFolder = None):
+		if (dataFolder):
+			self._dataFolder = dataFolder
+		self._fileName = fileName
+		self._url = url
+
+	def fetchURL(self):
+		r = requests.get(self._url)
+		return r
+
+	def writeFile(self, str):
+		dataPath = self._dataFolder + "/" + self._fileName
+		f = open(dataPath, "w")
+		f.write(str)
+		f.close()
+
+	def readFileData(self):
+		dataPath = self._dataFolder + "/" + self._fileName
+		if os.path.exists(dataPath):
+			f = open(dataPath, "r")
+			self._data = f.read()
+			self._isLoaded = True
+
+	def download(self):
+		dataPath = self._dataFolder + "/" + self._fileName
+		if not os.path.exists(dataPath):
+			log(dataPath + " does not exist, downloading it.")
+			r = self.fetchURL()
+			if r.status_code == 200:
+				self.writeFile(r.text.encode('utf-8'))
+				self._data = r.text.encode('utf-8')
+				self._isLoaded = True
+		else:
+			log(dataPath + " already exists, skipping download.", debug=True)
+			self.readFileData()
+
+	def isLoaded(self):
+		return self._isLoaded
+
+	def getData(self):
+		return self._data
+
+
+class UserChangeFile(FileDownloader):
+	_fileName = None
+	_dataFolder = "userdata/changesets"
+	_urlTemplate = "http://api.openstreetmap.org/api/0.6/changeset/{0}/download"
+	_url = None
+
+	def __init__(self, changesetId):
+		self._fileName = changesetId + ".xml"
+		self._url = self._urlTemplate.format(changesetId)
+
+
+class UserFile(FileDownloader):
+	_name = None
+	_user = None
+	_urlTemplate = "http://api.openstreetmap.org/api/0.6/changesets?display_name={0}"
+
+	def __init__(self, name, update=False):
+		self._name = name
+		self._url = self._urlTemplate.format(name)
+		self._fileName = name + ".xml"
+
 class User:
-	_changesetDataString = ''
-	_changesetXmlRoot = ''
-	_uid = ''
-	_user = ''
+	_changesetDataString = None
+	_changesetXmlRoot = None
+	_uid = None
+	_user = None
+	_userFile = None
 	
+	def __init__(self, userFile):
+		self._userFile = userFile
+
+	def loadChangeset(self):
+		self._userFile.download()
+		self.loadChangesetFromString(self._userFile.getData())
+
 	def loadChangesetFromString(self, dataString):
 		self._changesetXmlRoot = etree.fromstring(dataString)
 
@@ -43,22 +130,22 @@ class User:
 			changesetIdList.append(changesetElement.get('id'))
 		return changesetIdList
 
-	def printData(self):
+	def calculateUserData(self):
 		userData = {}
 
 		# organize by date
 		for changesetElement in self._changesetXmlRoot: # considering the data is generated date wize
-			createdAtDateStr = changesetElement.get("created_at")
 			createdAtDate = time.strptime(changesetElement.get("created_at"), "%Y-%m-%dT%H:%M:%SZ")
-			createdAtDateOnlyStr = time.strftime('%Y-%m-%d', createdAtDate)
+			createdAtDateStr = time.strftime('%Y-%m-%d', createdAtDate)
 			
-			if not userData.has_key(createdAtDateOnlyStr):
-				userData[createdAtDateOnlyStr] = {}
+			# consider dates are sorted, same dates are together, so the reset to 0 means new date
+			if not userData.has_key(createdAtDateStr):
+				userData[createdAtDateStr] = {}
 				createCount = {'node':0, 'relation':0, 'way':0}
 				modifyCount = {'node':0, 'relation':0, 'way':0}
 			
 			changeFile = UserChangeFile(changesetElement.get("id"))
-			changeFile.loadFileData()
+			changeFile.readFileData()
 			changeFileXmlRoot = etree.fromstring(changeFile.getData())
 			
 			g = lambda x:x.get('id')
@@ -72,7 +159,7 @@ class User:
 			modify['way'] = map(g, changeFileXmlRoot.xpath('/osmChange/modify/way'))
 			modify['relation'] = map(g, changeFileXmlRoot.xpath('/osmChange/modify/relation'))
 
-			userData[createdAtDateOnlyStr][changesetElement.get("id")] = {'create':create, 'modify':modify}
+			userData[createdAtDateStr][changesetElement.get("id")] = {'create':create, 'modify':modify}
 
 			createCount['node'] = createCount['node'] + len(create['node'])
 			createCount['way'] += len(create['way'])
@@ -82,113 +169,77 @@ class User:
 			modifyCount['way'] += len(modify['way'])
 			modifyCount['relation'] += len(modify['relation'])
 
-			userData[createdAtDateOnlyStr]['createCount'] = createCount
-			userData[createdAtDateOnlyStr]['modifyCount'] = modifyCount
+			userData[createdAtDateStr]['createCount'] = createCount
+			userData[createdAtDateStr]['modifyCount'] = modifyCount
+
+		return userData
+
+	def printData(self):
+		userData = self.calculateUserData()
 
 		for day in sorted(userData.keys()):
 			print day
 			print "CreateCount ::", userData[day]['createCount']
 			print "ModifyCount ::", userData[day]['modifyCount']
 
-class FileDownloader:
-	_isLoaded = False
-	_dataFolder = "userdata"
-	_fileName = ""
-	_url = ""
-	_data = ""
+	def updateChangesetFromString(self, updatedXmlStr):
+		needsUpdate = False
+		updatedXmlRoot = etree.fromstring(updatedXmlStr)
+		oldChangesetId = 0 if len(self._changesetXmlRoot) == 0 else int(self._changesetXmlRoot[0].get('id'))
 
-	def __init__(self, fileName, url, dataFolder = None):
-		if (dataFolder):
-			self._dataFolder = dataFolder
-		self._fileName = fileName
-		self._url = url
+		# may be the comparison needs to be done by date?
+		# we assume the topmost item is always the latest one
+		if ( len(updatedXmlRoot) > 0 and int(updatedXmlRoot[0].get('id')) > oldChangesetId ):
+			needsUpdate = True
 
-	def download(self):
-		dataPath = self._dataFolder + "/" + self._fileName
-		if not os.path.exists(dataPath):
-			log(dataPath + " does not exist. Downloading")
-			r = requests.get(self._url)
-			if r.status_code == 200:
-				f = open(dataPath, "w")
-				f.write(r.text.encode('utf-8'))
-				f.close()
-				self._data = r.text.encode('utf-8')
-				self._isLoaded = True
-		else:
-			self.loadFileData()
+			# combine each element from the beginning of our main XmlRoot
+			pos = 0
+			for changesetXmlElement in updatedXmlRoot:
+				if int(changesetXmlElement.get('id')) > oldChangesetId:
+					self._changesetXmlRoot.insert(pos, changesetXmlElement)
+					pos = pos + 1
 
-	def loadFileData(self):
-		dataPath = self._dataFolder + "/" + self._fileName
-		if os.path.exists(dataPath):
-			f = open(dataPath, "r")
-			self._data = f.read()
-			self._isLoaded = True
+		return needsUpdate
 
-	def isLoaded(self):
-		return self._isLoaded
+	def updateChangeset(self):
+		#print self.getChangesetIdList(), len(self.getChangesetIdList())
+		r = self._userFile.fetchURL()
+		self.updateChangesetFromString(r.text.encode('utf-8'))	
+		# print self.getChangesetIdList(), len(self.getChangesetIdList())
 
-	def getData(self):
-		return self._data
-
-
-class UserChangeFile(FileDownloader):
-	_fileName = ""
-	_dataFolder = "userdata/changesets"
-	_urlTemplate = "http://api.openstreetmap.org/api/0.6/changeset/{0}/download"
-	_url = ""
-
-	def __init__(self, changesetId):
-		self._fileName = changesetId + ".xml"
-		self._url = self._urlTemplate.format(changesetId)
-
-
-
-class UserFile(FileDownloader):
-	_name = ''
-	_user = ''
-	_urlTemplate = "http://api.openstreetmap.org/api/0.6/changesets?display_name={0}"
-
-	def __init__(self, name, update=False):
-		self._name = name
-		self._url = self._urlTemplate.format(name)
-		self._fileName = name + ".xml"
-
-	def loadData(self):
-		self.download()
-
-	def loadChangesetData(self):
-		if self._isLoaded:
-			self._user = User()
-			self._user.loadChangesetFromString(self._data)
-			self._user.loadValuesFromChangeset()
-			print "UserId :", self._user._uid
-			print "UserName :", self._user._user
-			changesetIdList = self._user.getChangesetIdList()
-			for changesetId in changesetIdList:
-				changesetFile = UserChangeFile(changesetId)
-				changesetFile.download()
-
-	def updateData(self):
-		if self._isLoaded:
-			pass
-
-	def printData(self):
-		self._user.printData()
-
-	
+	def saveChangeset(self):
+		self._userFile.writeFile(etree.tostring(self._changesetXmlRoot, pretty_print=True, xml_declaration=True, encoding='utf-8'))
 
 def main():
-	if len(sys.argv) < 2:
-		print "Usage: usertracker.py osm_username"
-		exit(-1)
+	args = parseArgs()
+	username = args.username
+	updateUserFile = args.update
 
-	username = sys.argv[1]
 	log("Downloading data for {0}".format(username))
 
 	userFile = UserFile(username)
-	userFile.loadData()
-	userFile.loadChangesetData()
-	userFile.printData()
+	user = User(userFile)
+	user.loadChangeset() # loads the main user changeset file
+	
+	# uncomment the following lines if you want to update the userfile
+	if updateUserFile:
+		user.updateChangeset()
+		user.saveChangeset()
+	
+	user.loadValuesFromChangeset() # loads individual changeset xmls from changeset list
+
+	print "UserId :", user._uid
+	print "UserName :", user._user
+
+	changesetIdList = user.getChangesetIdList()
+	for changesetId in changesetIdList:
+		changesetFile = UserChangeFile(changesetId)
+		changesetFile.download()
+
+	user.printData()
+	userData = user.calculateUserData()
+	print json.dumps(userData, sort_keys=True, indent=4)
+
 
 if __name__ == '__main__':
 	main()

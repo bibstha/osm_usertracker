@@ -1,5 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <osm version="0.6" generator="OpenStreetMap server">
+  <changeset id="13078755" user="saese (adyota)" uid="685891" created_at="2012-09-12T07:09:15Z" closed_at="2012-09-12T08:09:25Z" open="false" min_lat="27.6730068" min_lon="85.3374292" max_lat="27.6816957" max_lon="85.3502949">
+    <tag k="version" v="2.3"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="alignments"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+  </changeset>
+  <changeset id="13078654" user="saese (adyota)" uid="685891" created_at="2012-09-12T06:54:46Z" closed_at="2012-09-12T07:54:47Z" open="false" min_lat="27.6864705" min_lon="85.3467201" max_lat="27.6868583" max_lon="85.3469844">
+    <tag k="version" v="2.3"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="removed 0s from house numbers"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+  </changeset>
+  <changeset id="13076423" user="saese (adyota)" uid="685891" created_at="2012-09-11T22:44:59Z" closed_at="2012-09-11T23:48:22Z" open="false" min_lat="27.6826617" min_lon="85.3453225" max_lat="27.6883561" max_lon="85.349455">
+    <tag k="version" v="2.3"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="house number 0 removed"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+  </changeset>
+  <changeset id="13075468" user="saese (adyota)" uid="685891" created_at="2012-09-11T20:59:11Z" closed_at="2012-09-11T21:59:13Z" open="false" min_lat="27.7003881" min_lon="85.323365" max_lat="27.7056888" max_lon="85.3277786">
+    <tag k="version" v="2.3"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="roads connected"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+  </changeset>
+  <changeset id="13075393" user="saese (adyota)" uid="685891" created_at="2012-09-11T20:54:15Z" closed_at="2012-09-11T20:54:22Z" open="false" min_lat="27.6999755" min_lon="85.3203747" max_lat="27.7074011" max_lon="85.3255461">
+    <tag k="created_by" v="JOSM/1.5 (5485 en)"/>
+    <tag k="comment" v="misc updates, road assignments"/>
+  </changeset>
+  <changeset id="13074915" user="saese (adyota)" uid="685891" created_at="2012-09-11T20:19:21Z" closed_at="2012-09-11T21:19:22Z" open="false" min_lat="27.6853731" min_lon="85.3457566" max_lat="27.6856865" max_lon="85.3461512">
+    <tag k="version" v="2.3"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="house edits"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+  </changeset>
+  <changeset id="13065365" user="saese (adyota)" uid="685891" created_at="2012-09-11T07:02:01Z" closed_at="2012-09-11T08:02:25Z" open="false" min_lat="27.7028295" min_lon="85.3355616" max_lat="27.7121994" max_lon="85.3411463">
+    <tag k="version" v="2.3"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="minor edits"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+  </changeset>
+  <changeset id="13065352" user="saese (adyota)" uid="685891" created_at="2012-09-11T06:59:59Z" closed_at="2012-09-11T08:00:00Z" open="false" min_lat="27.7088576" min_lon="85.3482639" max_lat="27.7096339" max_lon="85.3485439">
+    <tag k="version" v="2.3"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="arya ghat added/edited"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+  </changeset>
+  <changeset id="13065296" user="saese (adyota)" uid="685891" created_at="2012-09-11T06:50:56Z" closed_at="2012-09-11T07:50:57Z" open="false" min_lat="27.6912792" min_lon="85.3644541" max_lat="27.6923017" max_lon="85.3652937">
+    <tag k="version" v="2.3"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="minor edit"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+  </changeset>
+  <changeset id="13065286" user="saese (adyota)" uid="685891" created_at="2012-09-11T06:49:15Z" closed_at="2012-09-11T07:49:16Z" open="false" min_lat="27.6886138" min_lon="85.3416127" max_lat="27.688712" max_lon="85.3417296">
+    <tag k="version" v="2.3"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="minor edit"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+  </changeset>
+  <changeset id="13065260" user="saese (adyota)" uid="685891" created_at="2012-09-11T06:43:14Z" closed_at="2012-09-11T07:43:15Z" open="false" min_lat="27.695448" min_lon="85.3426044" max_lat="27.695631" max_lon="85.3428274">
+    <tag k="version" v="2.3"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.3-446-gf5ffc13"/>
+    <tag k="comment" v="edited tags of roshan joshi's residence. put building=house"/>
+  </changeset>
   <changeset id="13063287" user="saese (adyota)" uid="685891" created_at="2012-09-10T22:20:06Z" closed_at="2012-09-10T23:22:55Z" open="false" min_lat="27.6571917" min_lon="85.3052139" max_lat="27.7107863" max_lon="85.359747">
     <tag k="created_by" v="Potlatch 2"/>
     <tag k="comment" v="koteshwor edits"/>
